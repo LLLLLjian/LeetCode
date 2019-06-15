@@ -13,8 +13,8 @@
     <b>Last updated: 2019-06-15 11:39:56</b>
     <br>
 </p>
-| # | Title | Solutions | Acceptance | Difficulty | Tags |/n  
-|:--:|:-----|:---------:|:----:|:----:|:----:|/n  
-|1160|Letter Tile Possibilitiespaid_onlyis_favorarticle_live|solutions|ac_rate|difficulty|tags_en|/n  
-|1159|Smallest Subsequence of Distinct Characterspaid_onlyis_favorarticle_live|solutions|ac_rate|difficulty|tags_en|/n  
-|1157|Insufficient Nodes in Root to Leaf Pathspaid_onlyis_favorarticle_live|solutions|ac_rate|difficulty|tags_en|/n  
+| # | Title | Solutions | Acceptance | Difficulty | Tags |  
+|:--:|:-----|:---------:|:----:|:----:|:----:|  
+|1160|Letter Tile Possibilitiespaid_onlyis_favorarticle_live|solutions|ac_rate|difficulty|tags_en|  
+|1159|Smallest Subsequence of Distinct Characterspaid_onlyis_favorarticle_live|solutions|ac_rate|difficulty|tags_en|  
+|1157|Insufficient Nodes in Root to Leaf Pathspaid_onlyis_favorarticle_live|solutions|ac_rate|difficulty|tags_en|
