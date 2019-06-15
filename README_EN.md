@@ -13,6 +13,7 @@
     <b>Last updated: 2019-06-15 11:39:56</b>
     <br>
 </p>
+
 | # | Title | Solutions | Acceptance | Difficulty | Tags |
 |:--:|:-----|:---------:|:----:|:----:|:----:|
 |1054|[Distant Barcodes](Problemset/distant-barcodes/README_EN.md)|[Python](Problemset/distant-barcodes/distant-barcodes.py)|24.7%|medium|[Heap](https://leetcode-cn.com/tag/heap)<br>[Sort](https://leetcode-cn.com/tag/sort)|
