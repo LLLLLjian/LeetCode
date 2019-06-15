@@ -17,12 +17,6 @@
 | # | Title | Solutions | Acceptance | Difficulty | Tags |
 |:--:|:-----|:---------:|:----:|:----:|:----:|
 |1054|[Distant Barcodes](Problemset/distant-barcodes/README_EN.md)|[Python](Problemset/distant-barcodes/distant-barcodes.py)|24.7%|medium|[Heap](https://leetcode-cn.com/tag/heap)<br>[Sort](https://leetcode-cn.com/tag/sort)|
-25
 |1053|[Previous Permutation With One Swap](Problemset/previous-permutation-with-one-swap/README_EN.md)|[Python](Problemset/previous-permutation-with-one-swap/previous-permutation-with-one-swap.py)|38.1%|medium|[Greedy](https://leetcode-cn.com/tag/greedy)<br>[Array](https://leetcode-cn.com/tag/array)|
-26
 |1052|[Grumpy Bookstore Owner](Problemset/grumpy-bookstore-owner/README_EN.md)|[Python](Problemset/grumpy-bookstore-owner/grumpy-bookstore-owner.py)|39.1%|medium|[Array](https://leetcode-cn.com/tag/array)<br>[Sliding Window](https://leetcode-cn.com/tag/sliding-window)|
-@KivenCkl
-2019-6-5
-Jun 5, 2019
-27
 |1051|[Height Checker](Problemset/height-checker/README_EN.md)|[Python](Problemset/height-checker/height-checker.py)|69.0%|easy|[Array](https://leetcode-cn.com/tag/array)|
