@@ -14,9 +14,7 @@
     <br>
 </p>
 | # | Title | Solutions | Acceptance | Difficulty | Tags |&nbsp;&nbsp;
-
 |:--:|:-----|:---------:|:----:|:----:|:----:|&nbsp;&nbsp;
-
 |1160|Letter Tile Possibilitiespaid_onlyis_favorarticle_live|solutions|ac_rate|difficulty|tags_en|&nbsp;&nbsp;
 |1159|Smallest Subsequence of Distinct Characterspaid_onlyis_favorarticle_live|solutions|ac_rate|difficulty|tags_en|&nbsp;&nbsp;
 |1157|Insufficient Nodes in Root to Leaf Pathspaid_onlyis_favorarticle_live|solutions|ac_rate|difficulty|tags_en|&nbsp;&nbsp;
