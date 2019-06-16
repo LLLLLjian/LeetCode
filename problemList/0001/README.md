@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0001. 两数之和](https://leetcode-cn.com/problems/two-sum/)
 ## 题目描述
 <p>给定一个整数数组 <code>nums</code>&nbsp;和一个目标值 <code>target</code>，请你在该数组中找出和为目标值的那&nbsp;<strong>两个</strong>&nbsp;整数，并返回他们的数组下标。</p>
@@ -18,9 +18,9 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [三数之和](../3sum/README.md)
-- [四数之和](../4sum/README.md)
-- [两数之和 II - 输入有序数组](../two-sum-ii-input-array-is-sorted/README.md)
-- [两数之和 III - 数据结构设计](../two-sum-iii-data-structure-design/README.md)
-- [和为K的子数组](../subarray-sum-equals-k/README.md)
-- [两数之和 IV - 输入 BST](../two-sum-iv-input-is-a-bst/README.md)
+- [三数之和](../0015/README.md)
+- [四数之和](../0018/README.md)
+- [两数之和 II - 输入有序数组](../0167/README.md)
+- [两数之和 III - 数据结构设计](../0170/README.md)
+- [和为K的子数组](../0560/README.md)
+- [两数之和 IV - 输入 BST](../0653/README.md)
