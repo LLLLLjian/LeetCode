@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0552. 学生出勤记录 II](https://leetcode-cn.com/problems/student-attendance-record-ii/)
 ## 题目描述
 <p>给定一个正整数&nbsp;<strong>n</strong>，返回长度为 n 的所有可被视为可奖励的出勤记录的数量。 答案可能非常大，你只需返回结果mod 10<sup>9</sup> + 7的值。</p>
@@ -29,4 +29,4 @@
 ## 相关话题
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [学生出勤记录 I](../student-attendance-record-i/README.md)
+- [学生出勤记录 I](../0551/README.md)

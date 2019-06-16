@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
 ## 题目描述
 <p>颠倒给定的 32 位无符号整数的二进制位。</p>
@@ -37,5 +37,5 @@
 ## 相关话题
 - [位运算](https://leetcode-cn.com/tag/bit-manipulation)
 ## 相似题目
-- [整数反转](../reverse-integer/README.md)
-- [位1的个数](../number-of-1-bits/README.md)
+- [整数反转](../0007/README.md)
+- [位1的个数](../0191/README.md)

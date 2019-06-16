@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0812. Largest Triangle Area](https://leetcode-cn.com/problems/largest-triangle-area/)
 ## Description
 <p>You have a list of points in the plane. Return the area of the largest triangle that can be formed by any 3 of the points.</p>
@@ -28,4 +28,4 @@ The five points are show in the figure below. The red triangle is the largest.
 ## Related Topics
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Largest Perimeter Triangle](../largest-perimeter-triangle/README_EN.md)
+- [Largest Perimeter Triangle](../0976/README_EN.md)

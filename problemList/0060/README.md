@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0060. 第k个排列](https://leetcode-cn.com/problems/permutation-sequence/)
 ## 题目描述
 <p>给出集合&nbsp;<code>[1,2,3,&hellip;,<em>n</em>]</code>，其所有元素共有&nbsp;<em>n</em>! 种排列。</p>
@@ -40,5 +40,5 @@
 - [数学](https://leetcode-cn.com/tag/math)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [下一个排列](../next-permutation/README.md)
-- [全排列](../permutations/README.md)
+- [下一个排列](../0031/README.md)
+- [全排列](../0046/README.md)

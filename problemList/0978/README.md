@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0978. 最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/)
 ## 题目描述
 <p>当 <code>A</code>&nbsp;的子数组&nbsp;<code>A[i], A[i+1], ..., A[j]</code>&nbsp;满足下列条件时，我们称其为<em>湍流子数组</em>：</p>
@@ -48,4 +48,4 @@
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 - [None](https://leetcode-cn.com/tag/sliding-window)
 ## 相似题目
-- [最大子序和](../maximum-subarray/README.md)
+- [最大子序和](../0053/README.md)

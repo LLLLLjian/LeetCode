@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
 ## 题目描述
 <p>数组的每个索引做为一个阶梯，第&nbsp;<code>i</code>个阶梯对应着一个非负数的体力花费值&nbsp;<code>cost[i]</code>(索引从0开始)。</p>
@@ -35,4 +35,4 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [爬楼梯](../climbing-stairs/README.md)
+- [爬楼梯](../0070/README.md)

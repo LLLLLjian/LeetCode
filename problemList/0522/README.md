@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0522. 最长特殊序列 II](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii/)
 ## 题目描述
 <p>给定字符串列表，你需要从它们中找出最长的特殊序列。最长特殊序列定义如下：该序列为某字符串独有的最长子序列（即不能是其他字符串的子序列）。</p>
@@ -30,4 +30,4 @@
 ## 相关话题
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [最长特殊序列 Ⅰ](../longest-uncommon-subsequence-i/README.md)
+- [最长特殊序列 Ⅰ](../0521/README.md)

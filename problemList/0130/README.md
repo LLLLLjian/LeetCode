@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)
 ## 题目描述
 <p>给定一个二维的矩阵，包含&nbsp;<code>&#39;X&#39;</code>&nbsp;和&nbsp;<code>&#39;O&#39;</code>（<strong>字母 O</strong>）。</p>
@@ -31,5 +31,5 @@ X O X X
 - [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search)
 - [并查集](https://leetcode-cn.com/tag/union-find)
 ## 相似题目
-- [岛屿数量](../number-of-islands/README.md)
-- [墙与门](../walls-and-gates/README.md)
+- [岛屿数量](../0200/README.md)
+- [墙与门](../0286/README.md)

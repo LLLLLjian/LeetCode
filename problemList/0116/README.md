@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
 ## 题目描述
 <p>给定一个<strong>完美二叉树</strong>，其所有叶子节点都在同一层，每个父节点都有两个子节点。二叉树定义如下：</p>
@@ -41,5 +41,5 @@
 - [树](https://leetcode-cn.com/tag/tree)
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 ## 相似题目
-- [填充每个节点的下一个右侧节点指针 II](../populating-next-right-pointers-in-each-node-ii/README.md)
-- [二叉树的右视图](../binary-tree-right-side-view/README.md)
+- [填充每个节点的下一个右侧节点指针 II](../0117/README.md)
+- [二叉树的右视图](../0199/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0730. Count Different Palindromic Subsequences](https://leetcode-cn.com/problems/count-different-palindromic-subsequences/)
 ## Description
 <p>
@@ -41,4 +41,4 @@ There are 3104860382 different non-empty palindromic subsequences, which is 1048
 - [String](https://leetcode-cn.com/tag/string)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Longest Palindromic Subsequence](../longest-palindromic-subsequence/README_EN.md)
+- [Longest Palindromic Subsequence](../0516/README_EN.md)

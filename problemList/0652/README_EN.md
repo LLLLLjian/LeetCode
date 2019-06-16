@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0652. Find Duplicate Subtrees](https://leetcode-cn.com/problems/find-duplicate-subtrees/)
 ## Description
 <p>Given a binary tree, return all duplicate subtrees. For each kind of duplicate subtrees, you only need to return the root node of any <b>one</b> of them.</p>
@@ -35,6 +35,6 @@ Therefore, you need to return above trees&#39; root in the form of a list.
 ## Related Topics
 - [Tree](https://leetcode-cn.com/tag/tree)
 ## Similar Questions
-- [Serialize and Deserialize Binary Tree](../serialize-and-deserialize-binary-tree/README_EN.md)
-- [Serialize and Deserialize BST](../serialize-and-deserialize-bst/README_EN.md)
-- [Construct String from Binary Tree](../construct-string-from-binary-tree/README_EN.md)
+- [Serialize and Deserialize Binary Tree](../0297/README_EN.md)
+- [Serialize and Deserialize BST](../0449/README_EN.md)
+- [Construct String from Binary Tree](../0606/README_EN.md)

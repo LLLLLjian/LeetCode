@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0069. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)
 ## Description
 <p>Implement <code>int sqrt(int x)</code>.</p>
@@ -28,5 +28,5 @@
 - [Math](https://leetcode-cn.com/tag/math)
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Pow(x, n)](../powx-n/README_EN.md)
-- [Valid Perfect Square](../valid-perfect-square/README_EN.md)
+- [Pow(x, n)](../0050/README_EN.md)
+- [Valid Perfect Square](../0367/README_EN.md)

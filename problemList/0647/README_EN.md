@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0647. Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/)
 ## Description
 <p>Given a string, your task is to count how many palindromic substrings in this string.</p>
@@ -38,6 +38,6 @@
 - [String](https://leetcode-cn.com/tag/string)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Longest Palindromic Substring](../longest-palindromic-substring/README_EN.md)
-- [Longest Palindromic Subsequence](../longest-palindromic-subsequence/README_EN.md)
-- [Palindromic Substrings](../palindromic-substrings/README_EN.md)
+- [Longest Palindromic Substring](../0005/README_EN.md)
+- [Longest Palindromic Subsequence](../0516/README_EN.md)
+- [Palindromic Substrings](../0647/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0152. Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)
 ## Description
 <p>Given an integer array&nbsp;<code>nums</code>, find the contiguous subarray within an array (containing at least one number) which has the largest product.</p>
@@ -23,8 +23,8 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Maximum Subarray](../maximum-subarray/README_EN.md)
-- [House Robber](../house-robber/README_EN.md)
-- [Product of Array Except Self](../product-of-array-except-self/README_EN.md)
-- [Maximum Product of Three Numbers](../maximum-product-of-three-numbers/README_EN.md)
-- [Subarray Product Less Than K](../subarray-product-less-than-k/README_EN.md)
+- [Maximum Subarray](../0053/README_EN.md)
+- [House Robber](../0198/README_EN.md)
+- [Product of Array Except Self](../0238/README_EN.md)
+- [Maximum Product of Three Numbers](../0628/README_EN.md)
+- [Subarray Product Less Than K](../0713/README_EN.md)

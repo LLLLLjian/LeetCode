@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0088. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
 ## 题目描述
 <p>给定两个有序整数数组&nbsp;<em>nums1 </em>和 <em>nums2</em>，将 <em>nums2 </em>合并到&nbsp;<em>nums1&nbsp;</em>中<em>，</em>使得&nbsp;<em>num1 </em>成为一个有序数组。</p>
@@ -23,6 +23,6 @@ nums2 = [2,5,6],       n = 3
 - [数组](https://leetcode-cn.com/tag/array)
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 ## 相似题目
-- [合并两个有序链表](../merge-two-sorted-lists/README.md)
-- [有序数组的平方](../squares-of-a-sorted-array/README.md)
-- [区间列表的交集](../interval-list-intersections/README.md)
+- [合并两个有序链表](../0021/README.md)
+- [有序数组的平方](../0977/README.md)
+- [区间列表的交集](../0986/README.md)

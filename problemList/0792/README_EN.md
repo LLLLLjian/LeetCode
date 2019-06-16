@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0792. Number of Matching Subsequences](https://leetcode-cn.com/problems/number-of-matching-subsequences/)
 ## Description
 <p>Given string <code>S</code> and a&nbsp;dictionary of words <code>words</code>, find the number of <code>words[i]</code> that is a subsequence of <code>S</code>.</p>
@@ -25,4 +25,4 @@ words = [&quot;a&quot;, &quot;bb&quot;, &quot;acd&quot;, &quot;ace&quot;]
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Is Subsequence](../is-subsequence/README_EN.md)
+- [Is Subsequence](../0392/README_EN.md)

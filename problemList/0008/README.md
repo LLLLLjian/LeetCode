@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0008. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
 ## 题目描述
 <p>请你来实现一个&nbsp;<code>atoi</code>&nbsp;函数，使其能将字符串转换成整数。</p>
@@ -58,5 +58,5 @@
 - [数学](https://leetcode-cn.com/tag/math)
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [整数反转](../reverse-integer/README.md)
-- [有效数字](../valid-number/README.md)
+- [整数反转](../0007/README.md)
+- [有效数字](../0065/README.md)

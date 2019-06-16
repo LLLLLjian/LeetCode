@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0622. 设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)
 ## 题目描述
 <p>设计你的循环队列实现。 循环队列是一种线性数据结构，其操作表现基于 FIFO（先进先出）原则并且队尾被连接在队首之后以形成一个循环。它也被称为&ldquo;环形缓冲器&rdquo;。</p>
@@ -57,4 +57,4 @@ circularQueue.Rear(); &nbsp;// 返回 4
 - [设计](https://leetcode-cn.com/tag/design)
 - [队列](https://leetcode-cn.com/tag/queue)
 ## 相似题目
-- [设计循环双端队列](../design-circular-deque/README.md)
+- [设计循环双端队列](../0641/README.md)

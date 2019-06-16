@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0028. Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/)
 ## Description
 <p>Implement <a href="http://www.cplusplus.com/reference/cstring/strstr/" target="_blank">strStr()</a>.</p>
@@ -30,5 +30,5 @@
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Shortest Palindrome](../shortest-palindrome/README_EN.md)
-- [Repeated Substring Pattern](../repeated-substring-pattern/README_EN.md)
+- [Shortest Palindrome](../0214/README_EN.md)
+- [Repeated Substring Pattern](../0459/README_EN.md)

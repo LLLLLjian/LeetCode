@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)
 ## 题目描述
 <p>给定一个二维矩阵，计算其子矩形范围内元素的总和，该子矩阵的左上角为 (<em>row</em>1,&nbsp;<em>col</em>1) ，右下角为 (<em>row</em>2,&nbsp;<em>col</em>2)。</p>
@@ -33,5 +33,5 @@ sumRegion(1, 2, 2, 4) -&gt; 12
 ## 相关话题
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [区域和检索 - 数组不可变](../range-sum-query-immutable/README.md)
-- [二维区域和检索 - 可变](../range-sum-query-2d-mutable/README.md)
+- [区域和检索 - 数组不可变](../0303/README.md)
+- [二维区域和检索 - 可变](../0308/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0715. Range Module](https://leetcode-cn.com/problems/range-module/)
 ## Description
 <p>A Range Module is a module that tracks ranges of numbers. Your task is to design and implement the following interfaces in an efficient manner.</p>
@@ -33,6 +33,6 @@
 - [Segment Tree](https://leetcode-cn.com/tag/segment-tree)
 - [Ordered Map](https://leetcode-cn.com/tag/ordered-map)
 ## Similar Questions
-- [Merge Intervals](../merge-intervals/README_EN.md)
-- [Insert Interval](../insert-interval/README_EN.md)
-- [Data Stream as Disjoint Intervals](../data-stream-as-disjoint-intervals/README_EN.md)
+- [Merge Intervals](../0056/README_EN.md)
+- [Insert Interval](../0057/README_EN.md)
+- [Data Stream as Disjoint Intervals](../0352/README_EN.md)

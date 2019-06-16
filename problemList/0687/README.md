@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0687. 最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/)
 ## 题目描述
 <p>给定一个二叉树，找到最长的路径，这个路径中的每个节点具有相同值。 这条路径可以经过也可以不经过根节点。</p>
@@ -48,6 +48,6 @@
 - [树](https://leetcode-cn.com/tag/tree)
 - [递归](https://leetcode-cn.com/tag/recursion)
 ## 相似题目
-- [二叉树中的最大路径和](../binary-tree-maximum-path-sum/README.md)
-- [统计同值子树](../count-univalue-subtrees/README.md)
-- [路径总和 III](../path-sum-iii/README.md)
+- [二叉树中的最大路径和](../0124/README.md)
+- [统计同值子树](../0250/README.md)
+- [路径总和 III](../0437/README.md)

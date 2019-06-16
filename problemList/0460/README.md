@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0460. LFU缓存](https://leetcode-cn.com/problems/lfu-cache/)
 ## 题目描述
 <p>设计并实现<a href="https://baike.baidu.com/item/%E7%BC%93%E5%AD%98%E7%AE%97%E6%B3%95">最不经常使用（LFU）</a>缓存的数据结构。它应该支持以下操作：<code>get</code>&nbsp;和&nbsp;<code>put</code>。</p>
@@ -29,5 +29,5 @@ cache.get(4);       // 返回 4</pre>
 ## 相关话题
 - [设计](https://leetcode-cn.com/tag/design)
 ## 相似题目
-- [LRU缓存机制](../lru-cache/README.md)
-- [设计内存文件系统](../design-in-memory-file-system/README.md)
+- [LRU缓存机制](../0146/README.md)
+- [设计内存文件系统](../0588/README.md)

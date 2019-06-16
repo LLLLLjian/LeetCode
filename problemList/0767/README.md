@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0767. 重构字符串](https://leetcode-cn.com/problems/reorganize-string/)
 ## 题目描述
 <p>给定一个字符串<code>S</code>，检查是否能重新排布其中的字母，使得两相邻的字符不同。</p>
@@ -32,5 +32,5 @@
 - [排序](https://leetcode-cn.com/tag/sort)
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [K 距离间隔重排字符串](../rearrange-string-k-distance-apart/README.md)
-- [任务调度器](../task-scheduler/README.md)
+- [K 距离间隔重排字符串](../0358/README.md)
+- [任务调度器](../0621/README.md)

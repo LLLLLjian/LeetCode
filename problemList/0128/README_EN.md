@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0128. Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
 ## Description
 <p>Given an unsorted array of integers, find the length of the longest consecutive elements sequence.</p>
@@ -18,4 +18,4 @@
 - [Union Find](https://leetcode-cn.com/tag/union-find)
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Binary Tree Longest Consecutive Sequence](../binary-tree-longest-consecutive-sequence/README_EN.md)
+- [Binary Tree Longest Consecutive Sequence](../0298/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0978. Longest Turbulent Subarray](https://leetcode-cn.com/problems/longest-turbulent-subarray/)
 ## Description
 <p>A subarray <code>A[i], A[i+1], ..., A[j]</code>&nbsp;of <code>A</code> is said to be <em>turbulent</em> if and only if:</p>
@@ -56,4 +56,4 @@
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 - [Sliding Window](https://leetcode-cn.com/tag/sliding-window)
 ## Similar Questions
-- [Maximum Subarray](../maximum-subarray/README_EN.md)
+- [Maximum Subarray](../0053/README_EN.md)

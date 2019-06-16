@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0383. 赎金信](https://leetcode-cn.com/problems/ransom-note/)
 ## 题目描述
 <p>给定一个赎金信 (ransom) 字符串和一个杂志(magazine)字符串，判断第一个字符串ransom能不能由第二个字符串magazines里面的字符构成。如果可以构成，返回 true ；否则返回 false。</p>
@@ -19,4 +19,4 @@ canConstruct(&quot;aa&quot;, &quot;aab&quot;) -&gt; true
 ## 相关话题
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [贴纸拼词](../stickers-to-spell-word/README.md)
+- [贴纸拼词](../0691/README.md)

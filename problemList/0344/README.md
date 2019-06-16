@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)
 ## 题目描述
 <p>编写一个函数，其作用是将输入的字符串反转过来。输入字符串以字符数组 <code>char[]</code> 的形式给出。</p>
@@ -25,5 +25,5 @@
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [反转字符串中的元音字母](../reverse-vowels-of-a-string/README.md)
-- [反转字符串 II](../reverse-string-ii/README.md)
+- [反转字符串中的元音字母](../0345/README.md)
+- [反转字符串 II](../0541/README.md)

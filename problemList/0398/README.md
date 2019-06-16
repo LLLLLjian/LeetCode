@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0398. 随机数索引](https://leetcode-cn.com/problems/random-pick-index/)
 ## 题目描述
 <p>给定一个可能含有重复元素的整数数组，要求随机输出给定的数字的索引。 您可以假设给定的数字一定存在于数组中。</p>
@@ -23,6 +23,6 @@ solution.pick(1);
 ## 相关话题
 - [蓄水池抽样](https://leetcode-cn.com/tag/reservoir-sampling)
 ## 相似题目
-- [链表随机节点](../linked-list-random-node/README.md)
-- [黑名单中的随机数](../random-pick-with-blacklist/README.md)
-- [按权重随机选择](../random-pick-with-weight/README.md)
+- [链表随机节点](../0382/README.md)
+- [黑名单中的随机数](../0710/README.md)
+- [按权重随机选择](../0528/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0552. Student Attendance Record II](https://leetcode-cn.com/problems/student-attendance-record-ii/)
 ## Description
 <p>Given a positive integer <b>n</b>, return the number of all possible attendance records with length n, which will be regarded as rewardable. The answer may be very large, return it after mod 10<sup>9</sup> + 7.</p>
@@ -37,4 +37,4 @@ The value of <b>n</b> won't exceed 100,000.
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Student Attendance Record I](../student-attendance-record-i/README_EN.md)
+- [Student Attendance Record I](../0551/README_EN.md)

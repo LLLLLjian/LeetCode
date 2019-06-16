@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0155. 最小栈](https://leetcode-cn.com/problems/min-stack/)
 ## 题目描述
 <p>设计一个支持 push，pop，top 操作，并能在常数时间内检索到最小元素的栈。</p>
@@ -27,5 +27,5 @@ minStack.getMin();   --&gt; 返回 -2.
 - [栈](https://leetcode-cn.com/tag/stack)
 - [设计](https://leetcode-cn.com/tag/design)
 ## 相似题目
-- [滑动窗口最大值](../sliding-window-maximum/README.md)
-- [最大栈](../max-stack/README.md)
+- [滑动窗口最大值](../0239/README.md)
+- [最大栈](../0716/README.md)

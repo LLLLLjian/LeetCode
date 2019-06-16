@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0345. 反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)
 ## 题目描述
 <p>编写一个函数，以字符串作为输入，反转该字符串中的元音字母。</p>
@@ -22,4 +22,4 @@
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [反转字符串](../reverse-string/README.md)
+- [反转字符串](../0344/README.md)

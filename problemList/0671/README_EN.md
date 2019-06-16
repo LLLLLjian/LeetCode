@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0671. Second Minimum Node In a Binary Tree](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/)
 ## Description
 <p>Given a non-empty special binary tree consisting of nodes with the non-negative value, where each node in this tree has exactly <code>two</code> or <code>zero</code> sub-node. If the node has two sub-nodes, then this node&#39;s value is the smaller value among its two sub-nodes. More formally, the property&nbsp;<code>root.val = min(root.left.val, root.right.val)</code>&nbsp;always holds.</p>
@@ -41,4 +41,4 @@
 ## Related Topics
 - [Tree](https://leetcode-cn.com/tag/tree)
 ## Similar Questions
-- [Kth Smallest Element in a BST](../kth-smallest-element-in-a-bst/README_EN.md)
+- [Kth Smallest Element in a BST](../0230/README_EN.md)

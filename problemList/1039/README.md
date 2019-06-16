@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [1039. 多边形三角剖分的最低得分](https://leetcode-cn.com/problems/minimum-score-triangulation-of-polygon/)
 ## 题目描述
 <p>给定&nbsp;<code>N</code>，想象一个凸&nbsp;<code>N</code>&nbsp;边多边形，其顶点按顺时针顺序依次标记为&nbsp;<code>A[0], A[i], ..., A[N-1]</code>。</p>

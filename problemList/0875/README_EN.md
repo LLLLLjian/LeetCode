@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0875. Koko Eating Bananas](https://leetcode-cn.com/problems/koko-eating-bananas/)
 ## Description
 <p>Koko loves to eat bananas.&nbsp; There are <code>N</code>&nbsp;piles of bananas, the <code>i</code>-th&nbsp;pile has <code>piles[i]</code> bananas.&nbsp; The guards have gone and will come back in <code>H</code> hours.</p>
@@ -55,4 +55,4 @@
 ## Related Topics
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Minimize Max Distance to Gas Station](../minimize-max-distance-to-gas-station/README_EN.md)
+- [Minimize Max Distance to Gas Station](../0774/README_EN.md)

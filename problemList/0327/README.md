@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0327. 区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/)
 ## 题目描述
 <p>给定一个整数数组&nbsp;<code>nums</code>，返回区间和在&nbsp;<code>[lower, upper]</code>&nbsp;之间的个数，包含&nbsp;<code>lower</code>&nbsp;和&nbsp;<code>upper</code>。<br>
@@ -22,5 +22,5 @@
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 - [分治算法](https://leetcode-cn.com/tag/divide-and-conquer)
 ## 相似题目
-- [计算右侧小于当前元素的个数](../count-of-smaller-numbers-after-self/README.md)
-- [翻转对](../reverse-pairs/README.md)
+- [计算右侧小于当前元素的个数](../0315/README.md)
+- [翻转对](../0493/README.md)

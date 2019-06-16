@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/)
 ## 题目描述
 <p>给定一个非负索引&nbsp;<em>k</em>，其中 <em>k</em>&nbsp;&le;&nbsp;33，返回杨辉三角的第 <em>k </em>行。</p>
@@ -21,4 +21,4 @@
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [杨辉三角](../pascals-triangle/README.md)
+- [杨辉三角](../0118/README.md)

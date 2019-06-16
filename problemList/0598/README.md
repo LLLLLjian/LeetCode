@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0598. 范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/)
 ## 题目描述
 <p>给定一个初始元素全部为&nbsp;<strong>0</strong>，大小为 m*n 的矩阵&nbsp;<strong>M&nbsp;</strong>以及在&nbsp;<strong>M&nbsp;</strong>上的一系列更新操作。</p>
@@ -45,4 +45,4 @@ M 中最大的整数是 2, 而且 M 中有4个值为2的元素。因此返回 4�
 ## 相关话题
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [区间加法](../range-addition/README.md)
+- [区间加法](../0370/README.md)

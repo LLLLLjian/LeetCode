@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0688. “马”在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard/)
 ## 题目描述
 <p>已知一个&nbsp;<code>N</code>x<code>N</code>&nbsp;的国际象棋棋盘，棋盘的行号和列号都是从 0 开始。即最左上角的格子记为&nbsp;<code>(0, 0)</code>，最右下角的记为&nbsp;<code>(N-1, N-1)</code>。&nbsp;</p>
@@ -43,4 +43,4 @@
 ## 相关话题
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [出界的路径数](../out-of-boundary-paths/README.md)
+- [出界的路径数](../0576/README.md)

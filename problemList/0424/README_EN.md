@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0424. Longest Repeating Character Replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)
 ## Description
 <p>Given a string that consists of only uppercase English letters, you can replace any letter in the string with another letter at most <i>k</i> times. Find the length of a longest substring containing all repeating letters you can get after performing the above operations.</p>
@@ -40,5 +40,5 @@ The substring "BBBB" has the longest repeating letters, which is 4.
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 - [Sliding Window](https://leetcode-cn.com/tag/sliding-window)
 ## Similar Questions
-- [Longest Substring with At Most K Distinct Characters](../longest-substring-with-at-most-k-distinct-characters/README_EN.md)
-- [Max Consecutive Ones III](../max-consecutive-ones-iii/README_EN.md)
+- [Longest Substring with At Most K Distinct Characters](../0340/README_EN.md)
+- [Max Consecutive Ones III](../1004/README_EN.md)

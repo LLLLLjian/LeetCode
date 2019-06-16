@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0015. 3Sum](https://leetcode-cn.com/problems/3sum/)
 ## Description
 <p>Given an array <code>nums</code> of <em>n</em> integers, are there elements <em>a</em>, <em>b</em>, <em>c</em> in <code>nums</code> such that <em>a</em> + <em>b</em> + <em>c</em> = 0? Find all unique triplets in the array which gives the sum of zero.</p>
@@ -24,7 +24,7 @@ A solution set is:
 - [Array](https://leetcode-cn.com/tag/array)
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 ## Similar Questions
-- [Two Sum](../two-sum/README_EN.md)
-- [3Sum Closest](../3sum-closest/README_EN.md)
-- [4Sum](../4sum/README_EN.md)
-- [3Sum Smaller](../3sum-smaller/README_EN.md)
+- [Two Sum](../0001/README_EN.md)
+- [3Sum Closest](../0016/README_EN.md)
+- [4Sum](../0018/README_EN.md)
+- [3Sum Smaller](../0259/README_EN.md)

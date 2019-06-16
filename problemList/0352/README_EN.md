@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0352. Data Stream as Disjoint Intervals](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/)
 ## Description
 <p>Given a data stream input of non-negative integers a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>, ..., summarize the numbers seen so far as a list of disjoint intervals.</p>
@@ -23,6 +23,6 @@ What if there are lots of merges and the number of disjoint intervals are small 
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 - [Ordered Map](https://leetcode-cn.com/tag/ordered-map)
 ## Similar Questions
-- [Summary Ranges](../summary-ranges/README_EN.md)
-- [Find Right Interval](../find-right-interval/README_EN.md)
-- [Range Module](../range-module/README_EN.md)
+- [Summary Ranges](../0228/README_EN.md)
+- [Find Right Interval](../0436/README_EN.md)
+- [Range Module](../0715/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0699. Falling Squares](https://leetcode-cn.com/problems/falling-squares/)
 ## Description
 <p>On an infinite number line (x-axis), we drop given squares in the order they are given.</p>
@@ -54,4 +54,4 @@
 - [Segment Tree](https://leetcode-cn.com/tag/segment-tree)
 - [Ordered Map](https://leetcode-cn.com/tag/ordered-map)
 ## Similar Questions
-- [The Skyline Problem](../the-skyline-problem/README_EN.md)
+- [The Skyline Problem](../0218/README_EN.md)

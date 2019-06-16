@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0696. Count Binary Substrings](https://leetcode-cn.com/problems/count-binary-substrings/)
 ## Description
 <p>Give a string <code>s</code>, count the number of non-empty (contiguous) substrings that have the same number of 0's and 1's, and all the 0's and all the 1's in these substrings are grouped consecutively. 
@@ -31,4 +31,4 @@
 ## Related Topics
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Encode and Decode Strings](../encode-and-decode-strings/README_EN.md)
+- [Encode and Decode Strings](../0271/README_EN.md)

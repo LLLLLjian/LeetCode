@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0724. Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)
 ## Description
 <p>Given an array of integers <code>nums</code>, write a method that returns the &quot;pivot&quot; index of this array.</p>
@@ -45,4 +45,4 @@ There is no index that satisfies the conditions in the problem statement.
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Subarray Sum Equals K](../subarray-sum-equals-k/README_EN.md)
+- [Subarray Sum Equals K](../0560/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0878. 第 N 个神奇数字](https://leetcode-cn.com/problems/nth-magical-number/)
 ## 题目描述
 <p>如果正整数可以被 A 或 B 整除，那么它是神奇的。</p>

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0434. Number of Segments in a String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)
 ## Description
 <p>Count the number of segments in a string, where a segment is defined to be a contiguous sequence of non-space characters.</p>

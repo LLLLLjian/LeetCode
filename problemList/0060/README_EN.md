@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0060. Permutation Sequence](https://leetcode-cn.com/problems/permutation-sequence/)
 ## Description
 <p>The set <code>[1,2,3,...,<em>n</em>]</code> contains a total of <em>n</em>! unique permutations.</p>
@@ -42,5 +42,5 @@
 - [Math](https://leetcode-cn.com/tag/math)
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Next Permutation](../next-permutation/README_EN.md)
-- [Permutations](../permutations/README_EN.md)
+- [Next Permutation](../0031/README_EN.md)
+- [Permutations](../0046/README_EN.md)

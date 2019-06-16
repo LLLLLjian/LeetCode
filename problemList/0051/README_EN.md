@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0051. N-Queens](https://leetcode-cn.com/problems/n-queens/)
 ## Description
 <p>The <em>n</em>-queens puzzle is the problem of placing <em>n</em> queens on an <em>n</em>&times;<em>n</em> chessboard such that no two queens attack each other.</p>
@@ -31,5 +31,5 @@
 ## Related Topics
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [N-Queens II](../n-queens-ii/README_EN.md)
-- [Grid Illumination](../grid-illumination/README_EN.md)
+- [N-Queens II](../0052/README_EN.md)
+- [Grid Illumination](../1001/README_EN.md)

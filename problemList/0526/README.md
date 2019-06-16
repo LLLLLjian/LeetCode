@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0526. 优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/)
 ## 题目描述
 <p>假设有从 1 到 N 的&nbsp;<strong>N&nbsp;</strong>个整数，如果从这&nbsp;<strong>N&nbsp;</strong>个数字中成功构造出一个数组，使得数组的第 <strong>i</strong>&nbsp;位 (1 &lt;= i &lt;= N) 满足如下两个条件中的一个，我们就称这个数组为一个优美的排列。条件：</p>
@@ -36,4 +36,4 @@
 ## 相关话题
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [优美的排列 II](../beautiful-arrangement-ii/README.md)
+- [优美的排列 II](../0667/README.md)

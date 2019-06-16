@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0198. House Robber](https://leetcode-cn.com/problems/house-robber/)
 ## Description
 <p>You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security system connected and <b>it will automatically contact the police if two adjacent houses were broken into on the same night</b>.</p>
@@ -26,11 +26,11 @@
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Maximum Product Subarray](../maximum-product-subarray/README_EN.md)
-- [House Robber II](../house-robber-ii/README_EN.md)
-- [Paint House](../paint-house/README_EN.md)
-- [Paint Fence](../paint-fence/README_EN.md)
-- [House Robber III](../house-robber-iii/README_EN.md)
-- [Non-negative Integers without Consecutive Ones](../non-negative-integers-without-consecutive-ones/README_EN.md)
-- [Coin Path](../coin-path/README_EN.md)
-- [Delete and Earn](../delete-and-earn/README_EN.md)
+- [Maximum Product Subarray](../0152/README_EN.md)
+- [House Robber II](../0213/README_EN.md)
+- [Paint House](../0256/README_EN.md)
+- [Paint Fence](../0276/README_EN.md)
+- [House Robber III](../0337/README_EN.md)
+- [Non-negative Integers without Consecutive Ones](../0600/README_EN.md)
+- [Coin Path](../0656/README_EN.md)
+- [Delete and Earn](../0740/README_EN.md)

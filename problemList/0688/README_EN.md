@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0688. Knight Probability in Chessboard](https://leetcode-cn.com/problems/knight-probability-in-chessboard/)
 ## Description
 <p>On an <code>N</code>x<code>N</code> chessboard, a knight starts at the <code>r</code>-th row and <code>c</code>-th column and attempts to make exactly <code>K</code> moves. The rows and columns are 0 indexed, so the top-left square is <code>(0, 0)</code>, and the bottom-right square is <code>(N-1, N-1)</code>.</p>
@@ -41,4 +41,4 @@ The total probability the knight stays on the board is 0.0625.
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Out of Boundary Paths](../out-of-boundary-paths/README_EN.md)
+- [Out of Boundary Paths](../0576/README_EN.md)

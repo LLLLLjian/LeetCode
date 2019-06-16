@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0385. 迷你语法分析器](https://leetcode-cn.com/problems/mini-parser/)
 ## 题目描述
 <p>给定一个用字符串表示的整数的嵌套列表，实现一个解析它的语法分析器。</p>
@@ -46,6 +46,6 @@
 - [栈](https://leetcode-cn.com/tag/stack)
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [扁平化嵌套列表迭代器](../flatten-nested-list-iterator/README.md)
-- [三元表达式解析器](../ternary-expression-parser/README.md)
-- [删除注释](../remove-comments/README.md)
+- [扁平化嵌套列表迭代器](../0341/README.md)
+- [三元表达式解析器](../0439/README.md)
+- [删除注释](../0722/README.md)

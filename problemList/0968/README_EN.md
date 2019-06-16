@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0968. Binary Tree Cameras](https://leetcode-cn.com/problems/binary-tree-cameras/)
 ## Description
 <p>Given a binary tree, we install cameras on the nodes of the tree.&nbsp;</p>
@@ -43,4 +43,4 @@
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Distribute Coins in Binary Tree](../distribute-coins-in-binary-tree/README_EN.md)
+- [Distribute Coins in Binary Tree](../0979/README_EN.md)

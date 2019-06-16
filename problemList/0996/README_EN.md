@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0996. Number of Squareful Arrays](https://leetcode-cn.com/problems/number-of-squareful-arrays/)
 ## Description
 <p>Given an array <code>A</code> of non-negative integers, the array is <em>squareful</em> if for every pair of adjacent elements, their sum is a perfect square.</p>
@@ -37,4 +37,4 @@
 - [Math](https://leetcode-cn.com/tag/math)
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Permutations II](../permutations-ii/README_EN.md)
+- [Permutations II](../0047/README_EN.md)

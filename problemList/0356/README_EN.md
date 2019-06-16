@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0356. Line Reflection](https://leetcode-cn.com/problems/line-reflection/)
 ## Description
 None
@@ -7,5 +7,5 @@ None
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Max Points on a Line](../max-points-on-a-line/README_EN.md)
-- [Number of Boomerangs](../number-of-boomerangs/README_EN.md)
+- [Max Points on a Line](../0149/README_EN.md)
+- [Number of Boomerangs](../0447/README_EN.md)

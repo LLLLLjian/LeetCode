@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0008. String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
 ## Description
 <p>Implement <code><span>atoi</span></code> which&nbsp;converts a string to an integer.</p>
@@ -63,5 +63,5 @@
 - [Math](https://leetcode-cn.com/tag/math)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Reverse Integer](../reverse-integer/README_EN.md)
-- [Valid Number](../valid-number/README_EN.md)
+- [Reverse Integer](../0007/README_EN.md)
+- [Valid Number](../0065/README_EN.md)

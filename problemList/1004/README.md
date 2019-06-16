@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)
 ## 题目描述
 <p>给定一个由若干 <code>0</code> 和 <code>1</code> 组成的数组&nbsp;<code>A</code>，我们最多可以将&nbsp;<code>K</code>&nbsp;个值从 0 变成 1 。</p>
@@ -38,7 +38,7 @@
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 - [None](https://leetcode-cn.com/tag/sliding-window)
 ## 相似题目
-- [至多包含 K 个不同字符的最长子串](../longest-substring-with-at-most-k-distinct-characters/README.md)
-- [替换后的最长重复字符](../longest-repeating-character-replacement/README.md)
-- [最大连续1的个数](../max-consecutive-ones/README.md)
-- [最大连续1的个数 II](../max-consecutive-ones-ii/README.md)
+- [至多包含 K 个不同字符的最长子串](../0340/README.md)
+- [替换后的最长重复字符](../0424/README.md)
+- [最大连续1的个数](../0485/README.md)
+- [最大连续1的个数 II](../0487/README.md)

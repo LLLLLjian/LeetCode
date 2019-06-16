@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0257. Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/)
 ## Description
 <p>Given a binary tree, return all root-to-leaf paths.</p>
@@ -25,5 +25,5 @@
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 ## Similar Questions
-- [Path Sum II](../path-sum-ii/README_EN.md)
-- [Smallest String Starting From Leaf](../smallest-string-starting-from-leaf/README_EN.md)
+- [Path Sum II](../0113/README_EN.md)
+- [Smallest String Starting From Leaf](../0988/README_EN.md)

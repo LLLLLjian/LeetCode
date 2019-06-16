@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0077. Combinations](https://leetcode-cn.com/problems/combinations/)
 ## Description
 <p>Given two integers <em>n</em> and <em>k</em>, return all possible combinations of <em>k</em> numbers out of 1 ... <em>n</em>.</p>
@@ -22,5 +22,5 @@
 ## Related Topics
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Combination Sum](../combination-sum/README_EN.md)
-- [Permutations](../permutations/README_EN.md)
+- [Combination Sum](../0039/README_EN.md)
+- [Permutations](../0046/README_EN.md)

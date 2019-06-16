@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0494. Target Sum](https://leetcode-cn.com/problems/target-sum/)
 ## Description
 <p>
@@ -36,4 +36,4 @@ There are 5 ways to assign symbols to make the sum of nums be target 3.
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Expression Add Operators](../expression-add-operators/README_EN.md)
+- [Expression Add Operators](../0282/README_EN.md)

@@ -1,17 +1,17 @@
-stat.question_id:777
-stat.question__article__live:None
-stat.question__article__slug:None
-stat.question__title:Toeplitz Matrix
-stat.question__title_slug:toeplitz-matrix
-stat.question__hide:False
-stat.total_acs:5655
-stat.total_submitted:9500
-stat.total_column_articles:2
-stat.frontend_question_id:766
-stat.is_new_question:False
-status:None
-difficulty.level:1
-paid_only:False
-is_favor:False
-frequency:0
-progress:0
+stat.question_id:777  
+stat.question__article__live:None  
+stat.question__article__slug:None  
+stat.question__title:Toeplitz Matrix  
+stat.question__title_slug:toeplitz-matrix  
+stat.question__hide:False  
+stat.total_acs:5662  
+stat.total_submitted:9511  
+stat.total_column_articles:3  
+stat.frontend_question_id:766  
+stat.is_new_question:False  
+status:None  
+difficulty.level:1  
+paid_only:False  
+is_favor:False  
+frequency:0  
+progress:0  

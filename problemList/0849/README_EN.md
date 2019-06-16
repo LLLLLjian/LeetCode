@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0849. Maximize Distance to Closest Person](https://leetcode-cn.com/problems/maximize-distance-to-closest-person/)
 ## Description
 <p>In a row of <code>seats</code>, <code>1</code> represents a person sitting in that seat, and <code>0</code> represents that the seat is empty.&nbsp;</p>
@@ -44,4 +44,4 @@ This is the maximum distance possible, so the answer is 3.
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Exam Room](../exam-room/README_EN.md)
+- [Exam Room](../0855/README_EN.md)

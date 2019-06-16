@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0994. 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)
 ## 题目描述
 <p>在给定的网格中，每个单元格可以有以下三个值之一：</p>
@@ -51,4 +51,4 @@
 ## 相关话题
 - [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search)
 ## 相似题目
-- [墙与门](../walls-and-gates/README.md)
+- [墙与门](../0286/README.md)

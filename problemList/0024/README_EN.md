@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0024. Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 ## Description
 <p>Given a&nbsp;linked list, swap every two adjacent nodes and return its head.</p>
@@ -17,4 +17,4 @@ Given <code>1-&gt;2-&gt;3-&gt;4</code>, you should return the list as <code>2-&g
 ## Related Topics
 - [Linked List](https://leetcode-cn.com/tag/linked-list)
 ## Similar Questions
-- [Reverse Nodes in k-Group](../reverse-nodes-in-k-group/README_EN.md)
+- [Reverse Nodes in k-Group](../0025/README_EN.md)

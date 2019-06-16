@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0997. 找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge/)
 ## 题目描述
 <p>在一个小镇里，按从 <code>1</code> 到 <code>N</code> 标记了&nbsp;<code>N</code> 个人。传言称，这些人中有一个是小镇上的秘密法官。</p>
@@ -62,4 +62,4 @@
 ## 相关话题
 - [图](https://leetcode-cn.com/tag/graph)
 ## 相似题目
-- [搜寻名人](../find-the-celebrity/README.md)
+- [搜寻名人](../0277/README.md)

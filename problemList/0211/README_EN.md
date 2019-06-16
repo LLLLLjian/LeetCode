@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0211. Add and Search Word - Data structure design](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)
 ## Description
 <p>Design a data structure that supports the following two operations:</p>
@@ -31,5 +31,5 @@ You may assume that all words are consist of lowercase letters <code>a-z</code>.
 - [Trie](https://leetcode-cn.com/tag/trie)
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Implement Trie (Prefix Tree)](../implement-trie-prefix-tree/README_EN.md)
-- [Prefix and Suffix Search](../prefix-and-suffix-search/README_EN.md)
+- [Implement Trie (Prefix Tree)](../0208/README_EN.md)
+- [Prefix and Suffix Search](../0745/README_EN.md)

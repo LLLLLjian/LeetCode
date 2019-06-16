@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1004. Max Consecutive Ones III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)
 ## Description
 <p>Given an array <code>A</code>&nbsp;of 0s and 1s, we may change up to <code>K</code>&nbsp;values from 0 to 1.</p>
@@ -45,7 +45,7 @@ Bolded numbers were flipped from 0 to 1.  The longest subarray is underlined.
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 - [Sliding Window](https://leetcode-cn.com/tag/sliding-window)
 ## Similar Questions
-- [Longest Substring with At Most K Distinct Characters](../longest-substring-with-at-most-k-distinct-characters/README_EN.md)
-- [Longest Repeating Character Replacement](../longest-repeating-character-replacement/README_EN.md)
-- [Max Consecutive Ones](../max-consecutive-ones/README_EN.md)
-- [Max Consecutive Ones II](../max-consecutive-ones-ii/README_EN.md)
+- [Longest Substring with At Most K Distinct Characters](../0340/README_EN.md)
+- [Longest Repeating Character Replacement](../0424/README_EN.md)
+- [Max Consecutive Ones](../0485/README_EN.md)
+- [Max Consecutive Ones II](../0487/README_EN.md)

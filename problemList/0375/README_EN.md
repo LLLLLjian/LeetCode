@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0375. Guess Number Higher or Lower II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/)
 ## Description
 <p>We are playing the Guess Game. The game is as follows:</p>
@@ -29,7 +29,7 @@ You end up paying $5 + $7 + $9 = $21.
 - [Minimax](https://leetcode-cn.com/tag/minimax)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Flip Game II](../flip-game-ii/README_EN.md)
-- [Guess Number Higher or Lower](../guess-number-higher-or-lower/README_EN.md)
-- [Can I Win](../can-i-win/README_EN.md)
-- [Find K Closest Elements](../find-k-closest-elements/README_EN.md)
+- [Flip Game II](../0294/README_EN.md)
+- [Guess Number Higher or Lower](../0374/README_EN.md)
+- [Can I Win](../0464/README_EN.md)
+- [Find K Closest Elements](../0658/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [1035. 不相交的线](https://leetcode-cn.com/problems/uncrossed-lines/)
 ## 题目描述
 <p>我们在两条独立的水平线上按给定的顺序写下&nbsp;<code>A</code>&nbsp;和&nbsp;<code>B</code>&nbsp;中的整数。</p>
@@ -46,4 +46,4 @@
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [编辑距离](../edit-distance/README.md)
+- [编辑距离](../0072/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0992. Subarrays with K Different Integers](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/)
 ## Description
 <p>Given an array <code>A</code> of positive integers, call a (contiguous, not necessarily distinct) subarray of <code>A</code> <em>good</em> if the number of different integers in that subarray is exactly <code>K</code>.</p>
@@ -40,6 +40,6 @@
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 - [Sliding Window](https://leetcode-cn.com/tag/sliding-window)
 ## Similar Questions
-- [Longest Substring Without Repeating Characters](../longest-substring-without-repeating-characters/README_EN.md)
-- [Longest Substring with At Most Two Distinct Characters](../longest-substring-with-at-most-two-distinct-characters/README_EN.md)
-- [Longest Substring with At Most K Distinct Characters](../longest-substring-with-at-most-k-distinct-characters/README_EN.md)
+- [Longest Substring Without Repeating Characters](../0003/README_EN.md)
+- [Longest Substring with At Most Two Distinct Characters](../0159/README_EN.md)
+- [Longest Substring with At Most K Distinct Characters](../0340/README_EN.md)

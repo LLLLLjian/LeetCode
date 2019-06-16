@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0292. Nim 游戏](https://leetcode-cn.com/problems/nim-game/)
 ## 题目描述
 <p>你和你的朋友，两个人一起玩&nbsp;<a href="https://baike.baidu.com/item/Nim游戏/6737105" target="_blank">Nim 游戏</a>：桌子上有一堆石头，每次你们轮流拿掉&nbsp;1 - 3 块石头。 拿掉最后一块石头的人就是获胜者。你作为先手。</p>
@@ -18,4 +18,4 @@
 - [脑筋急转弯](https://leetcode-cn.com/tag/brainteaser)
 - [极小化极大](https://leetcode-cn.com/tag/minimax)
 ## 相似题目
-- [翻转游戏 II](../flip-game-ii/README.md)
+- [翻转游戏 II](../0294/README.md)

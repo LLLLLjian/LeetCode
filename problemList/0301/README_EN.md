@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0301. Remove Invalid Parentheses](https://leetcode-cn.com/problems/remove-invalid-parentheses/)
 ## Description
 <p>Remove the minimum number of invalid parentheses in order to make the input string valid. Return all possible results.</p>
@@ -30,4 +30,4 @@
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 - [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search)
 ## Similar Questions
-- [Valid Parentheses](../valid-parentheses/README_EN.md)
+- [Valid Parentheses](../0020/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0035. Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)
 ## Description
 <p>Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.</p>
@@ -38,4 +38,4 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [First Bad Version](../first-bad-version/README_EN.md)
+- [First Bad Version](../0278/README_EN.md)

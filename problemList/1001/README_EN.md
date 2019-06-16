@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1001. Grid Illumination](https://leetcode-cn.com/problems/grid-illumination/)
 ## Description
 <p>On a <code>N x N</code> grid of cells, each cell <code>(x, y)</code> with <code>0 &lt;= x &lt; N</code> and <code>0 &lt;= y &lt; N</code> has a lamp.</p>
@@ -49,4 +49,4 @@ Before performing the second query we have only the lamp [4,4] on.  Now the quer
 ## Related Topics
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [N-Queens](../n-queens/README_EN.md)
+- [N-Queens](../0051/README_EN.md)

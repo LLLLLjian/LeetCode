@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0547. Friend Circles](https://leetcode-cn.com/problems/friend-circles/)
 ## Description
 <p>
@@ -44,7 +44,7 @@ Given a <b>N*N</b> matrix <b>M</b> representing the friend relationship between 
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 - [Union Find](https://leetcode-cn.com/tag/union-find)
 ## Similar Questions
-- [Number of Connected Components in an Undirected Graph](../number-of-connected-components-in-an-undirected-graph/README_EN.md)
-- [Robot Return to Origin](../robot-return-to-origin/README_EN.md)
-- [Sentence Similarity](../sentence-similarity/README_EN.md)
-- [Sentence Similarity II](../sentence-similarity-ii/README_EN.md)
+- [Number of Connected Components in an Undirected Graph](../0323/README_EN.md)
+- [Robot Return to Origin](../0657/README_EN.md)
+- [Sentence Similarity](../0734/README_EN.md)
+- [Sentence Similarity II](../0737/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1000. Minimum Cost to Merge Stones](https://leetcode-cn.com/problems/minimum-cost-to-merge-stones/)
 ## Description
 <p>There are <code>N</code> piles of stones arranged in a row.&nbsp; The <code>i</code>-th pile has <code>stones[i]</code> stones.</p>
@@ -61,4 +61,4 @@ The total cost was 25, and this is the minimum possible.
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Burst Balloons](../burst-balloons/README_EN.md)
+- [Burst Balloons](../0312/README_EN.md)

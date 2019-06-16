@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0327. Count of Range Sum](https://leetcode-cn.com/problems/count-of-range-sum/)
 ## Description
 <p>Given an integer array <code>nums</code>, return the number of range sums that lie in <code>[lower, upper]</code> inclusive.<br />
@@ -22,5 +22,5 @@ A naive algorithm of <i>O</i>(<i>n</i><sup>2</sup>) is trivial. You MUST do bett
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 - [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)
 ## Similar Questions
-- [Count of Smaller Numbers After Self](../count-of-smaller-numbers-after-self/README_EN.md)
-- [Reverse Pairs](../reverse-pairs/README_EN.md)
+- [Count of Smaller Numbers After Self](../0315/README_EN.md)
+- [Reverse Pairs](../0493/README_EN.md)

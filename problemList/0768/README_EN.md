@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0768. Max Chunks To Make Sorted II](https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii/)
 ## Description
 <p><em>This question is the same as &quot;Max Chunks to Make Sorted&quot; except the integers of the given array are not necessarily distinct, the input array could be up to length <code>2000</code>, and the elements could be up to <code>10**8</code>.</em></p>
@@ -42,4 +42,4 @@ However, splitting into [2, 1], [3], [4], [4] is the highest number of chunks po
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Max Chunks To Make Sorted](../max-chunks-to-make-sorted/README_EN.md)
+- [Max Chunks To Make Sorted](../0769/README_EN.md)

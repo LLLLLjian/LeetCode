@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0940. Distinct Subsequences II](https://leetcode-cn.com/problems/distinct-subsequences-ii/)
 ## Description
 <p>Given a string <code>S</code>, count the number of distinct, non-empty subsequences of <code>S</code> .</p>

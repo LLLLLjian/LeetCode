@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0740. 删除与获得点数](https://leetcode-cn.com/problems/delete-and-earn/)
 ## 题目描述
 <p>给定一个整数数组&nbsp;<code>nums</code>&nbsp;，你可以对它进行一些操作。</p>
@@ -39,4 +39,4 @@
 ## 相关话题
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [打家劫舍](../house-robber/README.md)
+- [打家劫舍](../0198/README.md)

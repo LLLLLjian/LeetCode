@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0233. Number of Digit One](https://leetcode-cn.com/problems/number-of-digit-one/)
 ## Description
 <p>Given an integer n, count the total number of digit 1 appearing in all non-negative integers less than or equal to n.</p>
@@ -15,5 +15,5 @@
 ## Related Topics
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Factorial Trailing Zeroes](../factorial-trailing-zeroes/README_EN.md)
-- [Digit Count in Range](../digit-count-in-range/README_EN.md)
+- [Factorial Trailing Zeroes](../0172/README_EN.md)
+- [Digit Count in Range](../1067/README_EN.md)

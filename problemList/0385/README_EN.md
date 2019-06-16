@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0385. Mini Parser](https://leetcode-cn.com/problems/mini-parser/)
 ## Description
 <p>Given a nested list of integers represented as a string, implement a parser to deserialize it.</p>
@@ -40,6 +40,6 @@ Return a NestedInteger object containing a nested list with 2 elements:
 - [Stack](https://leetcode-cn.com/tag/stack)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Flatten Nested List Iterator](../flatten-nested-list-iterator/README_EN.md)
-- [Ternary Expression Parser](../ternary-expression-parser/README_EN.md)
-- [Remove Comments](../remove-comments/README_EN.md)
+- [Flatten Nested List Iterator](../0341/README_EN.md)
+- [Ternary Expression Parser](../0439/README_EN.md)
+- [Remove Comments](../0722/README_EN.md)

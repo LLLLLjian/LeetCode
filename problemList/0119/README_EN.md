@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0119. Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/)
 ## Description
 <p>Given a non-negative&nbsp;index <em>k</em>&nbsp;where <em>k</em> &le;&nbsp;33, return the <em>k</em><sup>th</sup>&nbsp;index row of the Pascal&#39;s triangle.</p>
@@ -23,4 +23,4 @@
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Pascal's Triangle](../pascals-triangle/README_EN.md)
+- [Pascal's Triangle](../0118/README_EN.md)

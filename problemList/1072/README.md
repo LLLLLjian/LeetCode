@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [1072. 按列翻转得到最大值等行数](https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows/)
 ## 题目描述
 <p>给定由若干 0 和 1 组成的矩阵&nbsp;<code>matrix</code>，从中选出任意数量的列并翻转其上的&nbsp;<strong>每个&nbsp;</strong>单元格。翻转后，单元格的值从 0 变成 1，或者从 1 变为 0 。</p>

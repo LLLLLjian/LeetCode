@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/)
 ## 题目描述
 <p>给定一个二叉树，它的每个结点都存放着一个整数值。</p>
@@ -32,7 +32,7 @@
 ## 相关话题
 - [树](https://leetcode-cn.com/tag/tree)
 ## 相似题目
-- [路径总和](../path-sum/README.md)
-- [路径总和 II](../path-sum-ii/README.md)
-- [路径和 IV](../path-sum-iv/README.md)
-- [最长同值路径](../longest-univalue-path/README.md)
+- [路径总和](../0112/README.md)
+- [路径总和 II](../0113/README.md)
+- [路径和 IV](../0666/README.md)
+- [最长同值路径](../0687/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
 ## 题目描述
 <p>你是一个专业的小偷，计划偷窃沿街的房屋。每间房内都藏有一定的现金，影响你偷窃的唯一制约因素就是相邻的房屋装有相互连通的防盗系统，<strong>如果两间相邻的房屋在同一晚上被小偷闯入，系统会自动报警</strong>。</p>
@@ -24,11 +24,11 @@
 ## 相关话题
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [乘积最大子序列](../maximum-product-subarray/README.md)
-- [打家劫舍 II](../house-robber-ii/README.md)
-- [粉刷房子](../paint-house/README.md)
-- [栅栏涂色](../paint-fence/README.md)
-- [打家劫舍 III](../house-robber-iii/README.md)
-- [不含连续1的非负整数](../non-negative-integers-without-consecutive-ones/README.md)
-- [金币路径](../coin-path/README.md)
-- [删除与获得点数](../delete-and-earn/README.md)
+- [乘积最大子序列](../0152/README.md)
+- [打家劫舍 II](../0213/README.md)
+- [粉刷房子](../0256/README.md)
+- [栅栏涂色](../0276/README.md)
+- [打家劫舍 III](../0337/README.md)
+- [不含连续1的非负整数](../0600/README.md)
+- [金币路径](../0656/README.md)
+- [删除与获得点数](../0740/README.md)

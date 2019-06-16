@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0439. Ternary Expression Parser](https://leetcode-cn.com/problems/ternary-expression-parser/)
 ## Description
 None
@@ -7,6 +7,6 @@ None
 - [Stack](https://leetcode-cn.com/tag/stack)
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 ## Similar Questions
-- [Mini Parser](../mini-parser/README_EN.md)
-- [Remove Comments](../remove-comments/README_EN.md)
-- [Parse Lisp Expression](../parse-lisp-expression/README_EN.md)
+- [Mini Parser](../0385/README_EN.md)
+- [Remove Comments](../0722/README_EN.md)
+- [Parse Lisp Expression](../0736/README_EN.md)

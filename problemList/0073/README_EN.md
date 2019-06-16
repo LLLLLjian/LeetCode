@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0073. Set Matrix Zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/)
 ## Description
 <p>Given a <em>m</em> x <em>n</em> matrix, if an element is 0, set its entire row and column to 0. Do it <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a>.</p>
@@ -49,4 +49,4 @@
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Game of Life](../game-of-life/README_EN.md)
+- [Game of Life](../0289/README_EN.md)

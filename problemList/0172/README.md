@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0172. 阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)
 ## 题目描述
 <p>给定一个整数 <em>n</em>，返回 <em>n</em>! 结果尾数中零的数量。</p>
@@ -21,5 +21,5 @@
 ## 相关话题
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [数字 1 的个数](../number-of-digit-one/README.md)
-- [阶乘函数后K个零](../preimage-size-of-factorial-zeroes-function/README.md)
+- [数字 1 的个数](../0233/README.md)
+- [阶乘函数后K个零](../0793/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0062. Unique Paths](https://leetcode-cn.com/problems/unique-paths/)
 ## Description
 <p>A robot is located at the top-left corner of a <em>m</em> x <em>n</em> grid (marked &#39;Start&#39; in the diagram below).</p>
@@ -35,6 +35,6 @@ From the top-left corner, there are a total of 3 ways to reach the bottom-right 
 - [Array](https://leetcode-cn.com/tag/array)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Unique Paths II](../unique-paths-ii/README_EN.md)
-- [Minimum Path Sum](../minimum-path-sum/README_EN.md)
-- [Dungeon Game](../dungeon-game/README_EN.md)
+- [Unique Paths II](../0063/README_EN.md)
+- [Minimum Path Sum](../0064/README_EN.md)
+- [Dungeon Game](../0174/README_EN.md)

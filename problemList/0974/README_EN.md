@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0974. Subarray Sums Divisible by K](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/)
 ## Description
 <p>Given an array <code>A</code> of integers, return the number of (contiguous, non-empty) subarrays that have a sum divisible by <code>K</code>.</p>
@@ -30,4 +30,4 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Subarray Sum Equals K](../subarray-sum-equals-k/README_EN.md)
+- [Subarray Sum Equals K](../0560/README_EN.md)

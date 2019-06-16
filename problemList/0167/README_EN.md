@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0167. Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)
 ## Description
 <p>Given an array of integers that is already <strong><em>sorted in ascending order</em></strong>, find two numbers such that they add up to a specific target number.</p>
@@ -25,5 +25,5 @@
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Two Sum](../two-sum/README_EN.md)
-- [Two Sum IV - Input is a BST](../two-sum-iv-input-is-a-bst/README_EN.md)
+- [Two Sum](../0001/README_EN.md)
+- [Two Sum IV - Input is a BST](../0653/README_EN.md)

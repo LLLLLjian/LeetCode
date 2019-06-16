@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0497. Random Point in Non-overlapping Rectangles](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles/)
 ## Description
 <p>Given a list of <strong>non-overlapping</strong>&nbsp;axis-aligned rectangles <code>rects</code>, write a function <code>pick</code> which randomly and uniformily picks an <strong>integer point</strong> in the space&nbsp;covered by the rectangles.</p>
@@ -53,5 +53,5 @@
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 - [Random](https://leetcode-cn.com/tag/random)
 ## Similar Questions
-- [Random Pick with Weight](../random-pick-with-weight/README_EN.md)
-- [Generate Random Point in a Circle](../generate-random-point-in-a-circle/README_EN.md)
+- [Random Pick with Weight](../0528/README_EN.md)
+- [Generate Random Point in a Circle](../0478/README_EN.md)

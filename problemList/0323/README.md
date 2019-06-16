@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0323. 无向图中连通分量的数目](https://leetcode-cn.com/problems/number-of-connected-components-in-an-undirected-graph/)
 ## 题目描述
 None
@@ -9,6 +9,6 @@ None
 - [并查集](https://leetcode-cn.com/tag/union-find)
 - [图](https://leetcode-cn.com/tag/graph)
 ## 相似题目
-- [岛屿数量](../number-of-islands/README.md)
-- [以图判树](../graph-valid-tree/README.md)
-- [朋友圈](../friend-circles/README.md)
+- [岛屿数量](../0200/README.md)
+- [以图判树](../0261/README.md)
+- [朋友圈](../0547/README.md)

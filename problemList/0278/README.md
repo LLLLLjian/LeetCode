@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)
 ## 题目描述
 <p>你是产品经理，目前正在带领一个团队开发新的产品。不幸的是，你的产品的最新版本没有通过质量检测。由于每个版本都是基于之前的版本开发的，所以错误的版本之后的所有版本都是错的。</p>
@@ -21,6 +21,6 @@
 ## 相关话题
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [在排序数组中查找元素的第一个和最后一个位置](../find-first-and-last-position-of-element-in-sorted-array/README.md)
-- [搜索插入位置](../search-insert-position/README.md)
-- [猜数字大小](../guess-number-higher-or-lower/README.md)
+- [在排序数组中查找元素的第一个和最后一个位置](../0034/README.md)
+- [搜索插入位置](../0035/README.md)
+- [猜数字大小](../0374/README.md)

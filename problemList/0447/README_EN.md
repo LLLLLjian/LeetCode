@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0447. Number of Boomerangs](https://leetcode-cn.com/problems/number-of-boomerangs/)
 ## Description
 <p>Given <i>n</i> points in the plane that are all pairwise distinct, a &quot;boomerang&quot; is a tuple of points <code>(i, j, k)</code> such that the distance between <code>i</code> and <code>j</code> equals the distance between <code>i</code> and <code>k</code> (<b>the order of the tuple matters</b>).</p>
@@ -24,4 +24,4 @@ The two boomerangs are <b>[[1,0],[0,0],[2,0]]</b> and <b>[[1,0],[2,0],[0,0]]</b>
 ## Related Topics
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Line Reflection](../line-reflection/README_EN.md)
+- [Line Reflection](../0356/README_EN.md)

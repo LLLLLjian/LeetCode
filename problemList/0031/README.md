@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0031. 下一个排列](https://leetcode-cn.com/problems/next-permutation/)
 ## 题目描述
 <p>实现获取下一个排列的函数，算法需要将给定数字序列重新排列成字典序中下一个更大的排列。</p>
@@ -16,7 +16,7 @@
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [全排列](../permutations/README.md)
-- [全排列 II](../permutations-ii/README.md)
-- [第k个排列](../permutation-sequence/README.md)
-- [回文排列 II](../palindrome-permutation-ii/README.md)
+- [全排列](../0046/README.md)
+- [全排列 II](../0047/README.md)
+- [第k个排列](../0060/README.md)
+- [回文排列 II](../0267/README.md)

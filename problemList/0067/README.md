@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0067. 二进制求和](https://leetcode-cn.com/problems/add-binary/)
 ## 题目描述
 <p>给定两个二进制字符串，返回他们的和（用二进制表示）。</p>
@@ -20,7 +20,7 @@
 - [数学](https://leetcode-cn.com/tag/math)
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [两数相加](../add-two-numbers/README.md)
-- [字符串相乘](../multiply-strings/README.md)
-- [加一](../plus-one/README.md)
-- [数组形式的整数加法](../add-to-array-form-of-integer/README.md)
+- [两数相加](../0002/README.md)
+- [字符串相乘](../0043/README.md)
+- [加一](../0066/README.md)
+- [数组形式的整数加法](../0989/README.md)

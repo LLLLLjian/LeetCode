@@ -1,17 +1,17 @@
-stat.question_id:599
-stat.question__article__live:None
-stat.question__article__slug:None
-stat.question__title:Minimum Index Sum of Two Lists
-stat.question__title_slug:minimum-index-sum-of-two-lists
-stat.question__hide:False
-stat.total_acs:4535
-stat.total_submitted:9853
-stat.total_column_articles:1
-stat.frontend_question_id:599
-stat.is_new_question:False
-status:None
-difficulty.level:1
-paid_only:False
-is_favor:False
-frequency:0
-progress:0
+stat.question_id:599  
+stat.question__article__live:None  
+stat.question__article__slug:None  
+stat.question__title:Minimum Index Sum of Two Lists  
+stat.question__title_slug:minimum-index-sum-of-two-lists  
+stat.question__hide:False  
+stat.total_acs:4551  
+stat.total_submitted:9883  
+stat.total_column_articles:1  
+stat.frontend_question_id:599  
+stat.is_new_question:False  
+status:None  
+difficulty.level:1  
+paid_only:False  
+is_favor:False  
+frequency:0  
+progress:0  

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0696. 计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/)
 ## 题目描述
 <p>给定一个字符串&nbsp;<code>s</code>，计算具有相同数量0和1的非空(连续)子字符串的数量，并且这些子字符串中的所有0和所有1都是组合在一起的。</p>
@@ -36,4 +36,4 @@
 ## 相关话题
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [字符串的编码与解码](../encode-and-decode-strings/README.md)
+- [字符串的编码与解码](../0271/README.md)

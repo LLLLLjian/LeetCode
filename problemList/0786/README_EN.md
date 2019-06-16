@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0786. K-th Smallest Prime Fraction](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction/)
 ## Description
 <p>A sorted list <code>A</code> contains 1, plus some number of primes.&nbsp; Then, for every p &lt; q in the list, we consider the fraction p/q.</p>
@@ -30,6 +30,6 @@ The third fraction is 2/5.
 - [Heap](https://leetcode-cn.com/tag/heap)
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Kth Smallest Element in a Sorted Matrix](../kth-smallest-element-in-a-sorted-matrix/README_EN.md)
-- [Kth Smallest Number in Multiplication Table](../kth-smallest-number-in-multiplication-table/README_EN.md)
-- [Find K-th Smallest Pair Distance](../find-k-th-smallest-pair-distance/README_EN.md)
+- [Kth Smallest Element in a Sorted Matrix](../0378/README_EN.md)
+- [Kth Smallest Number in Multiplication Table](../0668/README_EN.md)
+- [Find K-th Smallest Pair Distance](../0719/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0733. 图像渲染](https://leetcode-cn.com/problems/flood-fill/)
 ## 题目描述
 <p>有一幅以二维整数数组表示的图画，每一个整数表示该图画的像素值大小，数值在 0 到 65535 之间。</p>
@@ -35,4 +35,4 @@ sr = 1, sc = 1, newColor = 2
 ## 相关话题
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 ## 相似题目
-- [岛屿的周长](../island-perimeter/README.md)
+- [岛屿的周长](../0463/README.md)

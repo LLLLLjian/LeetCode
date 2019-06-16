@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
 ## 题目描述
 <p>给定一个二叉树，返回它的&nbsp;<em>前序&nbsp;</em>遍历。</p>
@@ -22,6 +22,6 @@
 - [栈](https://leetcode-cn.com/tag/stack)
 - [树](https://leetcode-cn.com/tag/tree)
 ## 相似题目
-- [二叉树的中序遍历](../binary-tree-inorder-traversal/README.md)
-- [验证前序遍历序列二叉搜索树](../verify-preorder-sequence-in-binary-search-tree/README.md)
-- [N叉树的前序遍历](../n-ary-tree-preorder-traversal/README.md)
+- [二叉树的中序遍历](../0094/README.md)
+- [验证前序遍历序列二叉搜索树](../0255/README.md)
+- [N叉树的前序遍历](../0589/README.md)

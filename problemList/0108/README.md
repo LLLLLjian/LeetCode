@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
 ## 题目描述
 <p>将一个按照升序排列的有序数组，转换为一棵高度平衡二叉搜索树。</p>
@@ -23,4 +23,4 @@
 - [树](https://leetcode-cn.com/tag/tree)
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 ## 相似题目
-- [有序链表转换二叉搜索树](../convert-sorted-list-to-binary-search-tree/README.md)
+- [有序链表转换二叉搜索树](../0109/README.md)

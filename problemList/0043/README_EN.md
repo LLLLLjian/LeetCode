@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0043. Multiply Strings](https://leetcode-cn.com/problems/multiply-strings/)
 ## Description
 <p>Given two non-negative integers <code>num1</code> and <code>num2</code> represented as strings, return the product of <code>num1</code> and <code>num2</code>, also represented as a string.</p>
@@ -30,7 +30,7 @@
 - [Math](https://leetcode-cn.com/tag/math)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Add Two Numbers](../add-two-numbers/README_EN.md)
-- [Plus One](../plus-one/README_EN.md)
-- [Add Binary](../add-binary/README_EN.md)
-- [Add Strings](../add-strings/README_EN.md)
+- [Add Two Numbers](../0002/README_EN.md)
+- [Plus One](../0066/README_EN.md)
+- [Add Binary](../0067/README_EN.md)
+- [Add Strings](../0415/README_EN.md)

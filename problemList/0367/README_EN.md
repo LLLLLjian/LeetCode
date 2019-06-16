@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0367. Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/)
 ## Description
 <p>Given a positive integer <i>num</i>, write a function which returns True if <i>num</i> is a perfect square else False.</p>
@@ -27,5 +27,5 @@
 - [Math](https://leetcode-cn.com/tag/math)
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Sqrt(x)](../sqrtx/README_EN.md)
-- [Sum of Square Numbers](../sum-of-square-numbers/README_EN.md)
+- [Sqrt(x)](../0069/README_EN.md)
+- [Sum of Square Numbers](../0633/README_EN.md)

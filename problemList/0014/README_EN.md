@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0014. Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)
 ## Description
 <p>Write a function to find the longest common prefix string amongst an array of strings.</p>

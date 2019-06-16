@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0261. Graph Valid Tree](https://leetcode-cn.com/problems/graph-valid-tree/)
 ## Description
 None
@@ -9,5 +9,5 @@ None
 - [Union Find](https://leetcode-cn.com/tag/union-find)
 - [Graph](https://leetcode-cn.com/tag/graph)
 ## Similar Questions
-- [Course Schedule](../course-schedule/README_EN.md)
-- [Number of Connected Components in an Undirected Graph](../number-of-connected-components-in-an-undirected-graph/README_EN.md)
+- [Course Schedule](../0207/README_EN.md)
+- [Number of Connected Components in an Undirected Graph](../0323/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0180. 连续出现的数字](https://leetcode-cn.com/problems/consecutive-numbers/)
 ## 题目描述
 <p>编写一个 SQL 查询，查找所有至少连续出现三次的数字。</p>

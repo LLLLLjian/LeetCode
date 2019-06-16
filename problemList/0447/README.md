@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0447. 回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/)
 ## 题目描述
 <p>给定平面上<em>&nbsp;n </em>对不同的点，&ldquo;回旋镖&rdquo; 是由点表示的元组&nbsp;<code>(i, j, k)</code>&nbsp;，其中&nbsp;<code>i</code>&nbsp;和&nbsp;<code>j</code>&nbsp;之间的距离和&nbsp;<code>i</code>&nbsp;和&nbsp;<code>k</code>&nbsp;之间的距离相等（<strong>需要考虑元组的顺序</strong>）。</p>
@@ -22,4 +22,4 @@
 ## 相关话题
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [直线镜像](../line-reflection/README.md)
+- [直线镜像](../0356/README.md)

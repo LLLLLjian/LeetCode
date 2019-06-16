@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0628. 三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)
 ## 题目描述
 <p>给定一个整型数组，在数组中找出由三个数组成的最大乘积，并输出这个乘积。</p>
@@ -29,4 +29,4 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [乘积最大子序列](../maximum-product-subarray/README.md)
+- [乘积最大子序列](../0152/README.md)

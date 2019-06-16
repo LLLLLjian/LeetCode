@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0667. Beautiful Arrangement II](https://leetcode-cn.com/problems/beautiful-arrangement-ii/)
 ## Description
 <p>
@@ -36,4 +36,4 @@ If there are multiple answers, print any of them.
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Beautiful Arrangement](../beautiful-arrangement/README_EN.md)
+- [Beautiful Arrangement](../0526/README_EN.md)

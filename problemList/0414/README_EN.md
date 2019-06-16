@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0414. Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/)
 ## Description
 <p>Given a <b>non-empty</b> array of integers, return the <b>third</b> maximum number in this array. If it does not exist, return the maximum number. The time complexity must be in O(n).</p>
@@ -37,4 +37,4 @@ Both numbers with value 2 are both considered as second maximum.
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Kth Largest Element in an Array](../kth-largest-element-in-an-array/README_EN.md)
+- [Kth Largest Element in an Array](../0215/README_EN.md)

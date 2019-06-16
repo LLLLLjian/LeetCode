@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0307. Range Sum Query - Mutable](https://leetcode-cn.com/problems/range-sum-query-mutable/)
 ## Description
 <p>Given an integer array <i>nums</i>, find the sum of the elements between indices <i>i</i> and <i>j</i> (<i>i</i> &le; <i>j</i>), inclusive.</p>
@@ -27,5 +27,5 @@ sumRange(0, 2) -&gt; 8
 - [Binary Indexed Tree](https://leetcode-cn.com/tag/binary-indexed-tree)
 - [Segment Tree](https://leetcode-cn.com/tag/segment-tree)
 ## Similar Questions
-- [Range Sum Query - Immutable](../range-sum-query-immutable/README_EN.md)
-- [Range Sum Query 2D - Mutable](../range-sum-query-2d-mutable/README_EN.md)
+- [Range Sum Query - Immutable](../0303/README_EN.md)
+- [Range Sum Query 2D - Mutable](../0308/README_EN.md)

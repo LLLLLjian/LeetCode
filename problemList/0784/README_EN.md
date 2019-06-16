@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0784. Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/)
 ## Description
 <p>Given a string S, we can transform every letter individually&nbsp;to be lowercase or uppercase to create another string.&nbsp; Return a list of all possible strings we could create.</p>
@@ -27,4 +27,5 @@
 - [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Subsets](../subsets/README_EN.md)
+- [Subsets](../0078/README_EN.md)
+- [Permutation of Letters](../None/README_EN.md)

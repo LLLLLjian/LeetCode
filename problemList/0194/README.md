@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0194. 转置文件](https://leetcode-cn.com/problems/transpose-file/)
 ## 题目描述
 <p>给定一个文件&nbsp;<code>file.txt</code>，转置它的内容。</p>

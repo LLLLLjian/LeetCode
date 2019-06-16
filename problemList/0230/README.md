@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
 ## 题目描述
 <p>给定一个二叉搜索树，编写一个函数&nbsp;<code>kthSmallest</code>&nbsp;来查找其中第&nbsp;<strong>k&nbsp;</strong>个最小的元素。</p>
@@ -36,5 +36,5 @@
 - [树](https://leetcode-cn.com/tag/tree)
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [二叉树的中序遍历](../binary-tree-inorder-traversal/README.md)
-- [二叉树中第二小的节点](../second-minimum-node-in-a-binary-tree/README.md)
+- [二叉树的中序遍历](../0094/README.md)
+- [二叉树中第二小的节点](../0671/README.md)

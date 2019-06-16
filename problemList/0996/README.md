@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0996. 正方形数组的数目](https://leetcode-cn.com/problems/number-of-squareful-arrays/)
 ## 题目描述
 <p>给定一个非负整数数组&nbsp;<code>A</code>，如果该数组每对相邻元素之和是一个完全平方数，则称这一数组为<em>正方形</em>数组。</p>
@@ -36,4 +36,4 @@
 - [数学](https://leetcode-cn.com/tag/math)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [全排列 II](../permutations-ii/README.md)
+- [全排列 II](../0047/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0849. 到最近的人的最大距离](https://leetcode-cn.com/problems/maximize-distance-to-closest-person/)
 ## 题目描述
 <p>在一排座位（&nbsp;<code>seats</code>）中，<code>1</code>&nbsp;代表有人坐在座位上，<code>0</code>&nbsp;代表座位上是空的。</p>
@@ -39,4 +39,4 @@
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [考场就座](../exam-room/README.md)
+- [考场就座](../0855/README.md)

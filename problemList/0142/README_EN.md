@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0142. Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
 ## Description
 <p>Given a linked list, return the node where the cycle begins. If there is no cycle, return <code>null</code>.</p>
@@ -49,5 +49,5 @@ Can you solve it without using extra space?</p>
 - [Linked List](https://leetcode-cn.com/tag/linked-list)
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 ## Similar Questions
-- [Linked List Cycle](../linked-list-cycle/README_EN.md)
-- [Find the Duplicate Number](../find-the-duplicate-number/README_EN.md)
+- [Linked List Cycle](../0141/README_EN.md)
+- [Find the Duplicate Number](../0287/README_EN.md)

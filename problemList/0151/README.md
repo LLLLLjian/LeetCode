@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
 ## 题目描述
 <p>给定一个字符串，逐个翻转字符串中的每个单词。</p>
@@ -45,4 +45,4 @@
 ## 相关话题
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [翻转字符串里的单词 II](../reverse-words-in-a-string-ii/README.md)
+- [翻转字符串里的单词 II](../0186/README.md)

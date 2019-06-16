@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0091. Decode Ways](https://leetcode-cn.com/problems/decode-ways/)
 ## Description
 <p>A message containing letters from <code>A-Z</code> is being encoded to numbers using the following mapping:</p>
@@ -32,4 +32,4 @@
 - [String](https://leetcode-cn.com/tag/string)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Decode Ways II](../decode-ways-ii/README_EN.md)
+- [Decode Ways II](../0639/README_EN.md)

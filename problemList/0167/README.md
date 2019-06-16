@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)
 ## 题目描述
 <p>给定一个已按照<strong><em>升序排列</em>&nbsp;</strong>的有序数组，找到两个数使得它们相加之和等于目标数。</p>
@@ -24,5 +24,5 @@
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [两数之和](../two-sum/README.md)
-- [两数之和 IV - 输入 BST](../two-sum-iv-input-is-a-bst/README.md)
+- [两数之和](../0001/README.md)
+- [两数之和 IV - 输入 BST](../0653/README.md)

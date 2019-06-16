@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0837. New 21 Game](https://leetcode-cn.com/problems/new-21-game/)
 ## Description
 <p>Alice plays the following game, loosely based on the card game &quot;21&quot;.</p>

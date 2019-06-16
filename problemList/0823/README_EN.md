@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0823. Binary Trees With Factors](https://leetcode-cn.com/problems/binary-trees-with-factors/)
 ## Description
 <p>Given an array of unique integers, each integer is strictly greater than 1.</p>

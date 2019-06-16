@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
 ## 题目描述
 <p>请编写一个函数，使其可以删除某个链表中给定的（非末尾）节点，你将只被给定要求被删除的节点。</p>
@@ -38,4 +38,4 @@
 ## 相关话题
 - [链表](https://leetcode-cn.com/tag/linked-list)
 ## 相似题目
-- [移除链表元素](../remove-linked-list-elements/README.md)
+- [移除链表元素](../0203/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0525. 连续数组](https://leetcode-cn.com/problems/contiguous-array/)
 ## 题目描述
 <p>给定一个二进制数组, 找到含有相同数量的 0 和 1 的最长连续子数组（的长度）。</p>
@@ -25,4 +25,4 @@
 ## 相关话题
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [和等于 k 的最长子数组长度](../maximum-size-subarray-sum-equals-k/README.md)
+- [和等于 k 的最长子数组长度](../0325/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 ## 题目描述
 <p>给定一个二叉树, 找到该树中两个指定节点的最近公共祖先。</p>
@@ -38,4 +38,4 @@
 ## 相关话题
 - [树](https://leetcode-cn.com/tag/tree)
 ## 相似题目
-- [二叉搜索树的最近公共祖先](../lowest-common-ancestor-of-a-binary-search-tree/README.md)
+- [二叉搜索树的最近公共祖先](../0235/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0790. Domino and Tromino Tiling](https://leetcode-cn.com/problems/domino-and-tromino-tiling/)
 ## Description
 <p>We have two types of tiles: a 2x1 domino shape, and an &quot;L&quot; tromino shape. These shapes may be rotated.</p>

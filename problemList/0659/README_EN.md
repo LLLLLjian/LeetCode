@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0659. Split Array into Consecutive Subsequences](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/)
 ## Description
 <p>You are given an integer array sorted in ascending order (may contain duplicates), you need to split them into several subsequences, where each subsequences consist of at least 3 consecutive integers. Return whether you can make such a split.</p>
@@ -42,4 +42,4 @@ You can split them into two consecutive subsequences :
 - [Heap](https://leetcode-cn.com/tag/heap)
 - [Greedy](https://leetcode-cn.com/tag/greedy)
 ## Similar Questions
-- [Top K Frequent Elements](../top-k-frequent-elements/README_EN.md)
+- [Top K Frequent Elements](../0347/README_EN.md)

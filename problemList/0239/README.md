@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 ## 题目描述
 <p>给定一个数组 <em>nums</em>，有一个大小为&nbsp;<em>k&nbsp;</em>的滑动窗口从数组的最左侧移动到数组的最右侧。你只可以看到在滑动窗口 <em>k</em> 内的数字。滑动窗口每次只向右移动一位。</p>
@@ -33,7 +33,7 @@
 - [堆](https://leetcode-cn.com/tag/heap)
 - [None](https://leetcode-cn.com/tag/sliding-window)
 ## 相似题目
-- [最小覆盖子串](../minimum-window-substring/README.md)
-- [最小栈](../min-stack/README.md)
-- [至多包含两个不同字符的最长子串](../longest-substring-with-at-most-two-distinct-characters/README.md)
-- [粉刷房子 II](../paint-house-ii/README.md)
+- [最小覆盖子串](../0076/README.md)
+- [最小栈](../0155/README.md)
+- [至多包含两个不同字符的最长子串](../0159/README.md)
+- [粉刷房子 II](../0265/README.md)

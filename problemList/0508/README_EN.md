@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0508. Most Frequent Subtree Sum](https://leetcode-cn.com/problems/most-frequent-subtree-sum/)
 ## Description
 <p>
@@ -33,4 +33,4 @@ You may assume the sum of values in any subtree is in the range of 32-bit signed
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Subtree of Another Tree](../subtree-of-another-tree/README_EN.md)
+- [Subtree of Another Tree](../0572/README_EN.md)

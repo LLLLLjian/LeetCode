@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0373. Find K Pairs with Smallest Sums](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums/)
 ## Description
 <p>You are given two integer arrays <b>nums1</b> and <b>nums2</b> sorted in ascending order and an integer <b>k</b>.</p>
@@ -35,5 +35,5 @@
 ## Related Topics
 - [Heap](https://leetcode-cn.com/tag/heap)
 ## Similar Questions
-- [Kth Smallest Element in a Sorted Matrix](../kth-smallest-element-in-a-sorted-matrix/README_EN.md)
-- [Find K-th Smallest Pair Distance](../find-k-th-smallest-pair-distance/README_EN.md)
+- [Kth Smallest Element in a Sorted Matrix](../0378/README_EN.md)
+- [Find K-th Smallest Pair Distance](../0719/README_EN.md)

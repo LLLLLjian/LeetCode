@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0026. Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
 ## Description
 <p>Given a sorted array <em>nums</em>, remove the duplicates <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> such that each element appear only <em>once</em> and return the new length.</p>
@@ -47,5 +47,5 @@ for (int i = 0; i &lt; len; i++) {
 - [Array](https://leetcode-cn.com/tag/array)
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 ## Similar Questions
-- [Remove Element](../remove-element/README_EN.md)
-- [Remove Duplicates from Sorted Array II](../remove-duplicates-from-sorted-array-ii/README_EN.md)
+- [Remove Element](../0027/README_EN.md)
+- [Remove Duplicates from Sorted Array II](../0080/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0693. Binary Number with Alternating Bits](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/)
 ## Description
 <p>Given a positive integer, check whether it has alternating bits: namely, if two adjacent bits will always have different values.</p>
@@ -42,4 +42,4 @@ The binary representation of 10 is: 1010.
 ## Related Topics
 - [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)
 ## Similar Questions
-- [Number of 1 Bits](../number-of-1-bits/README_EN.md)
+- [Number of 1 Bits](../0191/README_EN.md)

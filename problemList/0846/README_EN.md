@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0846. Hand of Straights](https://leetcode-cn.com/problems/hand-of-straights/)
 ## Description
 <p>Alice has a <code>hand</code> of cards, given as an array of integers.</p>

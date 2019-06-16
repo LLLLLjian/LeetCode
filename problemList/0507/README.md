@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0507. 完美数](https://leetcode-cn.com/problems/perfect-number/)
 ## 题目描述
 <p>对于一个&nbsp;<strong>正整数</strong>，如果它和除了它自身以外的所有正因子之和相等，我们称它为&ldquo;完美数&rdquo;。</p>
@@ -25,4 +25,4 @@
 ## 相关话题
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [自除数](../self-dividing-numbers/README.md)
+- [自除数](../0728/README.md)

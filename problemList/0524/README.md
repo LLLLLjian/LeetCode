@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0524. 通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/)
 ## 题目描述
 <p>给定一个字符串和一个字符串字典，找到字典里面最长的字符串，该字符串可以通过删除给定字符串的某些字符来得到。如果答案不止一个，返回长度最长且字典顺序最小的字符串。如果答案不存在，则返回空字符串。</p>
@@ -36,4 +36,4 @@ s = &quot;abpcplea&quot;, d = [&quot;a&quot;,&quot;b&quot;,&quot;c&quot;]
 - [排序](https://leetcode-cn.com/tag/sort)
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 ## 相似题目
-- [词典中最长的单词](../longest-word-in-dictionary/README.md)
+- [词典中最长的单词](../0720/README.md)

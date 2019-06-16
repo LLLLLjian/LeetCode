@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0208. Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
 ## Description
 <p>Implement a trie with <code>insert</code>, <code>search</code>, and <code>startsWith</code> methods.</p>
@@ -28,7 +28,7 @@ trie.search(&quot;app&quot;);     // returns true
 - [Design](https://leetcode-cn.com/tag/design)
 - [Trie](https://leetcode-cn.com/tag/trie)
 ## Similar Questions
-- [Add and Search Word - Data structure design](../add-and-search-word-data-structure-design/README_EN.md)
-- [Design Search Autocomplete System](../design-search-autocomplete-system/README_EN.md)
-- [Replace Words](../replace-words/README_EN.md)
-- [Implement Magic Dictionary](../implement-magic-dictionary/README_EN.md)
+- [Add and Search Word - Data structure design](../0211/README_EN.md)
+- [Design Search Autocomplete System](../0642/README_EN.md)
+- [Replace Words](../0648/README_EN.md)
+- [Implement Magic Dictionary](../0676/README_EN.md)

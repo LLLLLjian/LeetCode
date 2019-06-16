@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0065. Valid Number](https://leetcode-cn.com/problems/valid-number/)
 ## Description
 <p>Validate if a given string can be interpreted as&nbsp;a decimal number.</p>
@@ -38,4 +38,4 @@ The signature of the <code>C++</code> function had been updated. If you still se
 - [Math](https://leetcode-cn.com/tag/math)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [String to Integer (atoi)](../string-to-integer-atoi/README_EN.md)
+- [String to Integer (atoi)](../0008/README_EN.md)

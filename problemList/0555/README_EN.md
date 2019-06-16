@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0555. Split Concatenated Strings](https://leetcode-cn.com/problems/split-concatenated-strings/)
 ## Description
 None

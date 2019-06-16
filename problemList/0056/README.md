@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0056. 合并区间](https://leetcode-cn.com/problems/merge-intervals/)
 ## 题目描述
 <p>给出一个区间的集合，请合并所有重叠的区间。</p>
@@ -21,12 +21,12 @@
 - [排序](https://leetcode-cn.com/tag/sort)
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [插入区间](../insert-interval/README.md)
-- [会议室](../meeting-rooms/README.md)
-- [会议室 II](../meeting-rooms-ii/README.md)
-- [提莫攻击](../teemo-attacking/README.md)
-- [给字符串添加加粗标签](../add-bold-tag-in-string/README.md)
-- [Range 模块](../range-module/README.md)
-- [员工空闲时间](../employee-free-time/README.md)
-- [划分字母区间](../partition-labels/README.md)
-- [区间列表的交集](../interval-list-intersections/README.md)
+- [插入区间](../0057/README.md)
+- [会议室](../0252/README.md)
+- [会议室 II](../0253/README.md)
+- [提莫攻击](../0495/README.md)
+- [给字符串添加加粗标签](../0616/README.md)
+- [Range 模块](../0715/README.md)
+- [员工空闲时间](../0759/README.md)
+- [划分字母区间](../0763/README.md)
+- [区间列表的交集](../0986/README.md)

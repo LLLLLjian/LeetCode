@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
 ## 题目描述
 <p>给定一个链表，每个节点包含一个额外增加的随机指针，该指针可以指向链表中的任何节点或空节点。</p>
@@ -32,4 +32,4 @@
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 - [链表](https://leetcode-cn.com/tag/linked-list)
 ## 相似题目
-- [克隆图](../clone-graph/README.md)
+- [克隆图](../0133/README.md)

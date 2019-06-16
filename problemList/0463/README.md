@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0463. 岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/)
 ## 题目描述
 <p>给定一个包含 0 和 1 的二维网格地图，其中 1 表示陆地&nbsp;0 表示水域。</p>
@@ -28,6 +28,6 @@
 ## 相关话题
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [岛屿的最大面积](../max-area-of-island/README.md)
-- [图像渲染](../flood-fill/README.md)
-- [边框着色](../coloring-a-border/README.md)
+- [岛屿的最大面积](../0695/README.md)
+- [图像渲染](../0733/README.md)
+- [边框着色](../1034/README.md)

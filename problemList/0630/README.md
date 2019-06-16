@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0630. 课程表 III](https://leetcode-cn.com/problems/course-schedule-iii/)
 ## 题目描述
 <p>这里有 <code>n</code> 门不同的在线课程，他们按从 <code>1</code> 到 <code>n</code>&nbsp;编号。每一门课程有一定的持续上课时间（课程时间）<code>t</code> 以及关闭时间第 d<sub>&nbsp;</sub>天。一门课要持续学习 <code>t</code> 天直到第 d<span style="font-size:10.5px"> </span>天时要完成，你将会从第 1 天开始。</p>
@@ -34,5 +34,5 @@
 ## 相关话题
 - [贪心算法](https://leetcode-cn.com/tag/greedy)
 ## 相似题目
-- [课程表](../course-schedule/README.md)
-- [课程表 II](../course-schedule-ii/README.md)
+- [课程表](../0207/README.md)
+- [课程表 II](../0210/README.md)

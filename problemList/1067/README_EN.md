@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1067. Digit Count in Range](https://leetcode-cn.com/problems/digit-count-in-range/)
 ## Description
 None
@@ -7,4 +7,4 @@ None
 - [Math](https://leetcode-cn.com/tag/math)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Number of Digit One](../number-of-digit-one/README_EN.md)
+- [Number of Digit One](../0233/README_EN.md)

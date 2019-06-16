@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0520. Detect Capital](https://leetcode-cn.com/problems/detect-capital/)
 ## Description
 <p>Given a word, you need to judge whether the usage of capitals in it is right or not.</p>

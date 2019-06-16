@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0464. 我能赢吗](https://leetcode-cn.com/problems/can-i-win/)
 ## 题目描述
 <p>在 &quot;100 game&quot; 这个游戏中，两名玩家轮流选择从 1 到 10 的任意整数，累计整数和，先使得累计整数和达到 100 的玩家，即为胜者。</p>
@@ -33,6 +33,6 @@ false
 - [极小化极大](https://leetcode-cn.com/tag/minimax)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [翻转游戏 II](../flip-game-ii/README.md)
-- [猜数字大小 II](../guess-number-higher-or-lower-ii/README.md)
-- [预测赢家](../predict-the-winner/README.md)
+- [翻转游戏 II](../0294/README.md)
+- [猜数字大小 II](../0375/README.md)
+- [预测赢家](../0486/README.md)

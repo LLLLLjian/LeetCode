@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0382. 链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/)
 ## 题目描述
 <p>给定一个单链表，随机选择链表的一个节点，并返回相应的节点值。保证每个节点<strong>被选的概率一样</strong>。</p>
@@ -23,4 +23,4 @@ solution.getRandom();
 ## 相关话题
 - [蓄水池抽样](https://leetcode-cn.com/tag/reservoir-sampling)
 ## 相似题目
-- [随机数索引](../random-pick-index/README.md)
+- [随机数索引](../0398/README.md)

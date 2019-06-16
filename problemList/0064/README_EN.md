@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0064. Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/)
 ## Description
 <p>Given a <em>m</em> x <em>n</em> grid filled with non-negative numbers, find a path from top left to bottom right which <em>minimizes</em> the sum of all numbers along its path.</p>
@@ -23,6 +23,6 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Unique Paths](../unique-paths/README_EN.md)
-- [Dungeon Game](../dungeon-game/README_EN.md)
-- [Cherry Pickup](../cherry-pickup/README_EN.md)
+- [Unique Paths](../0062/README_EN.md)
+- [Dungeon Game](../0174/README_EN.md)
+- [Cherry Pickup](../0741/README_EN.md)

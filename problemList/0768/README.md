@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0768. 最多能完成排序的块 II](https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii/)
 ## 题目描述
 <p><em>这个问题和&ldquo;最多能完成排序的块&rdquo;相似，但给定数组中的元素可以重复，输入数组最大长度为<code>2000</code>，其中的元素最大为<code>10**8</code>。</em></p>
@@ -38,4 +38,4 @@
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [最多能完成排序的块](../max-chunks-to-make-sorted/README.md)
+- [最多能完成排序的块](../0769/README.md)

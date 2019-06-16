@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0710. 黑名单中的随机数](https://leetcode-cn.com/problems/random-pick-with-blacklist/)
 ## 题目描述
 <p>给定一个包含 [0，n ) 中独特的整数的黑名单 B，写一个函数从 [ 0，n ) 中返回一个<strong>不在</strong> B 中的随机整数。</p>
@@ -60,5 +60,5 @@
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 - [None](https://leetcode-cn.com/tag/random)
 ## 相似题目
-- [随机数索引](../random-pick-index/README.md)
-- [按权重随机选择](../random-pick-with-weight/README.md)
+- [随机数索引](../0398/README.md)
+- [按权重随机选择](../0528/README.md)

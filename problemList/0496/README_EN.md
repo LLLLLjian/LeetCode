@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0496. Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/)
 ## Description
 <p>
@@ -41,6 +41,6 @@ The Next Greater Number of a number <b>x</b> in <code>nums1</code> is the first 
 ## Related Topics
 - [Stack](https://leetcode-cn.com/tag/stack)
 ## Similar Questions
-- [Next Greater Element II](../next-greater-element-ii/README_EN.md)
-- [Next Greater Element III](../next-greater-element-iii/README_EN.md)
-- [Daily Temperatures](../daily-temperatures/README_EN.md)
+- [Next Greater Element II](../0503/README_EN.md)
+- [Next Greater Element III](../0556/README_EN.md)
+- [Daily Temperatures](../0739/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0429. N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)
 ## 题目描述
 <p>给定一个 N 叉树，返回其节点值的<em>层序遍历</em>。 (即从左到右，逐层遍历)。</p>
@@ -33,6 +33,6 @@
 - [树](https://leetcode-cn.com/tag/tree)
 - [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search)
 ## 相似题目
-- [二叉树的层次遍历](../binary-tree-level-order-traversal/README.md)
-- [N叉树的前序遍历](../n-ary-tree-preorder-traversal/README.md)
-- [N叉树的后序遍历](../n-ary-tree-postorder-traversal/README.md)
+- [二叉树的层次遍历](../0102/README.md)
+- [N叉树的前序遍历](../0589/README.md)
+- [N叉树的后序遍历](../0590/README.md)

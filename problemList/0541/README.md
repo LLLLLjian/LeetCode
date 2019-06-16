@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0541. 反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/)
 ## 题目描述
 <p>给定一个字符串和一个整数 k，你需要对从字符串开头算起的每个 2k 个字符的前k个字符进行反转。如果剩余少于 k 个字符，则将剩余的所有全部反转。如果有小于 2k 但大于或等于 k 个字符，则反转前 k 个字符，并将剩余的字符保持原样。</p>
@@ -21,5 +21,5 @@
 ## 相关话题
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [反转字符串](../reverse-string/README.md)
-- [反转字符串中的单词 III](../reverse-words-in-a-string-iii/README.md)
+- [反转字符串](../0344/README.md)
+- [反转字符串中的单词 III](../0557/README.md)

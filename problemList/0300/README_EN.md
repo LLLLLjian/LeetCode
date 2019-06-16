@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0300. Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 ## Description
 <p>Given an unsorted array of integers, find the length of longest increasing subsequence.</p>
@@ -24,8 +24,8 @@
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Increasing Triplet Subsequence](../increasing-triplet-subsequence/README_EN.md)
-- [Russian Doll Envelopes](../russian-doll-envelopes/README_EN.md)
-- [Maximum Length of Pair Chain](../maximum-length-of-pair-chain/README_EN.md)
-- [Number of Longest Increasing Subsequence](../number-of-longest-increasing-subsequence/README_EN.md)
-- [Minimum ASCII Delete Sum for Two Strings](../minimum-ascii-delete-sum-for-two-strings/README_EN.md)
+- [Increasing Triplet Subsequence](../0334/README_EN.md)
+- [Russian Doll Envelopes](../0354/README_EN.md)
+- [Maximum Length of Pair Chain](../0646/README_EN.md)
+- [Number of Longest Increasing Subsequence](../0673/README_EN.md)
+- [Minimum ASCII Delete Sum for Two Strings](../0712/README_EN.md)

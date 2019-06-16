@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0373. 查找和最小的K对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums/)
 ## 题目描述
 <p>给定两个以升序排列的整形数组 <strong>nums1</strong> 和 <strong>nums2</strong>, 以及一个整数 <strong>k</strong>。</p>
@@ -34,5 +34,5 @@
 ## 相关话题
 - [堆](https://leetcode-cn.com/tag/heap)
 ## 相似题目
-- [有序矩阵中第K小的元素](../kth-smallest-element-in-a-sorted-matrix/README.md)
-- [找出第 k 小的距离对](../find-k-th-smallest-pair-distance/README.md)
+- [有序矩阵中第K小的元素](../0378/README.md)
+- [找出第 k 小的距离对](../0719/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0895. Maximum Frequency Stack](https://leetcode-cn.com/problems/maximum-frequency-stack/)
 ## Description
 <p>Implement <code>FreqStack</code>, a class which simulates the operation of a stack-like data structure.</p>

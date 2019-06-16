@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0386. Lexicographical Numbers](https://leetcode-cn.com/problems/lexicographical-numbers/)
 ## Description
 <p>Given an integer <i>n</i>, return 1 - <i>n</i> in lexicographical order.</p>

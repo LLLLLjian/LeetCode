@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0315. Count of Smaller Numbers After Self](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)
 ## Description
 <p>You are given an integer array <i>nums</i> and you have to return a new <i>counts</i> array. The <i>counts</i> array has the property where <code>counts[i]</code> is the number of smaller elements to the right of <code>nums[i]</code>.</p>
@@ -22,6 +22,6 @@ To the right of 1 there is <b>0</b> smaller element.
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 - [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)
 ## Similar Questions
-- [Count of Range Sum](../count-of-range-sum/README_EN.md)
-- [Queue Reconstruction by Height](../queue-reconstruction-by-height/README_EN.md)
-- [Reverse Pairs](../reverse-pairs/README_EN.md)
+- [Count of Range Sum](../0327/README_EN.md)
+- [Queue Reconstruction by Height](../0406/README_EN.md)
+- [Reverse Pairs](../0493/README_EN.md)

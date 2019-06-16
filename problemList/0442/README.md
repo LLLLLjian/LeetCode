@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0442. 数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)
 ## 题目描述
 <p>给定一个整数数组 a，其中1 &le; a[i] &le; <em>n</em> （<em>n</em>为数组长度）, 其中有些元素出现<strong>两次</strong>而其他元素出现<strong>一次</strong>。</p>
@@ -21,4 +21,4 @@
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [找到所有数组中消失的数字](../find-all-numbers-disappeared-in-an-array/README.md)
+- [找到所有数组中消失的数字](../0448/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0079. 单词搜索](https://leetcode-cn.com/problems/word-search/)
 ## 题目描述
 <p>给定一个二维网格和一个单词，找出该单词是否存在于网格中。</p>
@@ -23,4 +23,4 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [单词搜索 II](../word-search-ii/README.md)
+- [单词搜索 II](../0212/README.md)

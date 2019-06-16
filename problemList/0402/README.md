@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0402. 移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/)
 ## 题目描述
 <p>给定一个以字符串表示的非负整数&nbsp;<em>num</em>，移除这个数中的 <em>k </em>位数字，使得剩下的数字最小。</p>
@@ -39,5 +39,5 @@
 - [栈](https://leetcode-cn.com/tag/stack)
 - [贪心算法](https://leetcode-cn.com/tag/greedy)
 ## 相似题目
-- [拼接最大数](../create-maximum-number/README.md)
-- [单调递增的数字](../monotone-increasing-digits/README.md)
+- [拼接最大数](../0321/README.md)
+- [单调递增的数字](../0738/README.md)

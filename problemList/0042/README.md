@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0042. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
 ## 题目描述
 <p>给定&nbsp;<em>n</em> 个非负整数表示每个宽度为 1 的柱子的高度图，计算按此排列的柱子，下雨之后能接多少雨水。</p>
@@ -18,7 +18,7 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 ## 相似题目
-- [盛最多水的容器](../container-with-most-water/README.md)
-- [除自身以外数组的乘积](../product-of-array-except-self/README.md)
-- [接雨水 II](../trapping-rain-water-ii/README.md)
-- [倒水](../pour-water/README.md)
+- [盛最多水的容器](../0011/README.md)
+- [除自身以外数组的乘积](../0238/README.md)
+- [接雨水 II](../0407/README.md)
+- [倒水](../0755/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0689. 三个无重叠子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)
 ## 题目描述
 <p>给定数组&nbsp;<code>nums</code>&nbsp;由正整数组成，找到三个互不重叠的子数组的最大和。</p>
@@ -29,4 +29,4 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [买卖股票的最佳时机 III](../best-time-to-buy-and-sell-stock-iii/README.md)
+- [买卖股票的最佳时机 III](../0123/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0967. 连续差相同的数字](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/)
 ## 题目描述
 <p>返回所有长度为 <code>N</code> 且满足其每两个连续位上的数字之间的差的绝对值为 <code>K</code>&nbsp;的<strong>非负整数</strong>。</p>

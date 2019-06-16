@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0407. 接雨水 II](https://leetcode-cn.com/problems/trapping-rain-water-ii/)
 ## 题目描述
 <p>给定一个 <code>m x n</code>&nbsp;的矩阵，其中的值均为正整数，代表二维高度图每个单元的高度，请计算图中形状最多能接多少体积的雨水。</p>
@@ -37,4 +37,4 @@
 - [堆](https://leetcode-cn.com/tag/heap)
 - [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search)
 ## 相似题目
-- [接雨水](../trapping-rain-water/README.md)
+- [接雨水](../0042/README.md)

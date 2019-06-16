@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0169. 求众数](https://leetcode-cn.com/problems/majority-element/)
 ## 题目描述
 <p>给定一个大小为 <em>n </em>的数组，找到其中的众数。众数是指在数组中出现次数<strong>大于</strong>&nbsp;<code>&lfloor; n/2 &rfloor;</code>&nbsp;的元素。</p>
@@ -22,4 +22,4 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [分治算法](https://leetcode-cn.com/tag/divide-and-conquer)
 ## 相似题目
-- [求众数 II](../majority-element-ii/README.md)
+- [求众数 II](../0229/README.md)

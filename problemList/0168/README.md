@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)
 ## 题目描述
 <p>给定一个正整数，返回它在 Excel 表中相对应的列名称。</p>
@@ -37,4 +37,4 @@
 ## 相关话题
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [Excel表列序号](../excel-sheet-column-number/README.md)
+- [Excel表列序号](../0171/README.md)

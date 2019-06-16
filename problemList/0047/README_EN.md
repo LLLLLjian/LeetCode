@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0047. Permutations II](https://leetcode-cn.com/problems/permutations-ii/)
 ## Description
 <p>Given a collection of numbers that might contain duplicates, return all possible unique permutations.</p>
@@ -19,7 +19,7 @@
 ## Related Topics
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Next Permutation](../next-permutation/README_EN.md)
-- [Permutations](../permutations/README_EN.md)
-- [Palindrome Permutation II](../palindrome-permutation-ii/README_EN.md)
-- [Number of Squareful Arrays](../number-of-squareful-arrays/README_EN.md)
+- [Next Permutation](../0031/README_EN.md)
+- [Permutations](../0046/README_EN.md)
+- [Palindrome Permutation II](../0267/README_EN.md)
+- [Number of Squareful Arrays](../0996/README_EN.md)

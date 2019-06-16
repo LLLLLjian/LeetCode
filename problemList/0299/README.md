@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0299. 猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows/)
 ## 题目描述
 <p>你正在和你的朋友玩&nbsp;<a href="https://baike.baidu.com/item/%E7%8C%9C%E6%95%B0%E5%AD%97/83200?fromtitle=Bulls+and+Cows&amp;fromid=12003488&amp;fr=aladdin" target="_blank">猜数字（Bulls and Cows）</a>游戏：你写下一个数字让你的朋友猜。每次他猜测后，你给他一个提示，告诉他有多少位数字和确切位置都猜对了（称为&ldquo;Bulls&rdquo;, 公牛），有多少位数字猜对了但是位置不对（称为&ldquo;Cows&rdquo;, 奶牛）。你的朋友将会根据提示继续猜，直到猜出秘密数字。</p>

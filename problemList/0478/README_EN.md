@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0478. Generate Random Point in a Circle](https://leetcode-cn.com/problems/generate-random-point-in-a-circle/)
 ## Description
 <p>Given the radius and x-y positions of the center of a circle, write a function <code>randPoint</code>&nbsp;which&nbsp;generates a uniform random&nbsp;point in the circle.</p>
@@ -43,4 +43,4 @@
 - [Random](https://leetcode-cn.com/tag/random)
 - [Rejection Sampling](https://leetcode-cn.com/tag/rejection-sampling)
 ## Similar Questions
-- [Random Point in Non-overlapping Rectangles](../random-point-in-non-overlapping-rectangles/README_EN.md)
+- [Random Point in Non-overlapping Rectangles](../0497/README_EN.md)

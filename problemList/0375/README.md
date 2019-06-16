@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0375. 猜数字大小 II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/)
 ## 题目描述
 <p>我们正在玩一个猜数游戏，游戏规则如下：</p>
@@ -29,7 +29,7 @@
 - [极小化极大](https://leetcode-cn.com/tag/minimax)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [翻转游戏 II](../flip-game-ii/README.md)
-- [猜数字大小](../guess-number-higher-or-lower/README.md)
-- [我能赢吗](../can-i-win/README.md)
-- [找到 K 个最接近的元素](../find-k-closest-elements/README.md)
+- [翻转游戏 II](../0294/README.md)
+- [猜数字大小](../0374/README.md)
+- [我能赢吗](../0464/README.md)
+- [找到 K 个最接近的元素](../0658/README.md)

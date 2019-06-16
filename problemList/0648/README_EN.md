@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0648. Replace Words](https://leetcode-cn.com/problems/replace-words/)
 ## Description
 <p>In English, we have a concept called <code>root</code>, which can be followed by some other words to form another longer word - let&#39;s call this word <code>successor</code>. For example, the root <code>an</code>, followed by <code>other</code>, which can form another word <code>another</code>.</p>
@@ -34,4 +34,4 @@ sentence = &quot;the cattle was rattled by the battery&quot;
 - [Trie](https://leetcode-cn.com/tag/trie)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Implement Trie (Prefix Tree)](../implement-trie-prefix-tree/README_EN.md)
+- [Implement Trie (Prefix Tree)](../0208/README_EN.md)

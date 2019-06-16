@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0992. K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/)
 ## 题目描述
 <p>给定一个正整数数组 <code>A</code>，如果 <code>A</code>&nbsp;的某个子数组中不同整数的个数恰好为 <code>K</code>，则称 <code>A</code> 的这个连续、不一定独立的子数组为<em>好子数组</em>。</p>
@@ -39,6 +39,6 @@
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 - [None](https://leetcode-cn.com/tag/sliding-window)
 ## 相似题目
-- [无重复字符的最长子串](../longest-substring-without-repeating-characters/README.md)
-- [至多包含两个不同字符的最长子串](../longest-substring-with-at-most-two-distinct-characters/README.md)
-- [至多包含 K 个不同字符的最长子串](../longest-substring-with-at-most-k-distinct-characters/README.md)
+- [无重复字符的最长子串](../0003/README.md)
+- [至多包含两个不同字符的最长子串](../0159/README.md)
+- [至多包含 K 个不同字符的最长子串](../0340/README.md)

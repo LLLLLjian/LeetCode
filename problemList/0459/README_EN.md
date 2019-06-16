@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0459. Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/)
 ## Description
 <p>Given a non-empty string check if it can be constructed by taking a substring of it and appending multiple copies of the substring together. You may assume the given string consists of lowercase English letters only and its length will not exceed 10000.</p>
@@ -32,5 +32,5 @@
 ## Related Topics
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Implement strStr()](../implement-strstr/README_EN.md)
-- [Repeated String Match](../repeated-string-match/README_EN.md)
+- [Implement strStr()](../0028/README_EN.md)
+- [Repeated String Match](../0686/README_EN.md)

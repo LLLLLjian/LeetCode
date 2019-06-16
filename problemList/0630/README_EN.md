@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0630. Course Schedule III](https://leetcode-cn.com/problems/course-schedule-iii/)
 ## Description
 <p>There are <code>n</code> different online courses numbered from <code>1</code> to <code>n</code>. Each course has some duration(course length) <code>t</code> and closed on <code>d<sub>th</sub></code> day. A course should be taken <b>continuously</b> for <code>t</code> days and must be finished before or on the <code>d<sub>th</sub></code> day. You will start at the <code>1<sub>st</sub></code> day.</p>
@@ -33,5 +33,5 @@ The 4th course cannot be taken now, since you will finish it on the 3300th day, 
 ## Related Topics
 - [Greedy](https://leetcode-cn.com/tag/greedy)
 ## Similar Questions
-- [Course Schedule](../course-schedule/README_EN.md)
-- [Course Schedule II](../course-schedule-ii/README_EN.md)
+- [Course Schedule](../0207/README_EN.md)
+- [Course Schedule II](../0210/README_EN.md)

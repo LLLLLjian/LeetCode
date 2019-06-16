@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0088. Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)
 ## Description
 <p>Given two sorted integer arrays <em>nums1</em> and <em>nums2</em>, merge <em>nums2</em> into <em>nums1</em> as one sorted array.</p>
@@ -25,6 +25,6 @@ nums2 = [2,5,6],       n = 3
 - [Array](https://leetcode-cn.com/tag/array)
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 ## Similar Questions
-- [Merge Two Sorted Lists](../merge-two-sorted-lists/README_EN.md)
-- [Squares of a Sorted Array](../squares-of-a-sorted-array/README_EN.md)
-- [Interval List Intersections](../interval-list-intersections/README_EN.md)
+- [Merge Two Sorted Lists](../0021/README_EN.md)
+- [Squares of a Sorted Array](../0977/README_EN.md)
+- [Interval List Intersections](../0986/README_EN.md)

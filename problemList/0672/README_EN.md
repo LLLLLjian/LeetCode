@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0672. Bulb Switcher II](https://leetcode-cn.com/problems/bulb-switcher-ii/)
 ## Description
 <p>There is a room with <code>n</code> lights which are turned on initially and 4 buttons on the wall. After performing exactly <code>m</code> unknown operations towards buttons, you need to return how many different kinds of status of the <code>n</code> lights could be.</p>
@@ -50,4 +50,4 @@
 ## Related Topics
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Bulb Switcher](../bulb-switcher/README_EN.md)
+- [Bulb Switcher](../0319/README_EN.md)

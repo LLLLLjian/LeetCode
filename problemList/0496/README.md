@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)
 ## 题目描述
 <p>给定两个<strong>没有重复元素</strong>的数组&nbsp;<code>nums1</code> 和&nbsp;<code>nums2</code>&nbsp;，其中<code>nums1</code>&nbsp;是&nbsp;<code>nums2</code>&nbsp;的子集。找到&nbsp;<code>nums1</code>&nbsp;中每个元素在&nbsp;<code>nums2</code>&nbsp;中的下一个比其大的值。</p>
@@ -36,6 +36,6 @@
 ## 相关话题
 - [栈](https://leetcode-cn.com/tag/stack)
 ## 相似题目
-- [下一个更大元素 II](../next-greater-element-ii/README.md)
-- [下一个更大元素 III](../next-greater-element-iii/README.md)
-- [每日温度](../daily-temperatures/README.md)
+- [下一个更大元素 II](../0503/README.md)
+- [下一个更大元素 III](../0556/README.md)
+- [每日温度](../0739/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1062. Longest Repeating Substring](https://leetcode-cn.com/problems/longest-repeating-substring/)
 ## Description
 None

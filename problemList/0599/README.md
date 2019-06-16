@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0599. 两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/)
 ## 题目描述
 <p>假设Andy和Doris想在晚餐时选择一家餐厅，并且他们都有一个表示最喜爱餐厅的列表，每个餐厅的名字用字符串表示。</p>
@@ -36,4 +36,4 @@
 ## 相关话题
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [相交链表](../intersection-of-two-linked-lists/README.md)
+- [相交链表](../0160/README.md)

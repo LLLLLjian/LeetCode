@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0493. 翻转对](https://leetcode-cn.com/problems/reverse-pairs/)
 ## 题目描述
 <p>给定一个数组&nbsp;<code>nums</code>&nbsp;，如果&nbsp;<code>i &lt; j</code>&nbsp;且&nbsp;<code>nums[i] &gt; 2*nums[j]</code>&nbsp;我们就将&nbsp;<code>(i, j)</code>&nbsp;称作一个<strong><em>重要翻转对</em></strong>。</p>
@@ -34,5 +34,5 @@
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 - [分治算法](https://leetcode-cn.com/tag/divide-and-conquer)
 ## 相似题目
-- [计算右侧小于当前元素的个数](../count-of-smaller-numbers-after-self/README.md)
-- [区间和的个数](../count-of-range-sum/README.md)
+- [计算右侧小于当前元素的个数](../0315/README.md)
+- [区间和的个数](../0327/README.md)

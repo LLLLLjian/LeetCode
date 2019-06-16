@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0726. 原子的数量](https://leetcode-cn.com/problems/number-of-atoms/)
 ## 题目描述
 <p>给定一个化学式<code>formula</code>（作为字符串），返回每种原子的数量。</p>
@@ -57,6 +57,6 @@ formula = &quot;K4(ON(SO3)2)2&quot;
 - [递归](https://leetcode-cn.com/tag/recursion)
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [字符串解码](../decode-string/README.md)
-- [编码最短长度的字符串](../encode-string-with-shortest-length/README.md)
-- [Lisp 语法解析](../parse-lisp-expression/README.md)
+- [字符串解码](../0394/README.md)
+- [编码最短长度的字符串](../0471/README.md)
+- [Lisp 语法解析](../0736/README.md)

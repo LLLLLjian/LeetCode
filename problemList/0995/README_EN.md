@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0995. Minimum Number of K Consecutive Bit Flips](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/)
 ## Description
 <p>In an array <code>A</code> containing only 0s and 1s, a <i><code>K</code>-bit flip&nbsp;</i>consists of choosing a (contiguous) subarray of length <code>K</code> and simultaneously changing every 0 in the subarray to 1, and every 1 in the subarray to 0.</p>
@@ -51,4 +51,4 @@ Flip A[5],A[6],A[7]:&nbsp;A becomes [1,1,1,1,1,1,1,1]
 - [Greedy](https://leetcode-cn.com/tag/greedy)
 - [Sliding Window](https://leetcode-cn.com/tag/sliding-window)
 ## Similar Questions
-- [Bulb Switcher](../bulb-switcher/README_EN.md)
+- [Bulb Switcher](../0319/README_EN.md)

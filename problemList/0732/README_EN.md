@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0732. My Calendar III](https://leetcode-cn.com/problems/my-calendar-iii/)
 ## Description
 <p>Implement a <code>MyCalendarThree</code> class to store your events. A new event can <b>always</b> be added.</p>
@@ -43,5 +43,5 @@ eg. [10, 20), [10, 40), and [5, 15) are still triple booked.
 - [Segment Tree](https://leetcode-cn.com/tag/segment-tree)
 - [Ordered Map](https://leetcode-cn.com/tag/ordered-map)
 ## Similar Questions
-- [My Calendar I](../my-calendar-i/README_EN.md)
-- [My Calendar II](../my-calendar-ii/README_EN.md)
+- [My Calendar I](../0729/README_EN.md)
+- [My Calendar II](../0731/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0986. Interval List Intersections](https://leetcode-cn.com/problems/interval-list-intersections/)
 ## Description
 <p>Given two lists&nbsp;of <strong>closed</strong> intervals, each list of intervals is pairwise disjoint and in sorted order.</p>
@@ -37,6 +37,6 @@
 ## Related Topics
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 ## Similar Questions
-- [Merge Intervals](../merge-intervals/README_EN.md)
-- [Merge Sorted Array](../merge-sorted-array/README_EN.md)
-- [Employee Free Time](../employee-free-time/README_EN.md)
+- [Merge Intervals](../0056/README_EN.md)
+- [Merge Sorted Array](../0088/README_EN.md)
+- [Employee Free Time](../0759/README_EN.md)

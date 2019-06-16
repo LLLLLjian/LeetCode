@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [1002. 查找常用字符](https://leetcode-cn.com/problems/find-common-characters/)
 ## 题目描述
 <p>给定仅有小写字母组成的字符串数组 <code>A</code>，返回列表中的每个字符串中都显示的全部字符（<strong>包括重复字符</strong>）组成的列表。例如，如果一个字符在每个字符串中出现 3 次，但不是 4 次，则需要在最终答案中包含该字符 3 次。</p>
@@ -34,4 +34,4 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [两个数组的交集 II](../intersection-of-two-arrays-ii/README.md)
+- [两个数组的交集 II](../0350/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 ## 题目描述
 <p>给定一个无序的整数数组，找到其中最长上升子序列的长度。</p>
@@ -23,8 +23,8 @@
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [递增的三元子序列](../increasing-triplet-subsequence/README.md)
-- [俄罗斯套娃信封问题](../russian-doll-envelopes/README.md)
-- [最长数对链](../maximum-length-of-pair-chain/README.md)
-- [最长递增子序列的个数](../number-of-longest-increasing-subsequence/README.md)
-- [两个字符串的最小ASCII删除和](../minimum-ascii-delete-sum-for-two-strings/README.md)
+- [递增的三元子序列](../0334/README.md)
+- [俄罗斯套娃信封问题](../0354/README.md)
+- [最长数对链](../0646/README.md)
+- [最长递增子序列的个数](../0673/README.md)
+- [两个字符串的最小ASCII删除和](../0712/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0307. 区域和检索 - 数组可修改](https://leetcode-cn.com/problems/range-sum-query-mutable/)
 ## 题目描述
 <p>给定一个整数数组 &nbsp;<em>nums</em>，求出数组从索引&nbsp;<em>i&nbsp;</em>到&nbsp;<em>j&nbsp;&nbsp;</em>(<em>i</em>&nbsp;&le;&nbsp;<em>j</em>) 范围内元素的总和，包含&nbsp;<em>i,&nbsp; j&nbsp;</em>两点。</p>
@@ -26,5 +26,5 @@ sumRange(0, 2) -&gt; 8
 - [树状数组](https://leetcode-cn.com/tag/binary-indexed-tree)
 - [线段树](https://leetcode-cn.com/tag/segment-tree)
 ## 相似题目
-- [区域和检索 - 数组不可变](../range-sum-query-immutable/README.md)
-- [二维区域和检索 - 可变](../range-sum-query-2d-mutable/README.md)
+- [区域和检索 - 数组不可变](../0303/README.md)
+- [二维区域和检索 - 可变](../0308/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0273. 整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words/)
 ## 题目描述
 <p>将非负整数转换为其对应的英文表示。可以保证给定输入小于&nbsp;2<sup>31</sup> - 1 。</p>
@@ -29,4 +29,4 @@
 - [数学](https://leetcode-cn.com/tag/math)
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [整数转罗马数字](../integer-to-roman/README.md)
+- [整数转罗马数字](../0012/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0310. Minimum Height Trees](https://leetcode-cn.com/problems/minimum-height-trees/)
 ## Description
 <p>For an undirected graph with tree characteristics, we can choose any node as the root. The result graph is then a rooted tree. Among all possible rooted trees, those with minimum height are called minimum height trees (MHTs). Given such a graph, write a function to find all the MHTs and return a list of their root labels.</p>
@@ -49,5 +49,5 @@ The graph contains <code>n</code> nodes which are labeled from <code>0</code> to
 - [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search)
 - [Graph](https://leetcode-cn.com/tag/graph)
 ## Similar Questions
-- [Course Schedule](../course-schedule/README_EN.md)
-- [Course Schedule II](../course-schedule-ii/README_EN.md)
+- [Course Schedule](../0207/README_EN.md)
+- [Course Schedule II](../0210/README_EN.md)

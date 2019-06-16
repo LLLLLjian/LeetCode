@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0641. 设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/)
 ## 题目描述
 <p>设计实现双端队列。<br>
@@ -45,4 +45,4 @@ circularDeque.getFront();				// 返回 4
 - [设计](https://leetcode-cn.com/tag/design)
 - [队列](https://leetcode-cn.com/tag/queue)
 ## 相似题目
-- [设计循环队列](../design-circular-queue/README.md)
+- [设计循环队列](../0622/README.md)

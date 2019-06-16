@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0645. Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)
 ## Description
 <p>
@@ -28,4 +28,4 @@ Given an array <code>nums</code> representing the data status of this set after 
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Find the Duplicate Number](../find-the-duplicate-number/README_EN.md)
+- [Find the Duplicate Number](../0287/README_EN.md)

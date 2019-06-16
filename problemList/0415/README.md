@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0415. 字符串相加](https://leetcode-cn.com/problems/add-strings/)
 ## 题目描述
 <p>给定两个字符串形式的非负整数&nbsp;<code>num1</code> 和<code>num2</code>&nbsp;，计算它们的和。</p>
@@ -16,6 +16,6 @@
 ## 相关话题
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [两数相加](../add-two-numbers/README.md)
-- [字符串相乘](../multiply-strings/README.md)
-- [数组形式的整数加法](../add-to-array-form-of-integer/README.md)
+- [两数相加](../0002/README.md)
+- [字符串相乘](../0043/README.md)
+- [数组形式的整数加法](../0989/README.md)

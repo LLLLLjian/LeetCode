@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0069. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
 ## 题目描述
 <p>实现&nbsp;<code>int sqrt(int x)</code>&nbsp;函数。</p>
@@ -26,5 +26,5 @@
 - [数学](https://leetcode-cn.com/tag/math)
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [Pow(x, n)](../powx-n/README.md)
-- [有效的完全平方数](../valid-perfect-square/README.md)
+- [Pow(x, n)](../0050/README.md)
+- [有效的完全平方数](../0367/README.md)

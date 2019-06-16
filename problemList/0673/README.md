@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)
 ## 题目描述
 <p>给定一个未排序的整数数组，找到最长递增子序列的个数。</p>
@@ -25,5 +25,5 @@
 ## 相关话题
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [最长上升子序列](../longest-increasing-subsequence/README.md)
-- [最长连续递增序列](../longest-continuous-increasing-subsequence/README.md)
+- [最长上升子序列](../0300/README.md)
+- [最长连续递增序列](../0674/README.md)

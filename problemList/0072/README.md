@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0072. 编辑距离](https://leetcode-cn.com/problems/edit-distance/)
 ## 题目描述
 <p>给定两个单词&nbsp;<em>word1</em> 和&nbsp;<em>word2</em>，计算出将&nbsp;<em>word1</em>&nbsp;转换成&nbsp;<em>word2 </em>所使用的最少操作数&nbsp;。</p>
@@ -38,7 +38,7 @@ exection -&gt; execution (插入 &#39;u&#39;)
 - [字符串](https://leetcode-cn.com/tag/string)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [相隔为 1 的编辑距离](../one-edit-distance/README.md)
-- [两个字符串的删除操作](../delete-operation-for-two-strings/README.md)
-- [两个字符串的最小ASCII删除和](../minimum-ascii-delete-sum-for-two-strings/README.md)
-- [不相交的线](../uncrossed-lines/README.md)
+- [相隔为 1 的编辑距离](../0161/README.md)
+- [两个字符串的删除操作](../0583/README.md)
+- [两个字符串的最小ASCII删除和](../0712/README.md)
+- [不相交的线](../1035/README.md)

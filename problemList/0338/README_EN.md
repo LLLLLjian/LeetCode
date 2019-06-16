@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0338. Counting Bits](https://leetcode-cn.com/problems/counting-bits/)
 ## Description
 <p>Given a non negative integer number <b>num</b>. For every numbers <b>i</b> in the range <b>0 &le; i &le; num</b> calculate the number of 1&#39;s in their binary representation and return them as an array.</p>
@@ -28,4 +28,4 @@
 - [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Number of 1 Bits](../number-of-1-bits/README_EN.md)
+- [Number of 1 Bits](../0191/README_EN.md)

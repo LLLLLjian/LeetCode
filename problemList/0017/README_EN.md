@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0017. Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
 ## Description
 <p>Given a string containing digits from <code>2-9</code> inclusive, return all possible letter combinations that the number could represent.</p>
@@ -23,6 +23,6 @@
 - [String](https://leetcode-cn.com/tag/string)
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Generate Parentheses](../generate-parentheses/README_EN.md)
-- [Combination Sum](../combination-sum/README_EN.md)
-- [Binary Watch](../binary-watch/README_EN.md)
+- [Generate Parentheses](../0022/README_EN.md)
+- [Combination Sum](../0039/README_EN.md)
+- [Binary Watch](../0401/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0274. H指数](https://leetcode-cn.com/problems/h-index/)
 ## 题目描述
 <p>给定一位研究者论文被引用次数的数组（被引用次数是非负整数）。编写一个方法，计算出研究者的 <em>h&nbsp;</em>指数。</p>
@@ -23,4 +23,4 @@
 - [排序](https://leetcode-cn.com/tag/sort)
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [H指数 II](../h-index-ii/README.md)
+- [H指数 II](../0275/README.md)

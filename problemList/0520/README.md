@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0520. 检测大写字母](https://leetcode-cn.com/problems/detect-capital/)
 ## 题目描述
 <p>给定一个单词，你需要判断单词的大写使用是否正确。</p>

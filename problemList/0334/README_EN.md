@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0334. Increasing Triplet Subsequence](https://leetcode-cn.com/problems/increasing-triplet-subsequence/)
 ## Description
 <p>Given an unsorted array return whether an increasing subsequence of length 3 exists or not in the array.</p>
@@ -31,4 +31,4 @@ such that <i>arr[i]</i> &lt; <i>arr[j]</i> &lt; <i>arr[k]</i> given 0 &le; <i>i<
 ## Related Topics
 
 ## Similar Questions
-- [Longest Increasing Subsequence](../longest-increasing-subsequence/README_EN.md)
+- [Longest Increasing Subsequence](../0300/README_EN.md)

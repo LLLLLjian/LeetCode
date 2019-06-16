@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0301. 删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses/)
 ## 题目描述
 <p>删除最小数量的无效括号，使得输入的字符串有效，返回所有可能的结果。</p>
@@ -27,4 +27,4 @@
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 - [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search)
 ## 相似题目
-- [有效的括号](../valid-parentheses/README.md)
+- [有效的括号](../0020/README.md)

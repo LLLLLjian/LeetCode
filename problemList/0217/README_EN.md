@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0217. Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/)
 ## Description
 <p>Given an array of integers, find if the array contains any duplicates.</p>
@@ -28,5 +28,5 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Contains Duplicate II](../contains-duplicate-ii/README_EN.md)
-- [Contains Duplicate III](../contains-duplicate-iii/README_EN.md)
+- [Contains Duplicate II](../0219/README_EN.md)
+- [Contains Duplicate III](../0220/README_EN.md)

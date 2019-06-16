@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0726. Number of Atoms](https://leetcode-cn.com/problems/number-of-atoms/)
 ## Description
 <p>Given a chemical <code>formula</code> (given as a string), return the count of each atom.
@@ -54,6 +54,6 @@ The count of elements are {'K': 4, 'N': 2, 'O': 14, 'S': 4}.
 - [Recursion](https://leetcode-cn.com/tag/recursion)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Decode String](../decode-string/README_EN.md)
-- [Encode String with Shortest Length](../encode-string-with-shortest-length/README_EN.md)
-- [Parse Lisp Expression](../parse-lisp-expression/README_EN.md)
+- [Decode String](../0394/README_EN.md)
+- [Encode String with Shortest Length](../0471/README_EN.md)
+- [Parse Lisp Expression](../0736/README_EN.md)

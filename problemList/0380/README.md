@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0380. 常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)
 ## 题目描述
 <p>设计一个支持在<em>平均&nbsp;</em>时间复杂度 <strong>O(1)</strong>&nbsp;下，执行以下操作的数据结构。</p>
@@ -43,4 +43,4 @@ randomSet.getRandom();
 - [数组](https://leetcode-cn.com/tag/array)
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [O(1) 时间插入、删除和获取随机元素 - 允许重复](../insert-delete-getrandom-o1-duplicates-allowed/README.md)
+- [O(1) 时间插入、删除和获取随机元素 - 允许重复](../0381/README.md)

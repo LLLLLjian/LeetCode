@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)
 ## 题目描述
 <p><strong>不使用</strong>运算符&nbsp;<code>+</code> 和&nbsp;<code>-</code>&nbsp;​​​​​​​，计算两整数&nbsp;​​​​​​​<code>a</code>&nbsp;、<code>b</code>&nbsp;​​​​​​​之和。</p>
@@ -18,4 +18,4 @@
 ## 相关话题
 - [位运算](https://leetcode-cn.com/tag/bit-manipulation)
 ## 相似题目
-- [两数相加](../add-two-numbers/README.md)
+- [两数相加](../0002/README.md)

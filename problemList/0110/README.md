@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
 ## 题目描述
 <p>给定一个二叉树，判断它是否是高度平衡的二叉树。</p>
@@ -41,4 +41,4 @@
 - [树](https://leetcode-cn.com/tag/tree)
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 ## 相似题目
-- [二叉树的最大深度](../maximum-depth-of-binary-tree/README.md)
+- [二叉树的最大深度](../0104/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0036. Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/)
 ## Description
 <p>Determine if a&nbsp;9x9 Sudoku board&nbsp;is valid.&nbsp;Only the filled cells need to be validated&nbsp;<strong>according to the following rules</strong>:</p>
@@ -65,4 +65,4 @@
 ## Related Topics
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Sudoku Solver](../sudoku-solver/README_EN.md)
+- [Sudoku Solver](../0037/README_EN.md)

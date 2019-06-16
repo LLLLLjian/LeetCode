@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0377. Combination Sum IV](https://leetcode-cn.com/problems/combination-sum-iv/)
 ## Description
 <p>Given an integer array with all positive numbers and no duplicates, find the number of possible combinations that add up to a positive integer target.</p>
@@ -37,4 +37,4 @@ Special thanks to <a href="https://leetcode.com/pbrother/">@pbrother</a> for add
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Combination Sum](../combination-sum/README_EN.md)
+- [Combination Sum](../0039/README_EN.md)

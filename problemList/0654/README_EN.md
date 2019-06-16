@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0654. Maximum Binary Tree](https://leetcode-cn.com/problems/maximum-binary-tree/)
 ## Description
 <p>
@@ -38,4 +38,4 @@ Construct the maximum tree by the given array and output the root node of this t
 ## Related Topics
 - [Tree](https://leetcode-cn.com/tag/tree)
 ## Similar Questions
-- [Maximum Binary Tree II](../maximum-binary-tree-ii/README_EN.md)
+- [Maximum Binary Tree II](../0998/README_EN.md)

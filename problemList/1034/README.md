@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [1034. 边框着色](https://leetcode-cn.com/problems/coloring-a-border/)
 ## 题目描述
 <p>给出一个二维整数网格&nbsp;<code>grid</code>，网格中的每个值表示该位置处的网格块的颜色。</p>
@@ -47,4 +47,4 @@
 ## 相关话题
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 ## 相似题目
-- [岛屿的周长](../island-perimeter/README.md)
+- [岛屿的周长](../0463/README.md)

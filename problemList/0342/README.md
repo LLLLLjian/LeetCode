@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0342. 4的幂](https://leetcode-cn.com/problems/power-of-four/)
 ## 题目描述
 <p>给定一个整数 (32 位有符号整数)，请编写一个函数来判断它是否是 4&nbsp;的幂次方。</p>
@@ -21,5 +21,5 @@
 ## 相关话题
 - [位运算](https://leetcode-cn.com/tag/bit-manipulation)
 ## 相似题目
-- [2的幂](../power-of-two/README.md)
-- [3的幂](../power-of-three/README.md)
+- [2的幂](../0231/README.md)
+- [3的幂](../0326/README.md)

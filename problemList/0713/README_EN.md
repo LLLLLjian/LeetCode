@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0713. Subarray Product Less Than K](https://leetcode-cn.com/problems/subarray-product-less-than-k/)
 ## Description
 <p>Your are given an array of positive integers <code>nums</code>.</p>
@@ -23,6 +23,6 @@ Note that [10, 5, 2] is not included as the product of 100 is not strictly less 
 - [Array](https://leetcode-cn.com/tag/array)
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 ## Similar Questions
-- [Maximum Product Subarray](../maximum-product-subarray/README_EN.md)
-- [Maximum Size Subarray Sum Equals k](../maximum-size-subarray-sum-equals-k/README_EN.md)
-- [Subarray Sum Equals K](../subarray-sum-equals-k/README_EN.md)
+- [Maximum Product Subarray](../0152/README_EN.md)
+- [Maximum Size Subarray Sum Equals k](../0325/README_EN.md)
+- [Subarray Sum Equals K](../0560/README_EN.md)

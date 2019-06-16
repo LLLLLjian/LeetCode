@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0600. 不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/)
 ## 题目描述
 <p>给定一个正整数 n，找出小于或等于 n 的非负整数中，其二进制表示不包含&nbsp;<strong>连续的1&nbsp;</strong>的个数。</p>
@@ -23,6 +23,6 @@
 ## 相关话题
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [打家劫舍](../house-robber/README.md)
-- [打家劫舍 II](../house-robber-ii/README.md)
-- [一和零](../ones-and-zeroes/README.md)
+- [打家劫舍](../0198/README.md)
+- [打家劫舍 II](../0213/README.md)
+- [一和零](../0474/README.md)

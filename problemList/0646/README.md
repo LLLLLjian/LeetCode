@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0646. 最长数对链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/)
 ## 题目描述
 <p>给出&nbsp;<code>n</code>&nbsp;个数对。&nbsp;在每一个数对中，第一个数字总是比第二个数字小。</p>
@@ -25,5 +25,5 @@
 ## 相关话题
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [最长上升子序列](../longest-increasing-subsequence/README.md)
-- [递增子序列](../increasing-subsequences/README.md)
+- [最长上升子序列](../0300/README.md)
+- [递增子序列](../0491/README.md)

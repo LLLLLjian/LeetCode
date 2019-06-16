@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0401. Binary Watch](https://leetcode-cn.com/problems/binary-watch/)
 ## Description
 <p>A binary watch has 4 LEDs on the top which represent the <b>hours</b> (<b>0-11</b>), and the 6 LEDs on the bottom represent the <b>minutes</b> (<b>0-59</b>).</p>
@@ -24,5 +24,5 @@
 - [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Letter Combinations of a Phone Number](../letter-combinations-of-a-phone-number/README_EN.md)
-- [Number of 1 Bits](../number-of-1-bits/README_EN.md)
+- [Letter Combinations of a Phone Number](../0017/README_EN.md)
+- [Number of 1 Bits](../0191/README_EN.md)

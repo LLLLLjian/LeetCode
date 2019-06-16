@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0213. House Robber II](https://leetcode-cn.com/problems/house-robber-ii/)
 ## Description
 <p>You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed. All houses at this place are <strong>arranged in a circle.</strong> That means the first house is the neighbor of the last one. Meanwhile, adjacent houses have security system connected and&nbsp;<b>it will automatically contact the police if two adjacent houses were broken into on the same night</b>.</p>
@@ -26,9 +26,9 @@
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [House Robber](../house-robber/README_EN.md)
-- [Paint House](../paint-house/README_EN.md)
-- [Paint Fence](../paint-fence/README_EN.md)
-- [House Robber III](../house-robber-iii/README_EN.md)
-- [Non-negative Integers without Consecutive Ones](../non-negative-integers-without-consecutive-ones/README_EN.md)
-- [Coin Path](../coin-path/README_EN.md)
+- [House Robber](../0198/README_EN.md)
+- [Paint House](../0256/README_EN.md)
+- [Paint Fence](../0276/README_EN.md)
+- [House Robber III](../0337/README_EN.md)
+- [Non-negative Integers without Consecutive Ones](../0600/README_EN.md)
+- [Coin Path](../0656/README_EN.md)

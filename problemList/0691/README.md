@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0691. 贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word/)
 ## 题目描述
 <p>我们给出了 N 种不同类型的贴纸。每个贴纸上都有一个小写的英文单词。</p>
@@ -66,4 +66,4 @@
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [赎金信](../ransom-note/README.md)
+- [赎金信](../0383/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0098. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 ## 题目描述
 <p>给定一个二叉树，判断其是否是一个有效的二叉搜索树。</p>
@@ -38,5 +38,5 @@
 - [树](https://leetcode-cn.com/tag/tree)
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 ## 相似题目
-- [二叉树的中序遍历](../binary-tree-inorder-traversal/README.md)
-- [二叉搜索树中的众数](../find-mode-in-binary-search-tree/README.md)
+- [二叉树的中序遍历](../0094/README.md)
+- [二叉搜索树中的众数](../0501/README.md)

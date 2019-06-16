@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0596. Classes More Than 5 Students](https://leetcode-cn.com/problems/classes-more-than-5-students/)
 ## Description
 <p>There is a table <code>courses</code> with columns: <b>student</b> and <b>class</b></p>

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0070. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
 ## 题目描述
 <p>假设你正在爬楼梯。需要 <em>n</em>&nbsp;阶你才能到达楼顶。</p>
@@ -29,5 +29,5 @@
 ## 相关话题
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [使用最小花费爬楼梯](../min-cost-climbing-stairs/README.md)
-- [斐波那契数](../fibonacci-number/README.md)
+- [使用最小花费爬楼梯](../0746/README.md)
+- [斐波那契数](../0509/README.md)

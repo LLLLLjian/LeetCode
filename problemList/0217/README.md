@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)
 ## 题目描述
 <p>给定一个整数数组，判断是否存在重复元素。</p>
@@ -25,5 +25,5 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [存在重复元素 II](../contains-duplicate-ii/README.md)
-- [存在重复元素 III](../contains-duplicate-iii/README.md)
+- [存在重复元素 II](../0219/README.md)
+- [存在重复元素 III](../0220/README.md)

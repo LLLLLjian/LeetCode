@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0076. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)
 ## 题目描述
 <p>给你一个字符串 S、一个字符串 T，请在字符串 S 里面找出：包含 T 所有字母的最小子串。</p>
@@ -22,9 +22,9 @@
 - [字符串](https://leetcode-cn.com/tag/string)
 - [None](https://leetcode-cn.com/tag/sliding-window)
 ## 相似题目
-- [串联所有单词的子串](../substring-with-concatenation-of-all-words/README.md)
-- [长度最小的子数组](../minimum-size-subarray-sum/README.md)
-- [滑动窗口最大值](../sliding-window-maximum/README.md)
-- [字符串的排列](../permutation-in-string/README.md)
-- [最小区间](../smallest-range/README.md)
-- [最小窗口子序列](../minimum-window-subsequence/README.md)
+- [串联所有单词的子串](../0030/README.md)
+- [长度最小的子数组](../0209/README.md)
+- [滑动窗口最大值](../0239/README.md)
+- [字符串的排列](../0567/README.md)
+- [最小区间](../0632/README.md)
+- [最小窗口子序列](../0727/README.md)

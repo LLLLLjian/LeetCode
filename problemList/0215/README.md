@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 ## 题目描述
 <p>在未排序的数组中找到第 <strong>k</strong> 个最大的元素。请注意，你需要找的是数组排序后的第 k 个最大的元素，而不是第 k 个不同的元素。</p>
@@ -23,8 +23,8 @@
 - [堆](https://leetcode-cn.com/tag/heap)
 - [分治算法](https://leetcode-cn.com/tag/divide-and-conquer)
 ## 相似题目
-- [摆动排序 II](../wiggle-sort-ii/README.md)
-- [前K个高频元素](../top-k-frequent-elements/README.md)
-- [第三大的数](../third-maximum-number/README.md)
-- [数据流中的第K大元素](../kth-largest-element-in-a-stream/README.md)
-- [最接近原点的 K 个点](../k-closest-points-to-origin/README.md)
+- [摆动排序 II](../0324/README.md)
+- [前K个高频元素](../0347/README.md)
+- [第三大的数](../0414/README.md)
+- [数据流中的第K大元素](../0703/README.md)
+- [最接近原点的 K 个点](../0973/README.md)

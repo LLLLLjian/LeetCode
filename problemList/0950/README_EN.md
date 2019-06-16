@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0950. Reveal Cards In Increasing Order](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order/)
 ## Description
 <p>In a deck of cards, every card has a unique integer.&nbsp; You can order the deck in&nbsp;any order you want.</p>

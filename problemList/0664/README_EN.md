@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0664. Strange Printer](https://leetcode-cn.com/problems/strange-printer/)
 ## Description
 <p>
@@ -37,4 +37,4 @@ Given a string consists of lower English letters only, your job is to count the 
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Remove Boxes](../remove-boxes/README_EN.md)
+- [Remove Boxes](../0546/README_EN.md)

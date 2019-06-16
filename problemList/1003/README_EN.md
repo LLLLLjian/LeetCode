@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1003. Check If Word Is Valid After Substitutions](https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions/)
 ## Description
 <p>We are given that the string <code>&quot;abc&quot;</code> is valid.</p>
@@ -71,4 +71,4 @@ Then we can insert &quot;abc&quot; before the last letter, resulting in &quot;ab
 - [Stack](https://leetcode-cn.com/tag/stack)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Valid Parentheses](../valid-parentheses/README_EN.md)
+- [Valid Parentheses](../0020/README_EN.md)

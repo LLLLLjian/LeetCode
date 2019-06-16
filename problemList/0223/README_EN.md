@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0223. Rectangle Area](https://leetcode-cn.com/problems/rectangle-area/)
 ## Description
 <p>Find the total area covered by two <strong>rectilinear</strong> rectangles in a <strong>2D</strong> plane.</p>
@@ -21,4 +21,4 @@
 ## Related Topics
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Rectangle Overlap](../rectangle-overlap/README_EN.md)
+- [Rectangle Overlap](../0836/README_EN.md)

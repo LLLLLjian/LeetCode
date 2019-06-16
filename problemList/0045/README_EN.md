@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0045. Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)
 ## Description
 <p>Given an array of non-negative integers, you are initially positioned at the first index of the array.</p>
@@ -24,4 +24,4 @@
 - [Greedy](https://leetcode-cn.com/tag/greedy)
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Jump Game](../jump-game/README_EN.md)
+- [Jump Game](../0055/README_EN.md)

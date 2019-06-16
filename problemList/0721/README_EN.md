@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0721. Accounts Merge](https://leetcode-cn.com/problems/accounts-merge/)
 ## Description
 <p>Given a list <code>accounts</code>, each element <code>accounts[i]</code> is a list of strings, where the first element <code>accounts[i][0]</code> is a <i>name</i>, and the rest of the elements are <i>emails</i> representing emails of the account.</p>
@@ -30,6 +30,6 @@ We could return these lists in any order, for example the answer [['Mary', 'mary
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 - [Union Find](https://leetcode-cn.com/tag/union-find)
 ## Similar Questions
-- [Redundant Connection](../redundant-connection/README_EN.md)
-- [Sentence Similarity](../sentence-similarity/README_EN.md)
-- [Sentence Similarity II](../sentence-similarity-ii/README_EN.md)
+- [Redundant Connection](../0684/README_EN.md)
+- [Sentence Similarity](../0734/README_EN.md)
+- [Sentence Similarity II](../0737/README_EN.md)

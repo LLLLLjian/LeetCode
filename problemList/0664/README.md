@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0664. 奇怪的打印机](https://leetcode-cn.com/problems/strange-printer/)
 ## 题目描述
 <p>有台奇怪的打印机有以下两个特殊要求：</p>
@@ -32,4 +32,4 @@
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [移除盒子](../remove-boxes/README.md)
+- [移除盒子](../0546/README.md)

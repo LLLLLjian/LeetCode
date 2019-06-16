@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
 ## 题目描述
 <p>给定一个数组，它的第&nbsp;<em>i</em> 个元素是一支给定股票第 <em>i</em> 天的价格。</p>
@@ -35,8 +35,8 @@
 - [贪心算法](https://leetcode-cn.com/tag/greedy)
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [买卖股票的最佳时机](../best-time-to-buy-and-sell-stock/README.md)
-- [买卖股票的最佳时机 III](../best-time-to-buy-and-sell-stock-iii/README.md)
-- [买卖股票的最佳时机 IV](../best-time-to-buy-and-sell-stock-iv/README.md)
-- [最佳买卖股票时机含冷冻期](../best-time-to-buy-and-sell-stock-with-cooldown/README.md)
-- [买卖股票的最佳时机含手续费](../best-time-to-buy-and-sell-stock-with-transaction-fee/README.md)
+- [买卖股票的最佳时机](../0121/README.md)
+- [买卖股票的最佳时机 III](../0123/README.md)
+- [买卖股票的最佳时机 IV](../0188/README.md)
+- [最佳买卖股票时机含冷冻期](../0309/README.md)
+- [买卖股票的最佳时机含手续费](../0714/README.md)

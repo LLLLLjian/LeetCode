@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0371. Sum of Two Integers](https://leetcode-cn.com/problems/sum-of-two-integers/)
 ## Description
 <p>Calculate the sum of two integers <i>a</i> and <i>b</i>, but you are <b>not allowed</b> to use the operator <code>+</code> and <code>-</code>.</p>
@@ -25,4 +25,4 @@
 ## Related Topics
 - [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)
 ## Similar Questions
-- [Add Two Numbers](../add-two-numbers/README_EN.md)
+- [Add Two Numbers](../0002/README_EN.md)

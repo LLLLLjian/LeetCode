@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0645. 错误的集合](https://leetcode-cn.com/problems/set-mismatch/)
 ## 题目描述
 <p>集合 <code>S</code> 包含从1到&nbsp;<code>n</code>&nbsp;的整数。不幸的是，因为数据错误，导致集合里面某一个元素复制了成了集合里面的另外一个元素的值，导致集合丢失了一个整数并且有一个元素重复。</p>
@@ -24,4 +24,4 @@
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [寻找重复数](../find-the-duplicate-number/README.md)
+- [寻找重复数](../0287/README.md)

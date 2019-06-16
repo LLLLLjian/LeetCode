@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0680. Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii/)
 ## Description
 <p>
@@ -30,4 +30,4 @@ The maximum length of the string is 50000.</li>
 ## Related Topics
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Valid Palindrome](../valid-palindrome/README_EN.md)
+- [Valid Palindrome](../0125/README_EN.md)

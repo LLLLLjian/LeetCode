@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0074. Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)
 ## Description
 <p>Write an efficient algorithm that searches for a value in an <em>m</em> x <em>n</em> matrix. This matrix has the following properties:</p>
@@ -38,4 +38,4 @@ target = 13
 - [Array](https://leetcode-cn.com/tag/array)
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Search a 2D Matrix II](../search-a-2d-matrix-ii/README_EN.md)
+- [Search a 2D Matrix II](../0240/README_EN.md)

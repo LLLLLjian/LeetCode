@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0448. Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)
 ## Description
 <p>Given an array of integers where 1 &le; a[i] &le; <i>n</i> (<i>n</i> = size of array), some elements appear twice and others appear once.</p>
@@ -20,5 +20,5 @@
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [First Missing Positive](../first-missing-positive/README_EN.md)
-- [Find All Duplicates in an Array](../find-all-duplicates-in-an-array/README_EN.md)
+- [First Missing Positive](../0041/README_EN.md)
+- [Find All Duplicates in an Array](../0442/README_EN.md)

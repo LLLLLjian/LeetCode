@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0303. Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)
 ## Description
 <p>Given an integer array <i>nums</i>, find the sum of the elements between indices <i>i</i> and <i>j</i> (<i>i</i> &le; <i>j</i>), inclusive.</p>
@@ -23,6 +23,6 @@ sumRange(0, 5) -> -3
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Range Sum Query 2D - Immutable](../range-sum-query-2d-immutable/README_EN.md)
-- [Range Sum Query - Mutable](../range-sum-query-mutable/README_EN.md)
-- [Maximum Size Subarray Sum Equals k](../maximum-size-subarray-sum-equals-k/README_EN.md)
+- [Range Sum Query 2D - Immutable](../0304/README_EN.md)
+- [Range Sum Query - Mutable](../0307/README_EN.md)
+- [Maximum Size Subarray Sum Equals k](../0325/README_EN.md)

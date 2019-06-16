@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0735. 行星碰撞](https://leetcode-cn.com/problems/asteroid-collision/)
 ## 题目描述
 <p>给定一个整数数组 <code>asteroids</code>，表示在同一行的行星。</p>
@@ -59,4 +59,4 @@ asteroids = [-2, -1, 1, 2]
 ## 相关话题
 - [栈](https://leetcode-cn.com/tag/stack)
 ## 相似题目
-- [种花问题](../can-place-flowers/README.md)
+- [种花问题](../0605/README.md)

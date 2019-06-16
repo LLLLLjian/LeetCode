@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0678. Valid Parenthesis String](https://leetcode-cn.com/problems/valid-parenthesis-string/)
 ## Description
 <p>
@@ -42,4 +42,4 @@ Given a string containing only three types of characters: '(', ')' and '*', writ
 ## Related Topics
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Special Binary String](../special-binary-string/README_EN.md)
+- [Special Binary String](../0761/README_EN.md)

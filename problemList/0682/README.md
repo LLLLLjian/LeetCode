@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/)
 ## 题目描述
 <p>你现在是棒球比赛记录员。<br>

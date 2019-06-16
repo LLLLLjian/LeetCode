@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0583. Delete Operation for Two Strings](https://leetcode-cn.com/problems/delete-operation-for-two-strings/)
 ## Description
 <p>
@@ -23,5 +23,5 @@ Given two words <i>word1</i> and <i>word2</i>, find the minimum number of steps 
 ## Related Topics
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Edit Distance](../edit-distance/README_EN.md)
-- [Minimum ASCII Delete Sum for Two Strings](../minimum-ascii-delete-sum-for-two-strings/README_EN.md)
+- [Edit Distance](../0072/README_EN.md)
+- [Minimum ASCII Delete Sum for Two Strings](../0712/README_EN.md)

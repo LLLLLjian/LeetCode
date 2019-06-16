@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0432. All O`one Data Structure](https://leetcode-cn.com/problems/all-oone-data-structure/)
 ## Description
 <p>Implement a data structure supporting the following operations:</p>

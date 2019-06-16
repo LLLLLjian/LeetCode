@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0185. 部门工资前三高的员工](https://leetcode-cn.com/problems/department-top-three-salaries/)
 ## 题目描述
 <p><code>Employee</code> 表包含所有员工信息，每个员工有其对应的&nbsp;Id, salary 和 department Id 。</p>

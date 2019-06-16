@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0468. 验证IP地址](https://leetcode-cn.com/problems/validate-ip-address/)
 ## 题目描述
 <p>编写一个函数来验证输入的字符串是否是有效的 IPv4 或&nbsp;IPv6 地址。</p>
@@ -49,4 +49,4 @@
 ## 相关话题
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [IP 到 CIDR](../ip-to-cidr/README.md)
+- [IP 到 CIDR](../0751/README.md)

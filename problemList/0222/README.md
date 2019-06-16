@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)
 ## 题目描述
 <p>给出一个<strong>完全二叉树</strong>，求出该树的节点个数。</p>
@@ -23,4 +23,4 @@
 - [树](https://leetcode-cn.com/tag/tree)
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [最接近的二叉搜索树值](../closest-binary-search-tree-value/README.md)
+- [最接近的二叉搜索树值](../0270/README.md)

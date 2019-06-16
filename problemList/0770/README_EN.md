@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0770. Basic Calculator IV](https://leetcode-cn.com/problems/basic-calculator-iv/)
 ## Description
 <p>Given an <code>expression</code>&nbsp;such as <code>expression = &quot;e + 8 - a + 5&quot;</code> and an evaluation map such as <code>{&quot;e&quot;: 1}</code> (given in terms of <code>evalvars = [&quot;e&quot;]</code> and <code>evalints = [1]</code>), return a list of tokens representing the simplified expression, such as <code>[&quot;-1*a&quot;,&quot;14&quot;]</code></p>
@@ -58,5 +58,5 @@ evalvars = [], evalints = []
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Parse Lisp Expression](../parse-lisp-expression/README_EN.md)
-- [Basic Calculator III](../basic-calculator-iii/README_EN.md)
+- [Parse Lisp Expression](../0736/README_EN.md)
+- [Basic Calculator III](../0772/README_EN.md)

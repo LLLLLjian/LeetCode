@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0030. Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)
 ## Description
 <p>You are given a string, <strong>s</strong>, and a list of words, <strong>words</strong>, that are all of the same length. Find all starting indices of substring(s) in <strong>s</strong> that is a concatenation of each word in <strong>words</strong> exactly once and without any intervening characters.</p>
@@ -29,4 +29,4 @@ The output order does not matter, returning [9,0] is fine too.
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Minimum Window Substring](../minimum-window-substring/README_EN.md)
+- [Minimum Window Substring](../0076/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0621. Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/)
 ## Description
 <p>Given a char array representing tasks CPU need to do. It contains capital letters A to Z where different letters represent different tasks. Tasks could be done without original order. Each task could be done in one interval. For each interval, CPU could finish one task or just be idle.</p>
@@ -32,5 +32,5 @@
 - [Queue](https://leetcode-cn.com/tag/queue)
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Rearrange String k Distance Apart](../rearrange-string-k-distance-apart/README_EN.md)
-- [Reorganize String](../reorganize-string/README_EN.md)
+- [Rearrange String k Distance Apart](../0358/README_EN.md)
+- [Reorganize String](../0767/README_EN.md)

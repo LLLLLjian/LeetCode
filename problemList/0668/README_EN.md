@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0668. Kth Smallest Number in Multiplication Table](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table/)
 ## Description
 <p>
@@ -48,6 +48,6 @@ The 6-th smallest number is 6 (1, 2, 2, 3, 4, 6).
 ## Related Topics
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Kth Smallest Element in a Sorted Matrix](../kth-smallest-element-in-a-sorted-matrix/README_EN.md)
-- [Find K-th Smallest Pair Distance](../find-k-th-smallest-pair-distance/README_EN.md)
-- [K-th Smallest Prime Fraction](../k-th-smallest-prime-fraction/README_EN.md)
+- [Kth Smallest Element in a Sorted Matrix](../0378/README_EN.md)
+- [Find K-th Smallest Pair Distance](../0719/README_EN.md)
+- [K-th Smallest Prime Fraction](../0786/README_EN.md)

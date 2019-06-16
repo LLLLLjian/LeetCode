@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)
 ## 题目描述
 <p>给定两个数组，编写一个函数来计算它们的交集。</p>
@@ -36,5 +36,5 @@
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [两个数组的交集](../intersection-of-two-arrays/README.md)
-- [查找常用字符](../find-common-characters/README.md)
+- [两个数组的交集](../0349/README.md)
+- [查找常用字符](../1002/README.md)

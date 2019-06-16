@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0042. Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)
 ## Description
 <p>Given <em>n</em> non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.</p>
@@ -18,7 +18,7 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 ## Similar Questions
-- [Container With Most Water](../container-with-most-water/README_EN.md)
-- [Product of Array Except Self](../product-of-array-except-self/README_EN.md)
-- [Trapping Rain Water II](../trapping-rain-water-ii/README_EN.md)
-- [Pour Water](../pour-water/README_EN.md)
+- [Container With Most Water](../0011/README_EN.md)
+- [Product of Array Except Self](../0238/README_EN.md)
+- [Trapping Rain Water II](../0407/README_EN.md)
+- [Pour Water](../0755/README_EN.md)

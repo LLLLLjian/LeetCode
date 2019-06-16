@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0009. 回文数](https://leetcode-cn.com/problems/palindrome-number/)
 ## 题目描述
 <p>判断一个整数是否是回文数。回文数是指正序（从左向右）和倒序（从右向左）读都是一样的整数。</p>
@@ -31,4 +31,4 @@
 ## 相关话题
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [回文链表](../palindrome-linked-list/README.md)
+- [回文链表](../0234/README.md)

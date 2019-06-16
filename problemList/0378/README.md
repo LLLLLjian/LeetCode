@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0378. 有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 ## 题目描述
 <p>给定一个&nbsp;<em>n x n&nbsp;</em>矩阵，其中每行和每列元素均按升序排序，找到矩阵中第k小的元素。<br />
@@ -25,7 +25,7 @@ k = 8,
 - [堆](https://leetcode-cn.com/tag/heap)
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [查找和最小的K对数字](../find-k-pairs-with-smallest-sums/README.md)
-- [乘法表中第k小的数](../kth-smallest-number-in-multiplication-table/README.md)
-- [找出第 k 小的距离对](../find-k-th-smallest-pair-distance/README.md)
-- [第 K 个最小的素数分数](../k-th-smallest-prime-fraction/README.md)
+- [查找和最小的K对数字](../0373/README.md)
+- [乘法表中第k小的数](../0668/README.md)
+- [找出第 k 小的距离对](../0719/README.md)
+- [第 K 个最小的素数分数](../0786/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0230. Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
 ## Description
 <p>Given a binary search tree, write a function <code>kthSmallest</code> to find the <b>k</b>th smallest element in it.</p>
@@ -39,5 +39,5 @@ What if the BST is modified (insert/delete operations) often and you need to fin
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal/README_EN.md)
-- [Second Minimum Node In a Binary Tree](../second-minimum-node-in-a-binary-tree/README_EN.md)
+- [Binary Tree Inorder Traversal](../0094/README_EN.md)
+- [Second Minimum Node In a Binary Tree](../0671/README_EN.md)

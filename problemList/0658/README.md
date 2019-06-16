@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0658. 找到 K 个最接近的元素](https://leetcode-cn.com/problems/find-k-closest-elements/)
 ## 题目描述
 <p>给定一个排序好的数组，两个整数 <code>k</code> 和 <code>x</code>，从数组中找到最靠近 <code>x</code>（两数之差最小）的 <code>k</code> 个数。返回的结果必须要是按升序排好的。如果有两个数与 <code>x</code> 的差值一样，优先选择数值较小的那个数。</p>
@@ -38,6 +38,6 @@
 ## 相关话题
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [猜数字大小](../guess-number-higher-or-lower/README.md)
-- [猜数字大小 II](../guess-number-higher-or-lower-ii/README.md)
-- [找出第 k 小的距离对](../find-k-th-smallest-pair-distance/README.md)
+- [猜数字大小](../0374/README.md)
+- [猜数字大小 II](../0375/README.md)
+- [找出第 k 小的距离对](../0719/README.md)

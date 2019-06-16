@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)
 ## 题目描述
 <p>我们正在玩一个猜数字游戏。 游戏规则如下：<br>
@@ -20,6 +20,6 @@
 ## 相关话题
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [第一个错误的版本](../first-bad-version/README.md)
-- [猜数字大小 II](../guess-number-higher-or-lower-ii/README.md)
-- [找到 K 个最接近的元素](../find-k-closest-elements/README.md)
+- [第一个错误的版本](../0278/README.md)
+- [猜数字大小 II](../0375/README.md)
+- [找到 K 个最接近的元素](../0658/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
 ## 题目描述
 <p>根据<a href="https://baike.baidu.com/item/%E9%80%86%E6%B3%A2%E5%85%B0%E5%BC%8F/128437" target="_blank">逆波兰表示法</a>，求表达式的值。</p>
@@ -43,5 +43,5 @@
 ## 相关话题
 - [栈](https://leetcode-cn.com/tag/stack)
 ## 相似题目
-- [基本计算器](../basic-calculator/README.md)
-- [给表达式添加运算符](../expression-add-operators/README.md)
+- [基本计算器](../0224/README.md)
+- [给表达式添加运算符](../0282/README.md)

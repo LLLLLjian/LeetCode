@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1061. Lexicographically Smallest Equivalent String](https://leetcode-cn.com/problems/lexicographically-smallest-equivalent-string/)
 ## Description
 None

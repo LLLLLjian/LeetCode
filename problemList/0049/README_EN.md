@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0049. Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/)
 ## Description
 <p>Given an array of strings, group anagrams together.</p>
@@ -26,5 +26,5 @@
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Valid Anagram](../valid-anagram/README_EN.md)
-- [Group Shifted Strings](../group-shifted-strings/README_EN.md)
+- [Valid Anagram](../0242/README_EN.md)
+- [Group Shifted Strings](../0249/README_EN.md)

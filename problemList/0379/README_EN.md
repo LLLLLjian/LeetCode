@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0379. Design Phone Directory](https://leetcode-cn.com/problems/design-phone-directory/)
 ## Description
 None

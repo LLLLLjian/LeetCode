@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0472. 连接词](https://leetcode-cn.com/problems/concatenated-words/)
 ## 题目描述
 <p>给定一个<strong>不含重复</strong>单词的列表，编写一个程序，返回给定单词列表中所有的连接词。</p>
@@ -32,4 +32,4 @@
 - [字典树](https://leetcode-cn.com/tag/trie)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [单词拆分 II](../word-break-ii/README.md)
+- [单词拆分 II](../0140/README.md)

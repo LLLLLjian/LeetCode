@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0676. 实现一个魔法字典](https://leetcode-cn.com/problems/implement-magic-dictionary/)
 ## 题目描述
 <p>实现一个带有<code>buildDict</code>, 以及&nbsp;<code>search</code>方法的魔法字典。</p>
@@ -30,5 +30,5 @@ Input: search(&quot;leetcoded&quot;), Output: False
 - [字典树](https://leetcode-cn.com/tag/trie)
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [实现 Trie (前缀树)](../implement-trie-prefix-tree/README.md)
-- [词典中最长的单词](../longest-word-in-dictionary/README.md)
+- [实现 Trie (前缀树)](../0208/README.md)
+- [词典中最长的单词](../0720/README.md)

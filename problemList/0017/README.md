@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0017. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
 ## 题目描述
 <p>给定一个仅包含数字&nbsp;<code>2-9</code>&nbsp;的字符串，返回所有它能表示的字母组合。</p>
@@ -21,6 +21,6 @@
 - [字符串](https://leetcode-cn.com/tag/string)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [括号生成](../generate-parentheses/README.md)
-- [组合总和](../combination-sum/README.md)
-- [二进制手表](../binary-watch/README.md)
+- [括号生成](../0022/README.md)
+- [组合总和](../0039/README.md)
+- [二进制手表](../0401/README.md)

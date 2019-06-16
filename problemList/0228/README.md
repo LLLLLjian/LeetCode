@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0228. 汇总区间](https://leetcode-cn.com/problems/summary-ranges/)
 ## 题目描述
 <p>给定一个无重复元素的有序整数数组，返回数组区间范围的汇总。</p>
@@ -19,5 +19,5 @@
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [缺失的区间](../missing-ranges/README.md)
-- [将数据流变为多个不相交区间](../data-stream-as-disjoint-intervals/README.md)
+- [缺失的区间](../0163/README.md)
+- [将数据流变为多个不相交区间](../0352/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0787. K 站中转内最便宜的航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)
 ## 题目描述
 <p>有 <code>n</code> 个城市通过 <code>m</code> 个航班连接。每个航班都从城市 <code>u</code> 开始，以价格 <code>w</code> 抵达 <code>v</code>。</p>
@@ -44,4 +44,4 @@ src = 0, dst = 2, k = 0
 - [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [最大休假天数](../maximum-vacation-days/README.md)
+- [最大休假天数](../0568/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/)
 ## 题目描述
 <p>给定字符串 <strong>s</strong> 和 <strong>t</strong> ，判断 <strong>s</strong> 是否为 <strong>t</strong> 的子序列。</p>
@@ -31,5 +31,5 @@
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [匹配子序列的单词数](../number-of-matching-subsequences/README.md)
-- [形成字符串的最短路径](../shortest-way-to-form-string/README.md)
+- [匹配子序列的单词数](../0792/README.md)
+- [形成字符串的最短路径](../1055/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0854. K-Similar Strings](https://leetcode-cn.com/problems/k-similar-strings/)
 ## Description
 <p>Strings&nbsp;<code>A</code> and <code>B</code> are <code>K</code>-similar (for some non-negative integer <code>K</code>) if we can swap the positions of two letters in <code>A</code> exactly <code>K</code>&nbsp;times so that the resulting string equals <code>B</code>.</p>
@@ -50,4 +50,4 @@
 - [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search)
 - [Graph](https://leetcode-cn.com/tag/graph)
 ## Similar Questions
-- [Couples Holding Hands](../couples-holding-hands/README_EN.md)
+- [Couples Holding Hands](../0765/README_EN.md)

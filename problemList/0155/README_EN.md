@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0155. Min Stack](https://leetcode-cn.com/problems/min-stack/)
 ## Description
 <p>
@@ -36,5 +36,5 @@ minStack.getMin();   --> Returns -2.
 - [Stack](https://leetcode-cn.com/tag/stack)
 - [Design](https://leetcode-cn.com/tag/design)
 ## Similar Questions
-- [Sliding Window Maximum](../sliding-window-maximum/README_EN.md)
-- [Max Stack](../max-stack/README_EN.md)
+- [Sliding Window Maximum](../0239/README_EN.md)
+- [Max Stack](../0716/README_EN.md)

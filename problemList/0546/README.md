@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0546. 移除盒子](https://leetcode-cn.com/problems/remove-boxes/)
 ## 题目描述
 <p>给出一些不同颜色的盒子，盒子的颜色由数字表示，即不同的数字表示不同的颜色。<br />
@@ -37,4 +37,4 @@
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [奇怪的打印机](../strange-printer/README.md)
+- [奇怪的打印机](../0664/README.md)

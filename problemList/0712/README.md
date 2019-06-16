@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0712. 两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/)
 ## 题目描述
 <p>给定两个字符串<code>s1, s2</code>，找到使两个字符串相等所需删除字符的ASCII值的最小和。</p>
@@ -35,6 +35,6 @@
 ## 相关话题
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [编辑距离](../edit-distance/README.md)
-- [最长上升子序列](../longest-increasing-subsequence/README.md)
-- [两个字符串的删除操作](../delete-operation-for-two-strings/README.md)
+- [编辑距离](../0072/README.md)
+- [最长上升子序列](../0300/README.md)
+- [两个字符串的删除操作](../0583/README.md)

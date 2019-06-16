@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0046. Permutations](https://leetcode-cn.com/problems/permutations/)
 ## Description
 <p>Given a collection of <strong>distinct</strong> integers, return all possible permutations.</p>
@@ -22,7 +22,7 @@
 ## Related Topics
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Next Permutation](../next-permutation/README_EN.md)
-- [Permutations II](../permutations-ii/README_EN.md)
-- [Permutation Sequence](../permutation-sequence/README_EN.md)
-- [Combinations](../combinations/README_EN.md)
+- [Next Permutation](../0031/README_EN.md)
+- [Permutations II](../0047/README_EN.md)
+- [Permutation Sequence](../0060/README_EN.md)
+- [Combinations](../0077/README_EN.md)

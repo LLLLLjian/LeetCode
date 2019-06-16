@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0025. Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
 ## Description
 <p>Given a linked list, reverse the nodes of a linked list <em>k</em> at a time and return its modified list.</p>
@@ -27,4 +27,4 @@
 ## Related Topics
 - [Linked List](https://leetcode-cn.com/tag/linked-list)
 ## Similar Questions
-- [Swap Nodes in Pairs](../swap-nodes-in-pairs/README_EN.md)
+- [Swap Nodes in Pairs](../0024/README_EN.md)

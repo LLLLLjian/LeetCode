@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0528. Random Pick with Weight](https://leetcode-cn.com/problems/random-pick-with-weight/)
 ## Description
 <p>Given an array <code>w</code> of positive integers, where <code>w[i]</code> describes the weight of index <code>i</code>,&nbsp;write a function <code>pickIndex</code>&nbsp;which randomly&nbsp;picks an index&nbsp;in proportion&nbsp;to its weight.</p>
@@ -39,6 +39,6 @@
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 - [Random](https://leetcode-cn.com/tag/random)
 ## Similar Questions
-- [Random Pick Index](../random-pick-index/README_EN.md)
-- [Random Pick with Blacklist](../random-pick-with-blacklist/README_EN.md)
-- [Random Point in Non-overlapping Rectangles](../random-point-in-non-overlapping-rectangles/README_EN.md)
+- [Random Pick Index](../0398/README_EN.md)
+- [Random Pick with Blacklist](../0710/README_EN.md)
+- [Random Point in Non-overlapping Rectangles](../0497/README_EN.md)

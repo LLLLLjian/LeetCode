@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0239. Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/)
 ## Description
 <p>Given an array <em>nums</em>, there is a sliding window of size <em>k</em> which is moving from the very left of the array to the very right. You can only see the <em>k</em> numbers in the window. Each time the sliding window moves right by one position. Return the max sliding window.</p>
@@ -30,7 +30,7 @@ Could you solve it in linear time?</p>
 - [Heap](https://leetcode-cn.com/tag/heap)
 - [Sliding Window](https://leetcode-cn.com/tag/sliding-window)
 ## Similar Questions
-- [Minimum Window Substring](../minimum-window-substring/README_EN.md)
-- [Min Stack](../min-stack/README_EN.md)
-- [Longest Substring with At Most Two Distinct Characters](../longest-substring-with-at-most-two-distinct-characters/README_EN.md)
-- [Paint House II](../paint-house-ii/README_EN.md)
+- [Minimum Window Substring](../0076/README_EN.md)
+- [Min Stack](../0155/README_EN.md)
+- [Longest Substring with At Most Two Distinct Characters](../0159/README_EN.md)
+- [Paint House II](../0265/README_EN.md)

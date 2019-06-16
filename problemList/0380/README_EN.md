@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0380. Insert Delete GetRandom O(1)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)
 ## Description
 <p>Design a data structure that supports all following operations in <i>average</i> <b>O(1)</b> time.</p>
@@ -44,4 +44,4 @@ randomSet.getRandom();
 - [Array](https://leetcode-cn.com/tag/array)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Insert Delete GetRandom O(1) - Duplicates allowed](../insert-delete-getrandom-o1-duplicates-allowed/README_EN.md)
+- [Insert Delete GetRandom O(1) - Duplicates allowed](../0381/README_EN.md)

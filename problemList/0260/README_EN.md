@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0260. Single Number III](https://leetcode-cn.com/problems/single-number-iii/)
 ## Description
 <p>Given an array of numbers <code>nums</code>, in which exactly two elements appear only once and all the other elements appear exactly twice. Find the two elements that appear only once.</p>
@@ -19,5 +19,5 @@
 ## Related Topics
 - [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)
 ## Similar Questions
-- [Single Number](../single-number/README_EN.md)
-- [Single Number II](../single-number-ii/README_EN.md)
+- [Single Number](../0136/README_EN.md)
+- [Single Number II](../0137/README_EN.md)

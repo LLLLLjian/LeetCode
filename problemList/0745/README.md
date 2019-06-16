@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0745. 前缀和后缀搜索](https://leetcode-cn.com/problems/prefix-and-suffix-search/)
 ## 题目描述
 <p>给定多个&nbsp;<code>words</code>，<code>words[i]</code>&nbsp;的权重为&nbsp;<code>i</code>&nbsp;。</p>
@@ -28,4 +28,4 @@ WordFilter.f(&quot;b&quot;, &quot;&quot;) // 返回 -1
 ## 相关话题
 - [字典树](https://leetcode-cn.com/tag/trie)
 ## 相似题目
-- [添加与搜索单词 - 数据结构设计](../add-and-search-word-data-structure-design/README.md)
+- [添加与搜索单词 - 数据结构设计](../0211/README.md)

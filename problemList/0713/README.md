@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0713. 乘积小于K的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)
 ## 题目描述
 <p>给定一个正整数数组&nbsp;<code>nums</code>。</p>
@@ -27,6 +27,6 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 ## 相似题目
-- [乘积最大子序列](../maximum-product-subarray/README.md)
-- [和等于 k 的最长子数组长度](../maximum-size-subarray-sum-equals-k/README.md)
-- [和为K的子数组](../subarray-sum-equals-k/README.md)
+- [乘积最大子序列](../0152/README.md)
+- [和等于 k 的最长子数组长度](../0325/README.md)
+- [和为K的子数组](../0560/README.md)

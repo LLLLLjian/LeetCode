@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0066. 加一](https://leetcode-cn.com/problems/plus-one/)
 ## 题目描述
 <p>给定一个由<strong>整数</strong>组成的<strong>非空</strong>数组所表示的非负整数，在该数的基础上加一。</p>
@@ -25,7 +25,7 @@
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [字符串相乘](../multiply-strings/README.md)
-- [二进制求和](../add-binary/README.md)
-- [给单链表加一](../plus-one-linked-list/README.md)
-- [数组形式的整数加法](../add-to-array-form-of-integer/README.md)
+- [字符串相乘](../0043/README.md)
+- [二进制求和](../0067/README.md)
+- [给单链表加一](../0369/README.md)
+- [数组形式的整数加法](../0989/README.md)

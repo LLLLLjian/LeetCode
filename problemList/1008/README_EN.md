@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 ## Description
 <p>Return the root node of a binary <strong>search</strong> tree that matches the given <code>preorder</code> traversal.</p>

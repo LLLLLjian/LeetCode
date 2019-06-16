@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0216. Combination Sum III](https://leetcode-cn.com/problems/combination-sum-iii/)
 ## Description
 <div>
@@ -30,4 +30,4 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Combination Sum](../combination-sum/README_EN.md)
+- [Combination Sum](../0039/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)
 ## 题目描述
 <p>在计算机界中，我们总是追求用有限的资源获取最大的收益。</p>
@@ -36,4 +36,4 @@
 ## 相关话题
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [不含连续1的非负整数](../non-negative-integers-without-consecutive-ones/README.md)
+- [不含连续1的非负整数](../0600/README.md)

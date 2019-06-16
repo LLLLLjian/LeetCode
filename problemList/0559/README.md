@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0559. N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)
 ## 题目描述
 <p>给定一个 N 叉树，找到其最大深度。</p>
@@ -27,4 +27,4 @@
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 - [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search)
 ## 相似题目
-- [二叉树的最大深度](../maximum-depth-of-binary-tree/README.md)
+- [二叉树的最大深度](../0104/README.md)

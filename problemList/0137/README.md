@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0137. 只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)
 ## 题目描述
 <p>给定一个<strong>非空</strong>整数数组，除了某个元素只出现一次以外，其余每个元素均出现了三次。找出那个只出现了一次的元素。</p>
@@ -22,5 +22,5 @@
 ## 相关话题
 - [位运算](https://leetcode-cn.com/tag/bit-manipulation)
 ## 相似题目
-- [只出现一次的数字](../single-number/README.md)
-- [只出现一次的数字 III](../single-number-iii/README.md)
+- [只出现一次的数字](../0136/README.md)
+- [只出现一次的数字 III](../0260/README.md)

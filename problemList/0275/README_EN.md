@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0275. H-Index II](https://leetcode-cn.com/problems/h-index-ii/)
 ## Description
 <p>Given an array of citations <strong>sorted&nbsp;in ascending order </strong>(each citation is a non-negative integer) of a researcher, write a function to compute the researcher&#39;s h-index.</p>
@@ -30,4 +30,4 @@
 ## Related Topics
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [H-Index](../h-index/README_EN.md)
+- [H-Index](../0274/README_EN.md)

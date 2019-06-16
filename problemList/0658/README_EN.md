@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0658. Find K Closest Elements](https://leetcode-cn.com/problems/find-k-closest-elements/)
 ## Description
 <p>
@@ -39,6 +39,6 @@ The <i>arr</i> parameter had been changed to an <b>array of integers</b> (instea
 ## Related Topics
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Guess Number Higher or Lower](../guess-number-higher-or-lower/README_EN.md)
-- [Guess Number Higher or Lower II](../guess-number-higher-or-lower-ii/README_EN.md)
-- [Find K-th Smallest Pair Distance](../find-k-th-smallest-pair-distance/README_EN.md)
+- [Guess Number Higher or Lower](../0374/README_EN.md)
+- [Guess Number Higher or Lower II](../0375/README_EN.md)
+- [Find K-th Smallest Pair Distance](../0719/README_EN.md)

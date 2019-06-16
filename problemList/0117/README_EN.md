@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0117. Populating Next Right Pointers in Each Node II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)
 ## Description
 <p>Given a binary tree</p>
@@ -43,4 +43,4 @@ struct Node {
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 ## Similar Questions
-- [Populating Next Right Pointers in Each Node](../populating-next-right-pointers-in-each-node/README_EN.md)
+- [Populating Next Right Pointers in Each Node](../0116/README_EN.md)

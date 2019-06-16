@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0718. Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)
 ## Description
 <p>Given two integer arrays <code>A</code> and <code>B</code>, return the maximum length of an subarray that appears in both arrays.</p>
@@ -32,4 +32,4 @@ The repeated subarray with maximum length is [3, 2, 1].
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Minimum Size Subarray Sum](../minimum-size-subarray-sum/README_EN.md)
+- [Minimum Size Subarray Sum](../0209/README_EN.md)

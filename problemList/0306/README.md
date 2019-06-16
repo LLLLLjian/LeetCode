@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0306. 累加数](https://leetcode-cn.com/problems/additive-number/)
 ## 题目描述
 <p>累加数是一个字符串，组成它的数字可以形成累加序列。</p>
@@ -29,4 +29,4 @@
 ## 相关话题
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [将数组拆分成斐波那契序列](../split-array-into-fibonacci-sequence/README.md)
+- [将数组拆分成斐波那契序列](../0842/README.md)

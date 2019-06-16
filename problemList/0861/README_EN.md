@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0861. Score After Flipping Matrix](https://leetcode-cn.com/problems/score-after-flipping-matrix/)
 ## Description
 <p>We have a two dimensional matrix&nbsp;<code>A</code> where each value is <code>0</code> or <code>1</code>.</p>

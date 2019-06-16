@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1025. Divisor Game](https://leetcode-cn.com/problems/divisor-game/)
 ## Description
 <p>Alice and Bob take turns playing a game, with Alice starting first.</p>

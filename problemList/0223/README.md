@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0223. 矩形面积](https://leetcode-cn.com/problems/rectangle-area/)
 ## 题目描述
 <p>在<strong>二维</strong>平面上计算出两个<strong>由直线构成的</strong>矩形重叠后形成的总面积。</p>
@@ -18,4 +18,4 @@
 ## 相关话题
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [矩形重叠](../rectangle-overlap/README.md)
+- [矩形重叠](../0836/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0282. 给表达式添加运算符](https://leetcode-cn.com/problems/expression-add-operators/)
 ## 题目描述
 <p>给定一个仅包含数字&nbsp;<code>0-9</code>&nbsp;的字符串和一个目标值，在数字之间添加<strong>二元</strong>运算符（不是一元）<code>+</code>、<code>-</code>&nbsp;或&nbsp;<code>*</code>&nbsp;，返回所有能够得到目标值的表达式。</p>
@@ -35,8 +35,8 @@
 ## 相关话题
 - [分治算法](https://leetcode-cn.com/tag/divide-and-conquer)
 ## 相似题目
-- [逆波兰表达式求值](../evaluate-reverse-polish-notation/README.md)
-- [基本计算器](../basic-calculator/README.md)
-- [基本计算器 II](../basic-calculator-ii/README.md)
-- [为运算表达式设计优先级](../different-ways-to-add-parentheses/README.md)
-- [目标和](../target-sum/README.md)
+- [逆波兰表达式求值](../0150/README.md)
+- [基本计算器](../0224/README.md)
+- [基本计算器 II](../0227/README.md)
+- [为运算表达式设计优先级](../0241/README.md)
+- [目标和](../0494/README.md)

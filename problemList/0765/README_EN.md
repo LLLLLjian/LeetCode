@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0765. Couples Holding Hands](https://leetcode-cn.com/problems/couples-holding-hands/)
 ## Description
 <p>
@@ -32,6 +32,6 @@ The couples' initial seating is given by <code>row[i]</code> being the value of 
 - [Union Find](https://leetcode-cn.com/tag/union-find)
 - [Graph](https://leetcode-cn.com/tag/graph)
 ## Similar Questions
-- [First Missing Positive](../first-missing-positive/README_EN.md)
-- [Missing Number](../missing-number/README_EN.md)
-- [K-Similar Strings](../k-similar-strings/README_EN.md)
+- [First Missing Positive](../0041/README_EN.md)
+- [Missing Number](../0268/README_EN.md)
+- [K-Similar Strings](../0854/README_EN.md)

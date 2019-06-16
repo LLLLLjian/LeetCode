@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0846. 一手顺子](https://leetcode-cn.com/problems/hand-of-straights/)
 ## 题目描述
 <p>爱丽丝有一手（<code>hand</code>）由整数数组给定的牌。&nbsp;</p>

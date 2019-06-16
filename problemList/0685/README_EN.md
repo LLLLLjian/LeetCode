@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0685. Redundant Connection II](https://leetcode-cn.com/problems/redundant-connection-ii/)
 ## Description
 <p>
@@ -42,4 +42,4 @@ v   v
 - [Union Find](https://leetcode-cn.com/tag/union-find)
 - [Graph](https://leetcode-cn.com/tag/graph)
 ## Similar Questions
-- [Redundant Connection](../redundant-connection/README_EN.md)
+- [Redundant Connection](../0684/README_EN.md)

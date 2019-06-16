@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0764. Largest Plus Sign](https://leetcode-cn.com/problems/largest-plus-sign/)
 ## Description
 <p>
@@ -66,4 +66,4 @@ There is no plus sign, so return 0.
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Maximal Square](../maximal-square/README_EN.md)
+- [Maximal Square](../0221/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0462. 最少移动次数使数组元素相等 II](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/)
 ## 题目描述
 <p>给定一个非空整数数组，找到使所有数组元素相等所需的最小移动数，其中每次移动可将选定的一个元素加1或减1。 您可以假设数组的长度最多为10000。</p>
@@ -22,5 +22,5 @@
 ## 相关话题
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [最佳的碰头地点](../best-meeting-point/README.md)
-- [最小移动次数使数组元素相等](../minimum-moves-to-equal-array-elements/README.md)
+- [最佳的碰头地点](../0296/README.md)
+- [最小移动次数使数组元素相等](../0453/README.md)

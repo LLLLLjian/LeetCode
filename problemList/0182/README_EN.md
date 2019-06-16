@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0182. Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/)
 ## Description
 <p>Write a SQL query to find all duplicate emails in a table named <code>Person</code>.</p>

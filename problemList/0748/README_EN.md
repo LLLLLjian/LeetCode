@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0748. Shortest Completing Word](https://leetcode-cn.com/problems/shortest-completing-word/)
 ## Description
 <p>

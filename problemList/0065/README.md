@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0065. 有效数字](https://leetcode-cn.com/problems/valid-number/)
 ## 题目描述
 <p>验证给定的字符串是否可以解释为十进制数字。</p>
@@ -39,4 +39,4 @@
 - [数学](https://leetcode-cn.com/tag/math)
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [字符串转换整数 (atoi)](../string-to-integer-atoi/README.md)
+- [字符串转换整数 (atoi)](../0008/README.md)

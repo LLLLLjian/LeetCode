@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0154. Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 ## Description
 <p>Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.</p>
@@ -33,4 +33,4 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Find Minimum in Rotated Sorted Array](../find-minimum-in-rotated-sorted-array/README_EN.md)
+- [Find Minimum in Rotated Sorted Array](../0153/README_EN.md)

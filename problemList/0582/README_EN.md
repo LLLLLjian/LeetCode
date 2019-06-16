@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0582. Kill Process](https://leetcode-cn.com/problems/kill-process/)
 ## Description
 None

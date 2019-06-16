@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0504. Base 7](https://leetcode-cn.com/problems/base-7/)
 ## Description
 <p>Given an integer, return its base 7 string representation.</p>

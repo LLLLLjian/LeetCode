@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0705. Design HashSet](https://leetcode-cn.com/problems/design-hashset/)
 ## Description
 <p>Design a HashSet&nbsp;without using any built-in hash table libraries.</p>
@@ -40,4 +40,4 @@ hashSet.contains(2); &nbsp;&nbsp;&nbsp;// returns false (already removed)
 - [Design](https://leetcode-cn.com/tag/design)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Design HashMap](../design-hashmap/README_EN.md)
+- [Design HashMap](../0706/README_EN.md)

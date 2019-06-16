@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0341. Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
 ## Description
 <p>Given a nested list of integers, implement an iterator to flatten it.</p>
@@ -31,7 +31,7 @@
 - [Stack](https://leetcode-cn.com/tag/stack)
 - [Design](https://leetcode-cn.com/tag/design)
 ## Similar Questions
-- [Flatten 2D Vector](../flatten-2d-vector/README_EN.md)
-- [Zigzag Iterator](../zigzag-iterator/README_EN.md)
-- [Mini Parser](../mini-parser/README_EN.md)
-- [Array Nesting](../array-nesting/README_EN.md)
+- [Flatten 2D Vector](../0251/README_EN.md)
+- [Zigzag Iterator](../0281/README_EN.md)
+- [Mini Parser](../0385/README_EN.md)
+- [Array Nesting](../0565/README_EN.md)

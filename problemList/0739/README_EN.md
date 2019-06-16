@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0739. Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)
 ## Description
 <p>
@@ -16,4 +16,4 @@ Each temperature will be an integer in the range <code>[30, 100]</code>.
 - [Stack](https://leetcode-cn.com/tag/stack)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Next Greater Element I](../next-greater-element-i/README_EN.md)
+- [Next Greater Element I](../0496/README_EN.md)

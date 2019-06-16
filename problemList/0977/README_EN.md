@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0977. Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)
 ## Description
 <p>Given an array of integers <code>A</code>&nbsp;sorted in non-decreasing order,&nbsp;return an array of the squares of each number,&nbsp;also in sorted non-decreasing order.</p>
@@ -37,5 +37,5 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 ## Similar Questions
-- [Merge Sorted Array](../merge-sorted-array/README_EN.md)
-- [Sort Transformed Array](../sort-transformed-array/README_EN.md)
+- [Merge Sorted Array](../0088/README_EN.md)
+- [Sort Transformed Array](../0360/README_EN.md)

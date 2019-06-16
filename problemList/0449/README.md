@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0449. 序列化和反序列化二叉搜索树](https://leetcode-cn.com/problems/serialize-and-deserialize-bst/)
 ## 题目描述
 <p>序列化是将数据结构或对象转换为一系列位的过程，以便它可以存储在文件或内存缓冲区中，或通过网络连接链路传输，以便稍后在同一个或另一个计算机环境中重建。</p>
@@ -13,6 +13,6 @@
 ## 相关话题
 - [树](https://leetcode-cn.com/tag/tree)
 ## 相似题目
-- [二叉树的序列化与反序列化](../serialize-and-deserialize-binary-tree/README.md)
-- [寻找重复的子树](../find-duplicate-subtrees/README.md)
-- [序列化和反序列化 N 叉树](../serialize-and-deserialize-n-ary-tree/README.md)
+- [二叉树的序列化与反序列化](../0297/README.md)
+- [寻找重复的子树](../0652/README.md)
+- [序列化和反序列化 N 叉树](../0428/README.md)

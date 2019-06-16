@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0424. 替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)
 ## 题目描述
 <p>给你一个仅由大写英文字母组成的字符串，你可以将任意位置上的字符替换成另外的字符，总共可最多替换&nbsp;<em>k&nbsp;</em>次。在执行上述操作后，找到包含重复字母的最长子串的长度。</p>
@@ -36,5 +36,5 @@ s = &quot;AABABBA&quot;, k = 1
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 - [None](https://leetcode-cn.com/tag/sliding-window)
 ## 相似题目
-- [至多包含 K 个不同字符的最长子串](../longest-substring-with-at-most-k-distinct-characters/README.md)
-- [最大连续1的个数 III](../max-consecutive-ones-iii/README.md)
+- [至多包含 K 个不同字符的最长子串](../0340/README.md)
+- [最大连续1的个数 III](../1004/README.md)

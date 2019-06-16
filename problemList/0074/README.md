@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0074. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)
 ## 题目描述
 <p>编写一个高效的算法来判断&nbsp;<em>m</em> x <em>n</em>&nbsp;矩阵中，是否存在一个目标值。该矩阵具有如下特性：</p>
@@ -36,4 +36,4 @@ target = 13
 - [数组](https://leetcode-cn.com/tag/array)
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [搜索二维矩阵 II](../search-a-2d-matrix-ii/README.md)
+- [搜索二维矩阵 II](../0240/README.md)

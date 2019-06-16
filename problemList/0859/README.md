@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0859. 亲密字符串](https://leetcode-cn.com/problems/buddy-strings/)
 ## 题目描述
 <p>给定两个由小写字母构成的字符串&nbsp;<code>A</code>&nbsp;和&nbsp;<code>B</code>&nbsp;，只要我们可以通过交换 <code>A</code> 中的两个字母得到与 <code>B</code> 相等的结果，就返回&nbsp;<code>true</code>&nbsp;；否则返回 <code>false</code> 。</p>

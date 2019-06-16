@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0052. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)
 ## 题目描述
 <p><em>n&nbsp;</em>皇后问题研究的是如何将 <em>n</em>&nbsp;个皇后放置在 <em>n</em>&times;<em>n</em> 的棋盘上，并且使皇后彼此之间不能相互攻击。</p>
@@ -31,4 +31,4 @@
 ## 相关话题
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [N皇后](../n-queens/README.md)
+- [N皇后](../0051/README.md)

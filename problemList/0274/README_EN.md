@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0274. H-Index](https://leetcode-cn.com/problems/h-index/)
 ## Description
 <p>Given an array of citations (each citation is a non-negative integer) of a researcher, write a function to compute the researcher&#39;s h-index.</p>
@@ -22,4 +22,4 @@
 - [Sort](https://leetcode-cn.com/tag/sort)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [H-Index II](../h-index-ii/README_EN.md)
+- [H-Index II](../0275/README_EN.md)

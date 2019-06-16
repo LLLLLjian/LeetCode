@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
 ## 题目描述
 <p>给定一个未排序的整数数组，找出最长连续序列的长度。</p>
@@ -16,4 +16,4 @@
 - [并查集](https://leetcode-cn.com/tag/union-find)
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [二叉树最长连续序列](../binary-tree-longest-consecutive-sequence/README.md)
+- [二叉树最长连续序列](../0298/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0290. 单词规律](https://leetcode-cn.com/problems/word-pattern/)
 ## 题目描述
 <p>给定一种规律 <code>pattern</code>&nbsp;和一个字符串&nbsp;<code>str</code>&nbsp;，判断 <code>str</code> 是否遵循相同的规律。</p>
@@ -32,5 +32,5 @@
 ## 相关话题
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [同构字符串](../isomorphic-strings/README.md)
-- [单词规律 II](../word-pattern-ii/README.md)
+- [同构字符串](../0205/README.md)
+- [单词规律 II](../0291/README.md)

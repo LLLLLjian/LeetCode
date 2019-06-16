@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0736. Lisp 语法解析](https://leetcode-cn.com/problems/parse-lisp-expression/)
 ## 题目描述
 <p>给定一个类似 Lisp 语句的表达式 <code>expression</code>，求出其计算结果。</p>
@@ -73,6 +73,6 @@
 ## 相关话题
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [三元表达式解析器](../ternary-expression-parser/README.md)
-- [原子的数量](../number-of-atoms/README.md)
-- [基本计算器 IV](../basic-calculator-iv/README.md)
+- [三元表达式解析器](../0439/README.md)
+- [原子的数量](../0726/README.md)
+- [基本计算器 IV](../0770/README.md)

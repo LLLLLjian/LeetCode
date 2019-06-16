@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0076. Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)
 ## Description
 <p>Given a string S and a string T, find the minimum window in S which will contain all the characters in T in complexity O(n).</p>
@@ -24,9 +24,9 @@
 - [String](https://leetcode-cn.com/tag/string)
 - [Sliding Window](https://leetcode-cn.com/tag/sliding-window)
 ## Similar Questions
-- [Substring with Concatenation of All Words](../substring-with-concatenation-of-all-words/README_EN.md)
-- [Minimum Size Subarray Sum](../minimum-size-subarray-sum/README_EN.md)
-- [Sliding Window Maximum](../sliding-window-maximum/README_EN.md)
-- [Permutation in String](../permutation-in-string/README_EN.md)
-- [Smallest Range](../smallest-range/README_EN.md)
-- [Minimum Window Subsequence](../minimum-window-subsequence/README_EN.md)
+- [Substring with Concatenation of All Words](../0030/README_EN.md)
+- [Minimum Size Subarray Sum](../0209/README_EN.md)
+- [Sliding Window Maximum](../0239/README_EN.md)
+- [Permutation in String](../0567/README_EN.md)
+- [Smallest Range](../0632/README_EN.md)
+- [Minimum Window Subsequence](../0727/README_EN.md)

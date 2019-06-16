@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0787. Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)
 ## Description
 <p>There are <code>n</code> cities connected by&nbsp;<code>m</code> flights. Each fight starts from city&nbsp;<code>u </code>and arrives at&nbsp;<code>v</code> with a price <code>w</code>.</p>
@@ -46,4 +46,4 @@ The cheapest price from city <code>0</code> to city <code>2</code> with at most 
 - [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Maximum Vacation Days](../maximum-vacation-days/README_EN.md)
+- [Maximum Vacation Days](../0568/README_EN.md)

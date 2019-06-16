@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 ## Description
 <p>Say you have an array for which the <i>i</i><sup>th</sup> element is the price of a given stock on day <i>i</i>.</p>
@@ -21,5 +21,5 @@
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Best Time to Buy and Sell Stock](../best-time-to-buy-and-sell-stock/README_EN.md)
-- [Best Time to Buy and Sell Stock II](../best-time-to-buy-and-sell-stock-ii/README_EN.md)
+- [Best Time to Buy and Sell Stock](../0121/README_EN.md)
+- [Best Time to Buy and Sell Stock II](../0122/README_EN.md)

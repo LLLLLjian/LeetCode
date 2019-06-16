@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0521. Longest Uncommon Subsequence I ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/)
 ## Description
 <p>
@@ -32,4 +32,4 @@ The input will be two strings, and the output needs to be the length of the long
 ## Related Topics
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Longest Uncommon Subsequence II](../longest-uncommon-subsequence-ii/README_EN.md)
+- [Longest Uncommon Subsequence II](../0522/README_EN.md)

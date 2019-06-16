@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0633. Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)
 ## Description
 <p>Given a non-negative integer <code>c</code>, your task is to decide whether there&#39;re two integers <code>a</code> and <code>b</code> such that a<sup>2</sup> + b<sup>2</sup> = c.</p>
@@ -26,4 +26,4 @@
 ## Related Topics
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Valid Perfect Square](../valid-perfect-square/README_EN.md)
+- [Valid Perfect Square](../0367/README_EN.md)

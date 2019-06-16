@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0589. N-ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)
 ## Description
 <p>Given an n-ary tree, return the <i>preorder</i> traversal of its nodes&#39; values.</p>
@@ -23,6 +23,6 @@
 ## Related Topics
 - [Tree](https://leetcode-cn.com/tag/tree)
 ## Similar Questions
-- [Binary Tree Preorder Traversal](../binary-tree-preorder-traversal/README_EN.md)
-- [N-ary Tree Level Order Traversal](../n-ary-tree-level-order-traversal/README_EN.md)
-- [N-ary Tree Postorder Traversal](../n-ary-tree-postorder-traversal/README_EN.md)
+- [Binary Tree Preorder Traversal](../0144/README_EN.md)
+- [N-ary Tree Level Order Traversal](../0429/README_EN.md)
+- [N-ary Tree Postorder Traversal](../0590/README_EN.md)

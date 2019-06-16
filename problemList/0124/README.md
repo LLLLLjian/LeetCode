@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
 ## 题目描述
 <p>给定一个<strong>非空</strong>二叉树，返回其最大路径和。</p>
@@ -33,7 +33,7 @@
 - [树](https://leetcode-cn.com/tag/tree)
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 ## 相似题目
-- [路径总和](../path-sum/README.md)
-- [求根到叶子节点数字之和](../sum-root-to-leaf-numbers/README.md)
-- [路径和 IV](../path-sum-iv/README.md)
-- [最长同值路径](../longest-univalue-path/README.md)
+- [路径总和](../0112/README.md)
+- [求根到叶子节点数字之和](../0129/README.md)
+- [路径和 IV](../0666/README.md)
+- [最长同值路径](../0687/README.md)

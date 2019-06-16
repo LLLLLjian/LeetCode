@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0347. Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)
 ## Description
 <p>Given a non-empty array of integers, return the <b><i>k</i></b> most frequent elements.</p>
@@ -30,9 +30,9 @@
 - [Heap](https://leetcode-cn.com/tag/heap)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Word Frequency](../word-frequency/README_EN.md)
-- [Kth Largest Element in an Array](../kth-largest-element-in-an-array/README_EN.md)
-- [Sort Characters By Frequency](../sort-characters-by-frequency/README_EN.md)
-- [Split Array into Consecutive Subsequences](../split-array-into-consecutive-subsequences/README_EN.md)
-- [Top K Frequent Words](../top-k-frequent-words/README_EN.md)
-- [K Closest Points to Origin](../k-closest-points-to-origin/README_EN.md)
+- [Word Frequency](../0192/README_EN.md)
+- [Kth Largest Element in an Array](../0215/README_EN.md)
+- [Sort Characters By Frequency](../0451/README_EN.md)
+- [Split Array into Consecutive Subsequences](../0659/README_EN.md)
+- [Top K Frequent Words](../0692/README_EN.md)
+- [K Closest Points to Origin](../0973/README_EN.md)

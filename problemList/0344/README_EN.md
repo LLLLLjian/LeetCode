@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0344. Reverse String](https://leetcode-cn.com/problems/reverse-string/)
 ## Description
 <p>Write a function that reverses a string. The input string is given as an array of characters <code>char[]</code>.</p>
@@ -32,5 +32,5 @@
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Reverse Vowels of a String](../reverse-vowels-of-a-string/README_EN.md)
-- [Reverse String II](../reverse-string-ii/README_EN.md)
+- [Reverse Vowels of a String](../0345/README_EN.md)
+- [Reverse String II](../0541/README_EN.md)

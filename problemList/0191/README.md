@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
 ## 题目描述
 <p>编写一个函数，输入是一个无符号整数，返回其二进制表达式中数字位数为 &lsquo;1&rsquo;&nbsp;的个数（也被称为<a href="https://baike.baidu.com/item/%E6%B1%89%E6%98%8E%E9%87%8D%E9%87%8F" target="_blank">汉明重量</a>）。</p>
@@ -43,10 +43,10 @@
 ## 相关话题
 - [位运算](https://leetcode-cn.com/tag/bit-manipulation)
 ## 相似题目
-- [颠倒二进制位](../reverse-bits/README.md)
-- [2的幂](../power-of-two/README.md)
-- [比特位计数](../counting-bits/README.md)
-- [二进制手表](../binary-watch/README.md)
-- [汉明距离](../hamming-distance/README.md)
-- [交替位二进制数](../binary-number-with-alternating-bits/README.md)
-- [二进制表示中质数个计算置位](../prime-number-of-set-bits-in-binary-representation/README.md)
+- [颠倒二进制位](../0190/README.md)
+- [2的幂](../0231/README.md)
+- [比特位计数](../0338/README.md)
+- [二进制手表](../0401/README.md)
+- [汉明距离](../0461/README.md)
+- [交替位二进制数](../0693/README.md)
+- [二进制表示中质数个计算置位](../0762/README.md)

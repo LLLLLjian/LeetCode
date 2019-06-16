@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0736. Parse Lisp Expression](https://leetcode-cn.com/problems/parse-lisp-expression/)
 ## Description
 <p>
@@ -67,6 +67,6 @@ of the final x in the add-expression.  That final x will equal 2.
 ## Related Topics
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Ternary Expression Parser](../ternary-expression-parser/README_EN.md)
-- [Number of Atoms](../number-of-atoms/README_EN.md)
-- [Basic Calculator IV](../basic-calculator-iv/README_EN.md)
+- [Ternary Expression Parser](../0439/README_EN.md)
+- [Number of Atoms](../0726/README_EN.md)
+- [Basic Calculator IV](../0770/README_EN.md)

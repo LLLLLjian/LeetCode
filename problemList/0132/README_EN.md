@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0132. Palindrome Partitioning II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)
 ## Description
 <p>Given a string <em>s</em>, partition <em>s</em> such that every substring of the partition is a palindrome.</p>
@@ -17,4 +17,4 @@
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Palindrome Partitioning](../palindrome-partitioning/README_EN.md)
+- [Palindrome Partitioning](../0131/README_EN.md)

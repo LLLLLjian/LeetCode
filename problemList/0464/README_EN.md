@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0464. Can I Win](https://leetcode-cn.com/problems/can-i-win/)
 ## Description
 <p>In the "100 game," two players take turns adding, to a running total, any integer from 1..10. The player who first causes the running total to reach or exceed 100 wins. </p>
@@ -34,6 +34,6 @@ Same with other integers chosen by the first player, the second player will alwa
 - [Minimax](https://leetcode-cn.com/tag/minimax)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Flip Game II](../flip-game-ii/README_EN.md)
-- [Guess Number Higher or Lower II](../guess-number-higher-or-lower-ii/README_EN.md)
-- [Predict the Winner](../predict-the-winner/README_EN.md)
+- [Flip Game II](../0294/README_EN.md)
+- [Guess Number Higher or Lower II](../0375/README_EN.md)
+- [Predict the Winner](../0486/README_EN.md)

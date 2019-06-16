@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0492. Construct the Rectangle](https://leetcode-cn.com/problems/construct-the-rectangle/)
 ## Description
 <p>

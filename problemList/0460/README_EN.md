@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0460. LFU Cache](https://leetcode-cn.com/problems/lfu-cache/)
 ## Description
 <p>Design and implement a data structure for <a href="https://en.wikipedia.org/wiki/Least_frequently_used" target="_blank">Least Frequently Used (LFU)</a> cache. It should support the following operations: <code>get</code> and <code>put</code>.
@@ -32,5 +32,5 @@ cache.get(4);       // returns 4
 ## Related Topics
 - [Design](https://leetcode-cn.com/tag/design)
 ## Similar Questions
-- [LRU Cache](../lru-cache/README_EN.md)
-- [Design In-Memory File System](../design-in-memory-file-system/README_EN.md)
+- [LRU Cache](../0146/README_EN.md)
+- [Design In-Memory File System](../0588/README_EN.md)

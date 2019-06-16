@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0207. Course Schedule](https://leetcode-cn.com/problems/course-schedule/)
 ## Description
 <p>There are a total of <i>n</i> courses you have to take, labeled from <code>0</code> to <code>n-1</code>.</p>
@@ -39,7 +39,7 @@
 - [Graph](https://leetcode-cn.com/tag/graph)
 - [Topological Sort](https://leetcode-cn.com/tag/topological-sort)
 ## Similar Questions
-- [Course Schedule II](../course-schedule-ii/README_EN.md)
-- [Graph Valid Tree](../graph-valid-tree/README_EN.md)
-- [Minimum Height Trees](../minimum-height-trees/README_EN.md)
-- [Course Schedule III](../course-schedule-iii/README_EN.md)
+- [Course Schedule II](../0210/README_EN.md)
+- [Graph Valid Tree](../0261/README_EN.md)
+- [Minimum Height Trees](../0310/README_EN.md)
+- [Course Schedule III](../0630/README_EN.md)

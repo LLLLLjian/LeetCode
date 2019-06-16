@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0526. Beautiful Arrangement](https://leetcode-cn.com/problems/beautiful-arrangement/)
 ## Description
 <p>Suppose you have <b>N</b> integers from 1 to N. We define a beautiful arrangement as an array that is constructed by these <b>N</b> numbers successfully if one of the following is true for the i<sub>th</sub> position (1 &lt;= i &lt;= N) in this array:</p>
@@ -46,4 +46,4 @@ Number at the 2nd position (i=2) is 1, and i (i=2) is divisible by 1.
 ## Related Topics
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Beautiful Arrangement II](../beautiful-arrangement-ii/README_EN.md)
+- [Beautiful Arrangement II](../0667/README_EN.md)

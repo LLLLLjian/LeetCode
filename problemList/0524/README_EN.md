@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0524. Longest Word in Dictionary through Deleting](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/)
 ## Description
 <p>
@@ -37,4 +37,4 @@ s = "abpcplea", d = ["a","b","c"]
 - [Sort](https://leetcode-cn.com/tag/sort)
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 ## Similar Questions
-- [Longest Word in Dictionary](../longest-word-in-dictionary/README_EN.md)
+- [Longest Word in Dictionary](../0720/README_EN.md)

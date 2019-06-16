@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0326. Power of Three](https://leetcode-cn.com/problems/power-of-three/)
 ## Description
 <p>Given an integer, write a function to determine if it is a power of three.</p>
@@ -34,5 +34,5 @@ Could you do it without using any loop / recursion?</p>
 ## Related Topics
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Power of Two](../power-of-two/README_EN.md)
-- [Power of Four](../power-of-four/README_EN.md)
+- [Power of Two](../0231/README_EN.md)
+- [Power of Four](../0342/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0384. Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/)
 ## Description
 <p>Shuffle a set of numbers without duplicates.

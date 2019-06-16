@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
 ## 题目描述
 <p>给定一个含有&nbsp;<strong>n&nbsp;</strong>个正整数的数组和一个正整数&nbsp;<strong>s ，</strong>找出该数组中满足其和<strong> &ge; s </strong>的长度最小的连续子数组<strong>。</strong>如果不存在符合条件的连续子数组，返回 0。</p>
@@ -20,6 +20,6 @@
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [最小覆盖子串](../minimum-window-substring/README.md)
-- [和等于 k 的最长子数组长度](../maximum-size-subarray-sum-equals-k/README.md)
-- [最长重复子数组](../maximum-length-of-repeated-subarray/README.md)
+- [最小覆盖子串](../0076/README.md)
+- [和等于 k 的最长子数组长度](../0325/README.md)
+- [最长重复子数组](../0718/README.md)

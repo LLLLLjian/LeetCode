@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0687. Longest Univalue Path](https://leetcode-cn.com/problems/longest-univalue-path/)
 ## Description
 <p>Given a binary tree, find the length of the longest path where each node in the path has the same value. This path may or may not pass through the root.</p>
@@ -46,6 +46,6 @@
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [Recursion](https://leetcode-cn.com/tag/recursion)
 ## Similar Questions
-- [Binary Tree Maximum Path Sum](../binary-tree-maximum-path-sum/README_EN.md)
-- [Count Univalue Subtrees](../count-univalue-subtrees/README_EN.md)
-- [Path Sum III](../path-sum-iii/README_EN.md)
+- [Binary Tree Maximum Path Sum](../0124/README_EN.md)
+- [Count Univalue Subtrees](../0250/README_EN.md)
+- [Path Sum III](../0437/README_EN.md)

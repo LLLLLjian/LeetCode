@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0123. Best Time to Buy and Sell Stock III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)
 ## Description
 <p>Say you have an array for which the <em>i</em><sup>th</sup> element is the price of a given stock on day <em>i</em>.</p>
@@ -37,7 +37,7 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Best Time to Buy and Sell Stock](../best-time-to-buy-and-sell-stock/README_EN.md)
-- [Best Time to Buy and Sell Stock II](../best-time-to-buy-and-sell-stock-ii/README_EN.md)
-- [Best Time to Buy and Sell Stock IV](../best-time-to-buy-and-sell-stock-iv/README_EN.md)
-- [Maximum Sum of 3 Non-Overlapping Subarrays](../maximum-sum-of-3-non-overlapping-subarrays/README_EN.md)
+- [Best Time to Buy and Sell Stock](../0121/README_EN.md)
+- [Best Time to Buy and Sell Stock II](../0122/README_EN.md)
+- [Best Time to Buy and Sell Stock IV](../0188/README_EN.md)
+- [Maximum Sum of 3 Non-Overlapping Subarrays](../0689/README_EN.md)

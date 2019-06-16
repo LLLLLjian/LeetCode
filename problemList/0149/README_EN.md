@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0149. Max Points on a Line](https://leetcode-cn.com/problems/max-points-on-a-line/)
 ## Description
 <p>Given <em>n</em> points on a 2D plane, find the maximum number of points that lie on the same straight line.</p>
@@ -41,4 +41,4 @@
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Line Reflection](../line-reflection/README_EN.md)
+- [Line Reflection](../0356/README_EN.md)

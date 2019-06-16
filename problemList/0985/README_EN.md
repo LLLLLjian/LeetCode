@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0985. Sum of Even Numbers After Queries](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/)
 ## Description
 <p>We have an array <code>A</code> of integers, and an array <code>queries</code>&nbsp;of queries.</p>

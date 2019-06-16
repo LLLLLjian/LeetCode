@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0003. Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 ## Description
 <p>Given a string, find the length of the <b>longest substring</b> without repeating characters.</p>
@@ -41,6 +41,6 @@
 - [String](https://leetcode-cn.com/tag/string)
 - [Sliding Window](https://leetcode-cn.com/tag/sliding-window)
 ## Similar Questions
-- [Longest Substring with At Most Two Distinct Characters](../longest-substring-with-at-most-two-distinct-characters/README_EN.md)
-- [Longest Substring with At Most K Distinct Characters](../longest-substring-with-at-most-k-distinct-characters/README_EN.md)
-- [Subarrays with K Different Integers](../subarrays-with-k-different-integers/README_EN.md)
+- [Longest Substring with At Most Two Distinct Characters](../0159/README_EN.md)
+- [Longest Substring with At Most K Distinct Characters](../0340/README_EN.md)
+- [Subarrays with K Different Integers](../0992/README_EN.md)

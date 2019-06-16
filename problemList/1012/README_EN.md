@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1012. Numbers With Repeated Digits](https://leetcode-cn.com/problems/numbers-with-repeated-digits/)
 ## Description
 <p>Given a positive integer <code>N</code>, return the number of positive integers less than or equal to <code>N</code> that have at least 1 repeated digit.</p>

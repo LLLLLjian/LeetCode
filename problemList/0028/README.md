@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0028. 实现strStr()](https://leetcode-cn.com/problems/implement-strstr/)
 ## 题目描述
 <p>实现&nbsp;<a href="https://baike.baidu.com/item/strstr/811469" target="_blank">strStr()</a>&nbsp;函数。</p>
@@ -28,5 +28,5 @@
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [最短回文串](../shortest-palindrome/README.md)
-- [重复的子字符串](../repeated-substring-pattern/README.md)
+- [最短回文串](../0214/README.md)
+- [重复的子字符串](../0459/README.md)

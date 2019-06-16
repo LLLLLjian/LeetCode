@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0712. Minimum ASCII Delete Sum for Two Strings](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/)
 ## Description
 <p>Given two strings <code>s1, s2</code>, find the lowest ASCII sum of deleted characters to make two strings equal.</p>
@@ -32,6 +32,6 @@ If instead we turned both strings into "lee" or "eet", we would get answers of 4
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Edit Distance](../edit-distance/README_EN.md)
-- [Longest Increasing Subsequence](../longest-increasing-subsequence/README_EN.md)
-- [Delete Operation for Two Strings](../delete-operation-for-two-strings/README_EN.md)
+- [Edit Distance](../0072/README_EN.md)
+- [Longest Increasing Subsequence](../0300/README_EN.md)
+- [Delete Operation for Two Strings](../0583/README_EN.md)

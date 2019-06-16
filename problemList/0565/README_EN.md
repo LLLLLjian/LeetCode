@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0565. Array Nesting](https://leetcode-cn.com/problems/array-nesting/)
 ## Description
 <p>A zero-indexed array A of length N contains all integers from 0 to N-1. Find and return the longest length of set S, where S[i] = {A[i], A[A[i]], A[A[A[i]]], ... } subjected to the rule below.</p>
@@ -33,6 +33,6 @@ S[0] = {A[0], A[5], A[6], A[2]} = {5, 6, 2, 0}
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Nested List Weight Sum](../nested-list-weight-sum/README_EN.md)
-- [Flatten Nested List Iterator](../flatten-nested-list-iterator/README_EN.md)
-- [Nested List Weight Sum II](../nested-list-weight-sum-ii/README_EN.md)
+- [Nested List Weight Sum](../0339/README_EN.md)
+- [Flatten Nested List Iterator](../0341/README_EN.md)
+- [Nested List Weight Sum II](../0364/README_EN.md)

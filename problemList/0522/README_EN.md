@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0522. Longest Uncommon Subsequence II](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii/)
 ## Description
 <p>
@@ -30,4 +30,4 @@ The input will be a list of strings, and the output needs to be the length of th
 ## Related Topics
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Longest Uncommon Subsequence I ](../longest-uncommon-subsequence-i/README_EN.md)
+- [Longest Uncommon Subsequence I ](../0521/README_EN.md)

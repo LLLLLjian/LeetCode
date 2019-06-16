@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0225. Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/)
 ## Description
 <p>Implement the following operations of a stack using queues.</p>
@@ -34,4 +34,4 @@ stack.empty(); // returns false</pre>
 - [Stack](https://leetcode-cn.com/tag/stack)
 - [Design](https://leetcode-cn.com/tag/design)
 ## Similar Questions
-- [Implement Queue using Stacks](../implement-queue-using-stacks/README_EN.md)
+- [Implement Queue using Stacks](../0232/README_EN.md)

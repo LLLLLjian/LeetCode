@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0547. 朋友圈](https://leetcode-cn.com/problems/friend-circles/)
 ## 题目描述
 <p>班上有&nbsp;<strong>N&nbsp;</strong>名学生。其中有些人是朋友，有些则不是。他们的友谊具有是传递性。如果已知 A 是 B&nbsp;的朋友，B 是 C&nbsp;的朋友，那么我们可以认为 A 也是 C&nbsp;的朋友。所谓的朋友圈，是指所有朋友的集合。</p>
@@ -41,7 +41,7 @@
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 - [并查集](https://leetcode-cn.com/tag/union-find)
 ## 相似题目
-- [无向图中连通分量的数目](../number-of-connected-components-in-an-undirected-graph/README.md)
-- [机器人能否返回原点](../robot-return-to-origin/README.md)
-- [句子相似性](../sentence-similarity/README.md)
-- [句子相似性 II](../sentence-similarity-ii/README.md)
+- [无向图中连通分量的数目](../0323/README.md)
+- [机器人能否返回原点](../0657/README.md)
+- [句子相似性](../0734/README.md)
+- [句子相似性 II](../0737/README.md)

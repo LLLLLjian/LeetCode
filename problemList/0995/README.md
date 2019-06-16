@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0995. K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/)
 ## 题目描述
 <p>在仅包含 <code>0</code> 和 <code>1</code> 的数组 <code>A</code> 中，一次 <em><code>K</code> 位翻转</em>包括选择一个长度为 <code>K</code> 的（连续）子数组，同时将子数组中的每个 <code>0</code> 更改为 <code>1</code>，而每个 <code>1</code> 更改为 <code>0</code>。</p>
@@ -45,4 +45,4 @@
 - [贪心算法](https://leetcode-cn.com/tag/greedy)
 - [None](https://leetcode-cn.com/tag/sliding-window)
 ## 相似题目
-- [灯泡开关](../bulb-switcher/README.md)
+- [灯泡开关](../0319/README.md)

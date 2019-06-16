@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0228. Summary Ranges](https://leetcode-cn.com/problems/summary-ranges/)
 ## Description
 <p>Given a sorted integer array without duplicates, return the summary of its ranges.</p>
@@ -23,5 +23,5 @@
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Missing Ranges](../missing-ranges/README_EN.md)
-- [Data Stream as Disjoint Intervals](../data-stream-as-disjoint-intervals/README_EN.md)
+- [Missing Ranges](../0163/README_EN.md)
+- [Data Stream as Disjoint Intervals](../0352/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0347. 前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
 ## 题目描述
 <p>给定一个非空的整数数组，返回其中出现频率前&nbsp;<strong><em>k&nbsp;</em></strong>高的元素。</p>
@@ -26,9 +26,9 @@
 - [堆](https://leetcode-cn.com/tag/heap)
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [统计词频](../word-frequency/README.md)
-- [数组中的第K个最大元素](../kth-largest-element-in-an-array/README.md)
-- [根据字符出现频率排序](../sort-characters-by-frequency/README.md)
-- [分割数组为连续子序列](../split-array-into-consecutive-subsequences/README.md)
-- [前K个高频单词](../top-k-frequent-words/README.md)
-- [最接近原点的 K 个点](../k-closest-points-to-origin/README.md)
+- [统计词频](../0192/README.md)
+- [数组中的第K个最大元素](../0215/README.md)
+- [根据字符出现频率排序](../0451/README.md)
+- [分割数组为连续子序列](../0659/README.md)
+- [前K个高频单词](../0692/README.md)
+- [最接近原点的 K 个点](../0973/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)
 ## 题目描述
 <p>运用你所掌握的数据结构，设计和实现一个&nbsp; <a href="https://baike.baidu.com/item/LRU" target="_blank">LRU (最近最少使用) 缓存机制</a>。它应该支持以下操作： 获取数据 <code>get</code> 和 写入数据 <code>put</code> 。</p>
@@ -29,6 +29,6 @@ cache.get(4);       // 返回  4
 ## 相关话题
 - [设计](https://leetcode-cn.com/tag/design)
 ## 相似题目
-- [LFU缓存](../lfu-cache/README.md)
-- [设计内存文件系统](../design-in-memory-file-system/README.md)
-- [迭代压缩字符串](../design-compressed-string-iterator/README.md)
+- [LFU缓存](../0460/README.md)
+- [设计内存文件系统](../0588/README.md)
+- [迭代压缩字符串](../0604/README.md)

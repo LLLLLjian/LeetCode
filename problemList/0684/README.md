@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0684. 冗余连接](https://leetcode-cn.com/problems/redundant-connection/)
 ## 题目描述
 <p>在本问题中, 树指的是一个连通且无环的<strong>无向</strong>图。</p>
@@ -45,5 +45,5 @@
 - [并查集](https://leetcode-cn.com/tag/union-find)
 - [图](https://leetcode-cn.com/tag/graph)
 ## 相似题目
-- [冗余连接 II](../redundant-connection-ii/README.md)
-- [账户合并](../accounts-merge/README.md)
+- [冗余连接 II](../0685/README.md)
+- [账户合并](../0721/README.md)

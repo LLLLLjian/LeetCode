@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0551. Student Attendance Record I](https://leetcode-cn.com/problems/student-attendance-record-i/)
 ## Description
 You are given a string representing an attendance record for a student. The record only contains the following three characters:
@@ -36,4 +36,4 @@ A student could be rewarded if his attendance record doesn't contain <b>more tha
 ## Related Topics
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Student Attendance Record II](../student-attendance-record-ii/README_EN.md)
+- [Student Attendance Record II](../0552/README_EN.md)

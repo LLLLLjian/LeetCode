@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0507. Perfect Number](https://leetcode-cn.com/problems/perfect-number/)
 ## Description
 <p>We define the Perfect Number is a <b>positive</b> integer that is equal to the sum of all its <b>positive</b> divisors except itself. 
@@ -21,4 +21,4 @@ The input number <b>n</b> will not exceed 100,000,000. (1e8)
 ## Related Topics
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Self Dividing Numbers](../self-dividing-numbers/README_EN.md)
+- [Self Dividing Numbers](../0728/README_EN.md)

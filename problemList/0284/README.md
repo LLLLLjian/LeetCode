@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0284. 顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator/)
 ## 题目描述
 <p>给定一个迭代器类的接口，接口包含两个方法：&nbsp;<code>next()</code>&nbsp;和&nbsp;<code>hasNext()</code>。设计并实现一个支持&nbsp;<code>peek()</code>&nbsp;操作的顶端迭代器 -- 其本质就是把原本应由&nbsp;<code>next()</code>&nbsp;方法返回的元素&nbsp;<code>peek()</code>&nbsp;出来。</p>
@@ -18,6 +18,6 @@
 ## 相关话题
 - [设计](https://leetcode-cn.com/tag/design)
 ## 相似题目
-- [二叉搜索树迭代器](../binary-search-tree-iterator/README.md)
-- [展开二维向量](../flatten-2d-vector/README.md)
-- [锯齿迭代器](../zigzag-iterator/README.md)
+- [二叉搜索树迭代器](../0173/README.md)
+- [展开二维向量](../0251/README.md)
+- [锯齿迭代器](../0281/README.md)

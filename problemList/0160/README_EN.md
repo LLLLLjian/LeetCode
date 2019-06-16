@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0160. Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
 ## Description
 <p>Write a program to find the node at which the intersection of two singly linked lists begins.</p>
@@ -56,4 +56,4 @@
 ## Related Topics
 - [Linked List](https://leetcode-cn.com/tag/linked-list)
 ## Similar Questions
-- [Minimum Index Sum of Two Lists](../minimum-index-sum-of-two-lists/README_EN.md)
+- [Minimum Index Sum of Two Lists](../0599/README_EN.md)

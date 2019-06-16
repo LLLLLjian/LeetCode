@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0075. 颜色分类](https://leetcode-cn.com/problems/sort-colors/)
 ## 题目描述
 <p>给定一个包含红色、白色和蓝色，一共&nbsp;<em>n </em>个元素的数组，<strong><a href="https://baike.baidu.com/item/%E5%8E%9F%E5%9C%B0%E7%AE%97%E6%B3%95" target="_blank">原地</a></strong>对它们进行排序，使得相同颜色的元素相邻，并按照红色、白色、蓝色顺序排列。</p>
@@ -27,6 +27,6 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 ## 相似题目
-- [排序链表](../sort-list/README.md)
-- [摆动排序](../wiggle-sort/README.md)
-- [摆动排序 II](../wiggle-sort-ii/README.md)
+- [排序链表](../0148/README.md)
+- [摆动排序](../0280/README.md)
+- [摆动排序 II](../0324/README.md)

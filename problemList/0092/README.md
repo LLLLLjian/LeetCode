@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0092. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 ## 题目描述
 <p>反转从位置 <em>m</em> 到 <em>n</em> 的链表。请使用一趟扫描完成反转。</p>
@@ -15,4 +15,4 @@
 ## 相关话题
 - [链表](https://leetcode-cn.com/tag/linked-list)
 ## 相似题目
-- [反转链表](../reverse-linked-list/README.md)
+- [反转链表](../0206/README.md)

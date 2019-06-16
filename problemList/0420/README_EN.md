@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0420. Strong Password Checker](https://leetcode-cn.com/problems/strong-password-checker/)
 ## Description
 <p>A password is considered strong if below conditions are all met:</p>

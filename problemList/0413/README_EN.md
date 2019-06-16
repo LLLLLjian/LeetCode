@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0413. Arithmetic Slices](https://leetcode-cn.com/problems/arithmetic-slices/)
 ## Description
 <p>A sequence of number is called arithmetic if it consists of at least three elements and if the difference between any two consecutive elements is the same.</p>
@@ -30,4 +30,4 @@ return: 3, for 3 arithmetic slices in A: [1, 2, 3], [2, 3, 4] and [1, 2, 3, 4] i
 - [Math](https://leetcode-cn.com/tag/math)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Arithmetic Slices II - Subsequence](../arithmetic-slices-ii-subsequence/README_EN.md)
+- [Arithmetic Slices II - Subsequence](../0446/README_EN.md)

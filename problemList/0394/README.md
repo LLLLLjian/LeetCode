@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0394. 字符串解码](https://leetcode-cn.com/problems/decode-string/)
 ## 题目描述
 <p>给定一个经过编码的字符串，返回它解码后的字符串。</p>
@@ -22,5 +22,6 @@ s = &quot;2[abc]3[cd]ef&quot;, 返回 &quot;abcabccdcdcdef&quot;.
 - [栈](https://leetcode-cn.com/tag/stack)
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 ## 相似题目
-- [编码最短长度的字符串](../encode-string-with-shortest-length/README.md)
-- [原子的数量](../number-of-atoms/README.md)
+- [编码最短长度的字符串](../0471/README.md)
+- [原子的数量](../0726/README.md)
+- [字母切换](../None/README.md)

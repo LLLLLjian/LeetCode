@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0766. Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)
 ## Description
 <p>A matrix is <em>Toeplitz</em> if every diagonal from top-left to bottom-right has the same element.</p>
@@ -56,4 +56,4 @@ The diagonal &quot;[1, 2]&quot; has different elements.
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Valid Word Square](../valid-word-square/README_EN.md)
+- [Valid Word Square](../0422/README_EN.md)

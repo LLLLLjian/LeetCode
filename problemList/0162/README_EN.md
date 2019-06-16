@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0162. Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/)
 ## Description
 <p>A peak element is an element that is greater than its neighbors.</p>
@@ -34,4 +34,4 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Peak Index in a Mountain Array](../peak-index-in-a-mountain-array/README_EN.md)
+- [Peak Index in a Mountain Array](../0852/README_EN.md)

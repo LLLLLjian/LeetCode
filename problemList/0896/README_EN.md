@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0896. Monotonic Array](https://leetcode-cn.com/problems/monotonic-array/)
 ## Description
 <p>An array is <em>monotonic</em> if it is either monotone increasing or monotone decreasing.</p>

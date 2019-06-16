@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0451. 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)
 ## 题目描述
 <p>给定一个字符串，请将字符串里的字符按照出现的频率降序排列。</p>
@@ -50,5 +50,5 @@
 - [堆](https://leetcode-cn.com/tag/heap)
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [前K个高频元素](../top-k-frequent-elements/README.md)
-- [字符串中的第一个唯一字符](../first-unique-character-in-a-string/README.md)
+- [前K个高频元素](../0347/README.md)
+- [字符串中的第一个唯一字符](../0387/README.md)

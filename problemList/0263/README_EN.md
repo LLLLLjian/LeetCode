@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0263. Ugly Number](https://leetcode-cn.com/problems/ugly-number/)
 ## Description
 <p>Write a program to check whether a given number is an ugly number.</p>
@@ -38,6 +38,6 @@
 ## Related Topics
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Happy Number](../happy-number/README_EN.md)
-- [Count Primes](../count-primes/README_EN.md)
-- [Ugly Number II](../ugly-number-ii/README_EN.md)
+- [Happy Number](../0202/README_EN.md)
+- [Count Primes](../0204/README_EN.md)
+- [Ugly Number II](../0264/README_EN.md)

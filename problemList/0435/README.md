@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/)
 ## 题目描述
 <p>给定一个区间的集合，找到需要移除区间的最小数量，使剩余区间互不重叠。</p>
@@ -44,4 +44,4 @@
 ## 相关话题
 - [贪心算法](https://leetcode-cn.com/tag/greedy)
 ## 相似题目
-- [用最少数量的箭引爆气球](../minimum-number-of-arrows-to-burst-balloons/README.md)
+- [用最少数量的箭引爆气球](../0452/README.md)

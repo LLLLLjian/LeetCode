@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0031. Next Permutation](https://leetcode-cn.com/problems/next-permutation/)
 ## Description
 <p>Implement <strong>next permutation</strong>, which rearranges numbers into the lexicographically next greater permutation of numbers.</p>
@@ -17,7 +17,7 @@
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Permutations](../permutations/README_EN.md)
-- [Permutations II](../permutations-ii/README_EN.md)
-- [Permutation Sequence](../permutation-sequence/README_EN.md)
-- [Palindrome Permutation II](../palindrome-permutation-ii/README_EN.md)
+- [Permutations](../0046/README_EN.md)
+- [Permutations II](../0047/README_EN.md)
+- [Permutation Sequence](../0060/README_EN.md)
+- [Palindrome Permutation II](../0267/README_EN.md)

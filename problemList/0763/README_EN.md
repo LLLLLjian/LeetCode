@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0763. Partition Labels](https://leetcode-cn.com/problems/partition-labels/)
 ## Description
 <p>
@@ -25,4 +25,4 @@ A partition like "ababcbacadefegde", "hijhklij" is incorrect, because it splits 
 - [Greedy](https://leetcode-cn.com/tag/greedy)
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 ## Similar Questions
-- [Merge Intervals](../merge-intervals/README_EN.md)
+- [Merge Intervals](../0056/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0866. 回文素数](https://leetcode-cn.com/problems/prime-palindrome/)
 ## 题目描述
 <p>求出大于或等于&nbsp;<code>N</code>&nbsp;的最小回文素数。</p>

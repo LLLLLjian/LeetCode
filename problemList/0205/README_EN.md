@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0205. Isomorphic Strings](https://leetcode-cn.com/problems/isomorphic-strings/)
 ## Description
 <p>Given two strings <b><i>s</i></b> and <b><i>t</i></b>, determine if they are isomorphic.</p>
@@ -33,4 +33,4 @@ You may assume both <b><i>s&nbsp;</i></b>and <b><i>t&nbsp;</i></b>have the same 
 ## Related Topics
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Word Pattern](../word-pattern/README_EN.md)
+- [Word Pattern](../0290/README_EN.md)

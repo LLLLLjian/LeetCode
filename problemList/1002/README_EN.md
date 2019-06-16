@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1002. Find Common Characters](https://leetcode-cn.com/problems/find-common-characters/)
 ## Description
 <p>Given an array&nbsp;<code>A</code> of strings made only from lowercase letters, return a list of all characters that show up in all strings within the list <strong>(including duplicates)</strong>.&nbsp;&nbsp;For example, if a character occurs 3 times&nbsp;in all strings but not 4 times, you need to include that character three times&nbsp;in the final answer.</p>
@@ -39,4 +39,4 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Intersection of Two Arrays II](../intersection-of-two-arrays-ii/README_EN.md)
+- [Intersection of Two Arrays II](../0350/README_EN.md)

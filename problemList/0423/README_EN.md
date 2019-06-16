@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0423. Reconstruct Original Digits from English](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/)
 ## Description
 <p>Given a <b>non-empty</b> string containing an out-of-order English representation of digits <code>0-9</code>, output the digits in ascending order.</p>

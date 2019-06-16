@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0952. Largest Component Size by Common Factor](https://leetcode-cn.com/problems/largest-component-size-by-common-factor/)
 ## Description
 <p>Given a non-empty&nbsp;array of unique positive integers <code>A</code>, consider the following graph:</p>

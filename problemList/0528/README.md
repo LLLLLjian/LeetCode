@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0528. 按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight/)
 ## 题目描述
 <p>给定一个正整数数组&nbsp;<code>w</code> ，其中&nbsp;<code>w[i]</code>&nbsp;代表位置&nbsp;<code>i</code>&nbsp;的权重，请写一个函数&nbsp;<code>pickIndex</code>&nbsp;，它可以随机地获取位置&nbsp;<code>i</code>，选取位置&nbsp;<code>i</code>&nbsp;的概率与&nbsp;<code>w[i]</code>&nbsp;成正比。</p>
@@ -37,6 +37,6 @@
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 - [None](https://leetcode-cn.com/tag/random)
 ## 相似题目
-- [随机数索引](../random-pick-index/README.md)
-- [黑名单中的随机数](../random-pick-with-blacklist/README.md)
-- [非重叠矩形中的随机点](../random-point-in-non-overlapping-rectangles/README.md)
+- [随机数索引](../0398/README.md)
+- [黑名单中的随机数](../0710/README.md)
+- [非重叠矩形中的随机点](../0497/README.md)

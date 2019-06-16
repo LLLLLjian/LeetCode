@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0988. 从叶结点开始的最小字符串](https://leetcode-cn.com/problems/smallest-string-starting-from-leaf/)
 ## 题目描述
 <p>给定一颗根结点为&nbsp;<code>root</code>&nbsp;的二叉树，书中的每个结点都有一个从&nbsp;<code>0</code> 到&nbsp;<code>25</code>&nbsp;的值，分别代表字母&nbsp;<code>&#39;a&#39;</code> 到&nbsp;<code>&#39;z&#39;</code>：值&nbsp;<code>0</code> 代表&nbsp;<code>&#39;a&#39;</code>，值&nbsp;<code>1</code>&nbsp;代表&nbsp;<code>&#39;b&#39;</code>，依此类推。</p>
@@ -50,5 +50,5 @@
 - [树](https://leetcode-cn.com/tag/tree)
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 ## 相似题目
-- [求根到叶子节点数字之和](../sum-root-to-leaf-numbers/README.md)
-- [二叉树的所有路径](../binary-tree-paths/README.md)
+- [求根到叶子节点数字之和](../0129/README.md)
+- [二叉树的所有路径](../0257/README.md)

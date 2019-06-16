@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0188. Best Time to Buy and Sell Stock IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)
 ## Description
 <p>Say you have an array for which the <i>i</i><sup>th</sup> element is the price of a given stock on day <i>i</i>.</p>
@@ -28,6 +28,6 @@ You may not engage in multiple transactions at the same time (ie, you must sell 
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Best Time to Buy and Sell Stock](../best-time-to-buy-and-sell-stock/README_EN.md)
-- [Best Time to Buy and Sell Stock II](../best-time-to-buy-and-sell-stock-ii/README_EN.md)
-- [Best Time to Buy and Sell Stock III](../best-time-to-buy-and-sell-stock-iii/README_EN.md)
+- [Best Time to Buy and Sell Stock](../0121/README_EN.md)
+- [Best Time to Buy and Sell Stock II](../0122/README_EN.md)
+- [Best Time to Buy and Sell Stock III](../0123/README_EN.md)

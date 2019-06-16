@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0741. 摘樱桃](https://leetcode-cn.com/problems/cherry-pickup/)
 ## 题目描述
 <p>一个N x N的网格<code>(grid)</code>&nbsp;代表了一块樱桃地，每个格子由以下三种数字的一种来表示：</p>
@@ -45,5 +45,5 @@
 ## 相关话题
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [最小路径和](../minimum-path-sum/README.md)
-- [地下城游戏](../dungeon-game/README.md)
+- [最小路径和](../0064/README.md)
+- [地下城游戏](../0174/README.md)

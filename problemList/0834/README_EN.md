@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0834. Sum of Distances in Tree](https://leetcode-cn.com/problems/sum-of-distances-in-tree/)
 ## Description
 <p>An undirected, connected&nbsp;tree with <code>N</code> nodes labelled <code>0...N-1</code> and <code>N-1</code> <code>edges</code>&nbsp;are&nbsp;given.</p>
@@ -30,4 +30,4 @@ equals 1 + 1 + 2 + 2 + 2 = 8.  Hence, answer[0] = 8, and so on.
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 ## Similar Questions
-- [Distribute Coins in Binary Tree](../distribute-coins-in-binary-tree/README_EN.md)
+- [Distribute Coins in Binary Tree](../0979/README_EN.md)

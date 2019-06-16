@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0202. 快乐数](https://leetcode-cn.com/problems/happy-number/)
 ## 题目描述
 <p>编写一个算法来判断一个数是不是&ldquo;快乐数&rdquo;。</p>
@@ -21,6 +21,6 @@
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [环形链表](../linked-list-cycle/README.md)
-- [各位相加](../add-digits/README.md)
-- [丑数](../ugly-number/README.md)
+- [环形链表](../0141/README.md)
+- [各位相加](../0258/README.md)
+- [丑数](../0263/README.md)

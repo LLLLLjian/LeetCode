@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0452. Minimum Number of Arrows to Burst Balloons](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 ## Description
 <p>There are a number of spherical balloons spread in two-dimensional space. For each balloon, provided input is the start and end coordinates of the horizontal diameter. Since it&#39;s horizontal, y-coordinates don&#39;t matter and hence the x-coordinates of start and end of the diameter suffice. Start is always smaller than end. There will be at most 10<sup>4</sup> balloons.</p>
@@ -24,5 +24,5 @@ One way is to shoot one arrow for example at x = 6 (bursting the balloons [2,8] 
 ## Related Topics
 - [Greedy](https://leetcode-cn.com/tag/greedy)
 ## Similar Questions
-- [Meeting Rooms II](../meeting-rooms-ii/README_EN.md)
-- [Non-overlapping Intervals](../non-overlapping-intervals/README_EN.md)
+- [Meeting Rooms II](../0253/README_EN.md)
+- [Non-overlapping Intervals](../0435/README_EN.md)

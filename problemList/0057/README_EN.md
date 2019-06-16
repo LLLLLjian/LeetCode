@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0057. Insert Interval](https://leetcode-cn.com/problems/insert-interval/)
 ## Description
 <p>Given a set of <em>non-overlapping</em> intervals, insert a new interval into the intervals (merge if necessary).</p>
@@ -26,5 +26,5 @@
 - [Sort](https://leetcode-cn.com/tag/sort)
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Merge Intervals](../merge-intervals/README_EN.md)
-- [Range Module](../range-module/README_EN.md)
+- [Merge Intervals](../0056/README_EN.md)
+- [Range Module](../0715/README_EN.md)

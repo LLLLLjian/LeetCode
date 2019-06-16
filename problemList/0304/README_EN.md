@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0304. Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)
 ## Description
 <p>Given a 2D matrix <i>matrix</i>, find the sum of the elements inside the rectangle defined by its upper left corner (<i>row</i>1, <i>col</i>1) and lower right corner (<i>row</i>2, <i>col</i>2).</p>
@@ -35,5 +35,5 @@ sumRegion(1, 2, 2, 4) -> 12
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Range Sum Query - Immutable](../range-sum-query-immutable/README_EN.md)
-- [Range Sum Query 2D - Mutable](../range-sum-query-2d-mutable/README_EN.md)
+- [Range Sum Query - Immutable](../0303/README_EN.md)
+- [Range Sum Query 2D - Mutable](../0308/README_EN.md)

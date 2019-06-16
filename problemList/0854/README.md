@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0854. 相似度为 K 的字符串](https://leetcode-cn.com/problems/k-similar-strings/)
 ## 题目描述
 <p>如果可以通过将 <code>A</code> 中的两个小写字母精确地交换位置 <code>K</code> 次得到与 <code>B</code> 相等的字符串，我们称字符串&nbsp;<code>A</code>&nbsp;和&nbsp;<code>B</code>&nbsp;的相似度为 <code>K</code>（<code>K</code>&nbsp;为非负整数）。</p>
@@ -44,4 +44,4 @@
 - [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search)
 - [图](https://leetcode-cn.com/tag/graph)
 ## 相似题目
-- [情侣牵手](../couples-holding-hands/README.md)
+- [情侣牵手](../0765/README.md)

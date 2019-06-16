@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
 ## 题目描述
 <p>实现一个二叉搜索树迭代器。你将使用二叉搜索树的根节点初始化迭代器。</p>
@@ -37,8 +37,8 @@ iterator.hasNext(); // 返回 false</pre>
 - [树](https://leetcode-cn.com/tag/tree)
 - [设计](https://leetcode-cn.com/tag/design)
 ## 相似题目
-- [二叉树的中序遍历](../binary-tree-inorder-traversal/README.md)
-- [展开二维向量](../flatten-2d-vector/README.md)
-- [锯齿迭代器](../zigzag-iterator/README.md)
-- [顶端迭代器](../peeking-iterator/README.md)
-- [二叉搜索树中的顺序后继](../inorder-successor-in-bst/README.md)
+- [二叉树的中序遍历](../0094/README.md)
+- [展开二维向量](../0251/README.md)
+- [锯齿迭代器](../0281/README.md)
+- [顶端迭代器](../0284/README.md)
+- [二叉搜索树中的顺序后继](../0285/README.md)

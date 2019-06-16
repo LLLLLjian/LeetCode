@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0312. 戳气球](https://leetcode-cn.com/problems/burst-balloons/)
 ## 题目描述
 <p>有 <code>n</code> 个气球，编号为<code>0</code> 到 <code>n-1</code>，每个气球上都标有一个数字，这些数字存在数组&nbsp;<code>nums</code>&nbsp;中。</p>
@@ -27,4 +27,4 @@
 - [分治算法](https://leetcode-cn.com/tag/divide-and-conquer)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [合并石头的最低成本](../minimum-cost-to-merge-stones/README.md)
+- [合并石头的最低成本](../1000/README.md)

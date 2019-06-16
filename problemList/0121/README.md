@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 ## 题目描述
 <p>给定一个数组，它的第&nbsp;<em>i</em> 个元素是一支给定股票第 <em>i</em> 天的价格。</p>
@@ -27,8 +27,8 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [最大子序和](../maximum-subarray/README.md)
-- [买卖股票的最佳时机 II](../best-time-to-buy-and-sell-stock-ii/README.md)
-- [买卖股票的最佳时机 III](../best-time-to-buy-and-sell-stock-iii/README.md)
-- [买卖股票的最佳时机 IV](../best-time-to-buy-and-sell-stock-iv/README.md)
-- [最佳买卖股票时机含冷冻期](../best-time-to-buy-and-sell-stock-with-cooldown/README.md)
+- [最大子序和](../0053/README.md)
+- [买卖股票的最佳时机 II](../0122/README.md)
+- [买卖股票的最佳时机 III](../0123/README.md)
+- [买卖股票的最佳时机 IV](../0188/README.md)
+- [最佳买卖股票时机含冷冻期](../0309/README.md)

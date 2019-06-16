@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0706. 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/)
 ## 题目描述
 <p>不使用任何内建的哈希表库设计一个哈希映射</p>
@@ -40,4 +40,4 @@ hashMap.get(2); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// 返回 -1 (未找到
 - [设计](https://leetcode-cn.com/tag/design)
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [设计哈希集合](../design-hashset/README.md)
+- [设计哈希集合](../0705/README.md)

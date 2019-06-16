@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1035. Uncrossed Lines](https://leetcode-cn.com/problems/uncrossed-lines/)
 ## Description
 <p>We write the integers of <code>A</code> and <code>B</code>&nbsp;(in the order they are given) on two separate horizontal lines.</p>
@@ -56,4 +56,4 @@ We cannot draw 3 uncrossed lines, because the line from A[1]=4 to B[2]=4 will in
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Edit Distance](../edit-distance/README_EN.md)
+- [Edit Distance](../0072/README_EN.md)

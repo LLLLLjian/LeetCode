@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)
 ## 题目描述
 <p>给定一个字符串&nbsp;<strong>s&nbsp;</strong>和一个非空字符串&nbsp;<strong>p</strong>，找到&nbsp;<strong>s&nbsp;</strong>中所有是&nbsp;<strong>p&nbsp;</strong>的字母异位词的子串，返回这些子串的起始索引。</p>
@@ -45,5 +45,5 @@ s: &quot;abab&quot; p: &quot;ab&quot;
 ## 相关话题
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [有效的字母异位词](../valid-anagram/README.md)
-- [字符串的排列](../permutation-in-string/README.md)
+- [有效的字母异位词](../0242/README.md)
+- [字符串的排列](../0567/README.md)

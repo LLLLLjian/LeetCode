@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0278. First Bad Version](https://leetcode-cn.com/problems/first-bad-version/)
 ## Description
 <p>You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad.</p>
@@ -22,6 +22,6 @@ Then 4 is the first bad version.&nbsp;</code>
 ## Related Topics
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Find First and Last Position of Element in Sorted Array](../find-first-and-last-position-of-element-in-sorted-array/README_EN.md)
-- [Search Insert Position](../search-insert-position/README_EN.md)
-- [Guess Number Higher or Lower](../guess-number-higher-or-lower/README_EN.md)
+- [Find First and Last Position of Element in Sorted Array](../0034/README_EN.md)
+- [Search Insert Position](../0035/README_EN.md)
+- [Guess Number Higher or Lower](../0374/README_EN.md)

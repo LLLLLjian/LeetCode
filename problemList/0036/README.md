@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0036. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)
 ## 题目描述
 <p>判断一个&nbsp;9x9 的数独是否有效。只需要<strong>根据以下规则</strong>，验证已经填入的数字是否有效即可。</p>
@@ -63,4 +63,4 @@
 ## 相关话题
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [解数独](../sudoku-solver/README.md)
+- [解数独](../0037/README.md)

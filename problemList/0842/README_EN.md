@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0842. Split Array into Fibonacci Sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)
 ## Description
 <p>Given a string <code>S</code>&nbsp;of digits, such as <code>S = &quot;123456579&quot;</code>, we can split it into a <em>Fibonacci-like sequence</em>&nbsp;<code>[123, 456, 579].</code></p>
@@ -66,5 +66,5 @@
 - [String](https://leetcode-cn.com/tag/string)
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Additive Number](../additive-number/README_EN.md)
-- [Fibonacci Number](../fibonacci-number/README_EN.md)
+- [Additive Number](../0306/README_EN.md)
+- [Fibonacci Number](../0509/README_EN.md)

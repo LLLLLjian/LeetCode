@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0936. Stamping The Sequence](https://leetcode-cn.com/problems/stamping-the-sequence/)
 ## Description
 <p>You want to form a <code>target</code>&nbsp;string of <strong>lowercase letters</strong>.</p>

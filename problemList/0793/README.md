@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0793. 阶乘函数后K个零](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function/)
 ## 题目描述
 <p>&nbsp;<code>f(x)</code>&nbsp;是&nbsp;<code>x!</code>&nbsp;末尾是0的数量。（回想一下&nbsp;<code>x! = 1 * 2 * 3 * ... * x</code>，且<code>0! = 1</code>）</p>
@@ -29,4 +29,4 @@
 ## 相关话题
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [阶乘后的零](../factorial-trailing-zeroes/README.md)
+- [阶乘后的零](../0172/README.md)

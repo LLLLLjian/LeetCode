@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0096. Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)
 ## Description
 <p>Given <em>n</em>, how many structurally unique <strong>BST&#39;s</strong> (binary search trees) that store values 1 ...&nbsp;<em>n</em>?</p>
@@ -23,4 +23,4 @@
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Unique Binary Search Trees II](../unique-binary-search-trees-ii/README_EN.md)
+- [Unique Binary Search Trees II](../0095/README_EN.md)

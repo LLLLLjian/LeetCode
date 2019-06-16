@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0027. Remove Element](https://leetcode-cn.com/problems/remove-element/)
 ## Description
 <p>Given an array <em>nums</em> and a value <em>val</em>, remove all instances of that value <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> and return the new length.</p>
@@ -51,6 +51,6 @@ for (int i = 0; i &lt; len; i++) {
 - [Array](https://leetcode-cn.com/tag/array)
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 ## Similar Questions
-- [Remove Duplicates from Sorted Array](../remove-duplicates-from-sorted-array/README_EN.md)
-- [Remove Linked List Elements](../remove-linked-list-elements/README_EN.md)
-- [Move Zeroes](../move-zeroes/README_EN.md)
+- [Remove Duplicates from Sorted Array](../0026/README_EN.md)
+- [Remove Linked List Elements](../0203/README_EN.md)
+- [Move Zeroes](../0283/README_EN.md)

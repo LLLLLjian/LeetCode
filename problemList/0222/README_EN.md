@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0222. Count Complete Tree Nodes](https://leetcode-cn.com/problems/count-complete-tree-nodes/)
 ## Description
 <p>Given a <b>complete</b> binary tree, count the number of nodes.</p>
@@ -25,4 +25,4 @@ In a complete binary tree every level, except possibly the last, is completely f
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Closest Binary Search Tree Value](../closest-binary-search-tree-value/README_EN.md)
+- [Closest Binary Search Tree Value](../0270/README_EN.md)

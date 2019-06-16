@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0720. Longest Word in Dictionary](https://leetcode-cn.com/problems/longest-word-in-dictionary/)
 ## Description
 <p>Given a list of strings <code>words</code> representing an English Dictionary, find the longest word in <code>words</code> that can be built one character at a time by other words in <code>words</code>.  If there is more than one possible answer, return the longest word with the smallest lexicographical order.</p>  If there is no answer, return the empty string.
@@ -33,5 +33,5 @@ Both "apply" and "apple" can be built from other words in the dictionary. Howeve
 - [Trie](https://leetcode-cn.com/tag/trie)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Longest Word in Dictionary through Deleting](../longest-word-in-dictionary-through-deleting/README_EN.md)
-- [Implement Magic Dictionary](../implement-magic-dictionary/README_EN.md)
+- [Longest Word in Dictionary through Deleting](../0524/README_EN.md)
+- [Implement Magic Dictionary](../0676/README_EN.md)

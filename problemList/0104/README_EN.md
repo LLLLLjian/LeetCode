@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0104. Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 ## Description
 <p>Given a binary tree, find its maximum depth.</p>
@@ -25,6 +25,6 @@
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 ## Similar Questions
-- [Balanced Binary Tree](../balanced-binary-tree/README_EN.md)
-- [Minimum Depth of Binary Tree](../minimum-depth-of-binary-tree/README_EN.md)
-- [Maximum Depth of N-ary Tree](../maximum-depth-of-n-ary-tree/README_EN.md)
+- [Balanced Binary Tree](../0110/README_EN.md)
+- [Minimum Depth of Binary Tree](../0111/README_EN.md)
+- [Maximum Depth of N-ary Tree](../0559/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0486. 预测赢家](https://leetcode-cn.com/problems/predict-the-winner/)
 ## 题目描述
 <p>给定一个表示分数的非负整数数组。 玩家1从数组任意一端拿取一个分数，随后玩家2继续从剩余数组任意一端拿取分数，然后玩家1拿，&hellip;&hellip;。每次一个玩家只能拿取一个分数，分数被拿取之后不再可取。直到没有剩余分数可取时游戏结束。最终获得分数总和最多的玩家获胜。</p>
@@ -38,4 +38,4 @@
 - [极小化极大](https://leetcode-cn.com/tag/minimax)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [我能赢吗](../can-i-win/README.md)
+- [我能赢吗](../0464/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0710. Random Pick with Blacklist](https://leetcode-cn.com/problems/random-pick-with-blacklist/)
 ## Description
 <p>Given a blacklist&nbsp;<code>B</code> containing unique integers&nbsp;from <code>[0, N)</code>, write a function to return a uniform random integer from <code>[0, N)</code> which is <strong>NOT</strong>&nbsp;in <code>B</code>.</p>
@@ -60,5 +60,5 @@
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 - [Random](https://leetcode-cn.com/tag/random)
 ## Similar Questions
-- [Random Pick Index](../random-pick-index/README_EN.md)
-- [Random Pick with Weight](../random-pick-with-weight/README_EN.md)
+- [Random Pick Index](../0398/README_EN.md)
+- [Random Pick with Weight](../0528/README_EN.md)

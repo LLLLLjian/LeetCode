@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0284. Peeking Iterator](https://leetcode-cn.com/problems/peeking-iterator/)
 ## Description
 <p>Given an Iterator class interface with methods: <code>next()</code> and <code>hasNext()</code>, design and implement a PeekingIterator that support the <code>peek()</code> operation -- it essentially peek() at the element that will be returned by the next call to next().</p>
@@ -20,6 +20,6 @@ Calling <strong><code>hasNext()</code></strong> after that should return <strong
 ## Related Topics
 - [Design](https://leetcode-cn.com/tag/design)
 ## Similar Questions
-- [Binary Search Tree Iterator](../binary-search-tree-iterator/README_EN.md)
-- [Flatten 2D Vector](../flatten-2d-vector/README_EN.md)
-- [Zigzag Iterator](../zigzag-iterator/README_EN.md)
+- [Binary Search Tree Iterator](../0173/README_EN.md)
+- [Flatten 2D Vector](../0251/README_EN.md)
+- [Zigzag Iterator](../0281/README_EN.md)

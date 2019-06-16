@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0027. 移除元素](https://leetcode-cn.com/problems/remove-element/)
 ## 题目描述
 <p>给定一个数组 <em>nums&nbsp;</em>和一个值 <em>val</em>，你需要<strong><a href="https://baike.baidu.com/item/%E5%8E%9F%E5%9C%B0%E7%AE%97%E6%B3%95" target="_blank">原地</a></strong>移除所有数值等于&nbsp;<em>val&nbsp;</em>的元素，返回移除后数组的新长度。</p>
@@ -50,6 +50,6 @@ for (int i = 0; i &lt; len; i++) {
 - [数组](https://leetcode-cn.com/tag/array)
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 ## 相似题目
-- [删除排序数组中的重复项](../remove-duplicates-from-sorted-array/README.md)
-- [移除链表元素](../remove-linked-list-elements/README.md)
-- [移动零](../move-zeroes/README.md)
+- [删除排序数组中的重复项](../0026/README.md)
+- [移除链表元素](../0203/README.md)
+- [移动零](../0283/README.md)

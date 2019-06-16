@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0204. 计数质数](https://leetcode-cn.com/problems/count-primes/)
 ## 题目描述
 <p>统计所有小于非负整数&nbsp;<em>n&nbsp;</em>的质数的数量。</p>
@@ -15,6 +15,6 @@
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [丑数](../ugly-number/README.md)
-- [丑数 II](../ugly-number-ii/README.md)
-- [完全平方数](../perfect-squares/README.md)
+- [丑数](../0263/README.md)
+- [丑数 II](../0264/README.md)
+- [完全平方数](../0279/README.md)

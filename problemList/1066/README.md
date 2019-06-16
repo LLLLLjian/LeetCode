@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [1066. 校园自行车分配 II](https://leetcode-cn.com/problems/campus-bikes-ii/)
 ## 题目描述
 None
@@ -7,4 +7,4 @@ None
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [校园自行车分配](../campus-bikes/README.md)
+- [校园自行车分配](../1057/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0653. 两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/)
 ## 题目描述
 <p>给定一个二叉搜索树和一个目标结果，如果 BST 中存在两个元素且它们的和等于给定的目标结果，则返回 true。</p>
@@ -41,6 +41,6 @@ Target = 28
 ## 相关话题
 - [树](https://leetcode-cn.com/tag/tree)
 ## 相似题目
-- [两数之和](../two-sum/README.md)
-- [两数之和 II - 输入有序数组](../two-sum-ii-input-array-is-sorted/README.md)
-- [两数之和 III - 数据结构设计](../two-sum-iii-data-structure-design/README.md)
+- [两数之和](../0001/README.md)
+- [两数之和 II - 输入有序数组](../0167/README.md)
+- [两数之和 III - 数据结构设计](../0170/README.md)

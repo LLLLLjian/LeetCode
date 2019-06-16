@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0082. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
 ## 题目描述
 <p>给定一个排序链表，删除所有含有重复数字的节点，只保留原始链表中&nbsp;<em>没有重复出现&nbsp;</em>的数字。</p>
@@ -18,4 +18,4 @@
 ## 相关话题
 - [链表](https://leetcode-cn.com/tag/linked-list)
 ## 相似题目
-- [删除排序链表中的重复元素](../remove-duplicates-from-sorted-list/README.md)
+- [删除排序链表中的重复元素](../0083/README.md)

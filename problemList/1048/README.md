@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [1048. 最长字符串链](https://leetcode-cn.com/problems/longest-string-chain/)
 ## 题目描述
 <p>给出一个单词列表，其中每个单词都由小写英文字母组成。</p>

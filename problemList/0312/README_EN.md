@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0312. Burst Balloons](https://leetcode-cn.com/problems/burst-balloons/)
 ## Description
 <p>Given <code>n</code> balloons, indexed from <code>0</code> to <code>n-1</code>. Each balloon is painted with a number on it represented by array <code>nums</code>. You are asked to burst all the balloons. If the you burst balloon <code>i</code> you will get <code>nums[left] * nums[i] * nums[right]</code> coins. Here <code>left</code> and <code>right</code> are adjacent indices of <code>i</code>. After the burst, the <code>left</code> and <code>right</code> then becomes adjacent.</p>
@@ -25,4 +25,4 @@
 - [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Minimum Cost to Merge Stones](../minimum-cost-to-merge-stones/README_EN.md)
+- [Minimum Cost to Merge Stones](../1000/README_EN.md)

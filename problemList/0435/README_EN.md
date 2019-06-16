@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0435. Non-overlapping Intervals](https://leetcode-cn.com/problems/non-overlapping-intervals/)
 ## Description
 <p>Given a collection of intervals, find the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping.</p>
@@ -52,4 +52,4 @@
 ## Related Topics
 - [Greedy](https://leetcode-cn.com/tag/greedy)
 ## Similar Questions
-- [Minimum Number of Arrows to Burst Balloons](../minimum-number-of-arrows-to-burst-balloons/README_EN.md)
+- [Minimum Number of Arrows to Burst Balloons](../0452/README_EN.md)

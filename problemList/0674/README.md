@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0674. 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)
 ## 题目描述
 <p>给定一个未经排序的整数数组，找到最长且<strong>连续</strong>的的递增序列。</p>
@@ -26,5 +26,5 @@
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [最长递增子序列的个数](../number-of-longest-increasing-subsequence/README.md)
-- [最小窗口子序列](../minimum-window-subsequence/README.md)
+- [最长递增子序列的个数](../0673/README.md)
+- [最小窗口子序列](../0727/README.md)

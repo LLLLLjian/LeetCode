@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0279. Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/)
 ## Description
 <p>Given a positive integer <i>n</i>, find the least number of perfect square numbers (for example, <code>1, 4, 9, 16, ...</code>) which sum to <i>n</i>.</p>
@@ -22,5 +22,5 @@
 - [Math](https://leetcode-cn.com/tag/math)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Count Primes](../count-primes/README_EN.md)
-- [Ugly Number II](../ugly-number-ii/README_EN.md)
+- [Count Primes](../0204/README_EN.md)
+- [Ugly Number II](../0264/README_EN.md)

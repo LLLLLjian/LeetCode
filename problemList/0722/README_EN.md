@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0722. Remove Comments](https://leetcode-cn.com/problems/remove-comments/)
 ## Description
 <p>Given a C++ program, remove comments from it. The program <code>source</code> is an array where <code>source[i]</code> is the <code>i</code>-th line of the source code.  This represents the result of splitting the original source code string by the newline character <code>\n</code>.</p>
@@ -74,5 +74,5 @@ source = ["a/*comment", "line", "more_comment*/b"]
 ## Related Topics
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Mini Parser](../mini-parser/README_EN.md)
-- [Ternary Expression Parser](../ternary-expression-parser/README_EN.md)
+- [Mini Parser](../0385/README_EN.md)
+- [Ternary Expression Parser](../0439/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0593. 有效的正方形](https://leetcode-cn.com/problems/valid-square/)
 ## 题目描述
 <p>给定二维空间中四点的坐标，返回四点是否可以构造一个正方形。</p>

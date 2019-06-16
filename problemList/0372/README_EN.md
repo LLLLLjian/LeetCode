@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0372. Super Pow](https://leetcode-cn.com/problems/super-pow/)
 ## Description
 <p>Your task is to calculate <i>a</i><sup><i>b</i></sup> mod 1337 where <i>a</i> is a positive integer and <i>b</i> is an extremely large positive integer given in the form of an array.</p>
@@ -24,4 +24,4 @@
 ## Related Topics
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Pow(x, n)](../powx-n/README_EN.md)
+- [Pow(x, n)](../0050/README_EN.md)

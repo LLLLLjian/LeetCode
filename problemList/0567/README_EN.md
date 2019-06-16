@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0567. Permutation in String](https://leetcode-cn.com/problems/permutation-in-string/)
 ## Description
 <p>Given two strings <b>s1</b> and <b>s2</b>, write a function to return true if <b>s2</b> contains the permutation of <b>s1</b>. In other words, one of the first string&#39;s permutations is the <b>substring</b> of the second string.</p>
@@ -34,5 +34,5 @@
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 - [Sliding Window](https://leetcode-cn.com/tag/sliding-window)
 ## Similar Questions
-- [Minimum Window Substring](../minimum-window-substring/README_EN.md)
-- [Find All Anagrams in a String](../find-all-anagrams-in-a-string/README_EN.md)
+- [Minimum Window Substring](../0076/README_EN.md)
+- [Find All Anagrams in a String](../0438/README_EN.md)

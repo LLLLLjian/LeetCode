@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0282. Expression Add Operators](https://leetcode-cn.com/problems/expression-add-operators/)
 ## Description
 <p>Given a string that contains only digits <code>0-9</code> and a target value, return all possibilities to add <b>binary</b> operators (not unary) <code>+</code>, <code>-</code>, or <code>*</code> between the digits so they evaluate to the target value.</p>
@@ -40,8 +40,8 @@
 ## Related Topics
 - [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)
 ## Similar Questions
-- [Evaluate Reverse Polish Notation](../evaluate-reverse-polish-notation/README_EN.md)
-- [Basic Calculator](../basic-calculator/README_EN.md)
-- [Basic Calculator II](../basic-calculator-ii/README_EN.md)
-- [Different Ways to Add Parentheses](../different-ways-to-add-parentheses/README_EN.md)
-- [Target Sum](../target-sum/README_EN.md)
+- [Evaluate Reverse Polish Notation](../0150/README_EN.md)
+- [Basic Calculator](../0224/README_EN.md)
+- [Basic Calculator II](../0227/README_EN.md)
+- [Different Ways to Add Parentheses](../0241/README_EN.md)
+- [Target Sum](../0494/README_EN.md)

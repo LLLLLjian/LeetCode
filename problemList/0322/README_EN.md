@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0322. Coin Change](https://leetcode-cn.com/problems/coin-change/)
 ## Description
 <p>You are given coins of different denominations and a total amount of money <i>amount</i>. Write a function to compute the fewest number of coins that you need to make up that amount. If that amount of money cannot be made up by any combination of the coins, return <code>-1</code>.</p>
@@ -24,4 +24,4 @@ You may assume that you have an infinite number of each kind of coin.</p>
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Minimum Cost For Tickets](../minimum-cost-for-tickets/README_EN.md)
+- [Minimum Cost For Tickets](../0983/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)
 ## 题目描述
 <p>实现一个基本的计算器来计算一个简单的字符串表达式的值。</p>
@@ -33,6 +33,6 @@
 ## 相关话题
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [基本计算器](../basic-calculator/README.md)
-- [给表达式添加运算符](../expression-add-operators/README.md)
-- [基本计算器 III](../basic-calculator-iii/README.md)
+- [基本计算器](../0224/README.md)
+- [给表达式添加运算符](../0282/README.md)
+- [基本计算器 III](../0772/README.md)

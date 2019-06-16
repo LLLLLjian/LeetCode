@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0719. 找出第 k 小的距离对](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance/)
 ## 题目描述
 <p>给定一个整数数组，返回所有数对之间的第 k 个最小<strong>距离</strong>。一对 (A, B) 的距离被定义为 A 和 B 之间的绝对差值。</p>
@@ -32,8 +32,8 @@ k = 1
 - [数组](https://leetcode-cn.com/tag/array)
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [查找和最小的K对数字](../find-k-pairs-with-smallest-sums/README.md)
-- [有序矩阵中第K小的元素](../kth-smallest-element-in-a-sorted-matrix/README.md)
-- [找到 K 个最接近的元素](../find-k-closest-elements/README.md)
-- [乘法表中第k小的数](../kth-smallest-number-in-multiplication-table/README.md)
-- [第 K 个最小的素数分数](../k-th-smallest-prime-fraction/README.md)
+- [查找和最小的K对数字](../0373/README.md)
+- [有序矩阵中第K小的元素](../0378/README.md)
+- [找到 K 个最接近的元素](../0658/README.md)
+- [乘法表中第k小的数](../0668/README.md)
+- [第 K 个最小的素数分数](../0786/README.md)

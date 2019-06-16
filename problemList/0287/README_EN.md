@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0287. Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)
 ## Description
 <p>Given an array <i>nums</i> containing <i>n</i> + 1 integers where each integer is between 1 and <i>n</i> (inclusive), prove that at least one duplicate number must exist. Assume that there is only one duplicate number, find the duplicate one.</p>
@@ -31,8 +31,8 @@
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [First Missing Positive](../first-missing-positive/README_EN.md)
-- [Single Number](../single-number/README_EN.md)
-- [Linked List Cycle II](../linked-list-cycle-ii/README_EN.md)
-- [Missing Number](../missing-number/README_EN.md)
-- [Set Mismatch](../set-mismatch/README_EN.md)
+- [First Missing Positive](../0041/README_EN.md)
+- [Single Number](../0136/README_EN.md)
+- [Linked List Cycle II](../0142/README_EN.md)
+- [Missing Number](../0268/README_EN.md)
+- [Set Mismatch](../0645/README_EN.md)

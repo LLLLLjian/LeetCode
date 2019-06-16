@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0796. Rotate String](https://leetcode-cn.com/problems/rotate-string/)
 ## Description
 <p>We are given two strings, <code>A</code> and <code>B</code>.</p>

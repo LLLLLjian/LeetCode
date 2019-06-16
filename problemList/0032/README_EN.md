@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0032. Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/)
 ## Description
 <p>Given a string containing just the characters <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code>, find the length of the longest valid (well-formed) parentheses substring.</p>
@@ -24,4 +24,4 @@
 - [String](https://leetcode-cn.com/tag/string)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Valid Parentheses](../valid-parentheses/README_EN.md)
+- [Valid Parentheses](../0020/README_EN.md)

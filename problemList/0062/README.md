@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0062. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
 ## 题目描述
 <p>一个机器人位于一个 <em>m x n </em>网格的左上角 （起始点在下图中标记为&ldquo;Start&rdquo; ）。</p>
@@ -34,6 +34,6 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [不同路径 II](../unique-paths-ii/README.md)
-- [最小路径和](../minimum-path-sum/README.md)
-- [地下城游戏](../dungeon-game/README.md)
+- [不同路径 II](../0063/README.md)
+- [最小路径和](../0064/README.md)
+- [地下城游戏](../0174/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0189. Rotate Array](https://leetcode-cn.com/problems/rotate-array/)
 ## Description
 <p>Given an array, rotate the array to the right by <em>k</em> steps, where&nbsp;<em>k</em>&nbsp;is non-negative.</p>
@@ -34,5 +34,5 @@ rotate 2 steps to the right: [3,99,-1,-100]
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Rotate List](../rotate-list/README_EN.md)
-- [Reverse Words in a String II](../reverse-words-in-a-string-ii/README_EN.md)
+- [Rotate List](../0061/README_EN.md)
+- [Reverse Words in a String II](../0186/README_EN.md)

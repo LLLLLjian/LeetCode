@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0148. 排序链表](https://leetcode-cn.com/problems/sort-list/)
 ## 题目描述
 <p>在&nbsp;<em>O</em>(<em>n</em>&nbsp;log&nbsp;<em>n</em>) 时间复杂度和常数级空间复杂度下，对链表进行排序。</p>
@@ -19,6 +19,6 @@
 - [排序](https://leetcode-cn.com/tag/sort)
 - [链表](https://leetcode-cn.com/tag/linked-list)
 ## 相似题目
-- [合并两个有序链表](../merge-two-sorted-lists/README.md)
-- [颜色分类](../sort-colors/README.md)
-- [对链表进行插入排序](../insertion-sort-list/README.md)
+- [合并两个有序链表](../0021/README.md)
+- [颜色分类](../0075/README.md)
+- [对链表进行插入排序](../0147/README.md)

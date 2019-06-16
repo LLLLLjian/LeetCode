@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0374. Guess Number Higher or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)
 ## Description
 <p>We are playing the Guess Game. The game is as follows:</p>
@@ -28,6 +28,6 @@
 ## Related Topics
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [First Bad Version](../first-bad-version/README_EN.md)
-- [Guess Number Higher or Lower II](../guess-number-higher-or-lower-ii/README_EN.md)
-- [Find K Closest Elements](../find-k-closest-elements/README_EN.md)
+- [First Bad Version](../0278/README_EN.md)
+- [Guess Number Higher or Lower II](../0375/README_EN.md)
+- [Find K Closest Elements](../0658/README_EN.md)

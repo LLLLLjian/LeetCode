@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1027. Longest Arithmetic Sequence](https://leetcode-cn.com/problems/longest-arithmetic-sequence/)
 ## Description
 <p>Given an array <code>A</code> of integers, return the <strong>length</strong> of the longest arithmetic subsequence in <code>A</code>.</p>

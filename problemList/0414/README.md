@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0414. 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/)
 ## 题目描述
 <p>给定一个非空数组，返回此数组中第三大的数。如果不存在，则返回数组中最大的数。要求算法时间复杂度必须是O(n)。</p>
@@ -38,4 +38,4 @@
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [数组中的第K个最大元素](../kth-largest-element-in-an-array/README.md)
+- [数组中的第K个最大元素](../0215/README.md)

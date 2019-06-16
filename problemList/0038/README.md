@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0038. 报数](https://leetcode-cn.com/problems/count-and-say/)
 ## 题目描述
 <p>报数序列是一个整数序列，按照其中的整数的顺序进行报数，得到下一个数。其前五项如下：</p>
@@ -36,5 +36,5 @@
 ## 相关话题
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [字符串的编码与解码](../encode-and-decode-strings/README.md)
-- [压缩字符串](../string-compression/README.md)
+- [字符串的编码与解码](../0271/README.md)
+- [压缩字符串](../0443/README.md)

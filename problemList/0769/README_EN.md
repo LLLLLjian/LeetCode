@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0769. Max Chunks To Make Sorted](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/)
 ## Description
 <p>Given an array <code>arr</code> that is a permutation of <code>[0, 1, ..., arr.length - 1]</code>, we split the array into some number of &quot;chunks&quot; (partitions), and individually sort each chunk.&nbsp; After concatenating them,&nbsp;the result equals the sorted array.</p>
@@ -38,4 +38,4 @@ However, splitting into [1, 0], [2], [3], [4] is the highest number of chunks po
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Max Chunks To Make Sorted II](../max-chunks-to-make-sorted-ii/README_EN.md)
+- [Max Chunks To Make Sorted II](../0768/README_EN.md)

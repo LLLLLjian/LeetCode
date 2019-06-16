@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0210. 课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/)
 ## 题目描述
 <p>现在你总共有 <em>n</em> 门课需要选，记为&nbsp;<code>0</code>&nbsp;到&nbsp;<code>n-1</code>。</p>
@@ -47,8 +47,8 @@
 - [图](https://leetcode-cn.com/tag/graph)
 - [拓扑排序](https://leetcode-cn.com/tag/topological-sort)
 ## 相似题目
-- [课程表](../course-schedule/README.md)
-- [火星词典](../alien-dictionary/README.md)
-- [最小高度树](../minimum-height-trees/README.md)
-- [序列重建](../sequence-reconstruction/README.md)
-- [课程表 III](../course-schedule-iii/README.md)
+- [课程表](../0207/README.md)
+- [火星词典](../0269/README.md)
+- [最小高度树](../0310/README.md)
+- [序列重建](../0444/README.md)
+- [课程表 III](../0630/README.md)

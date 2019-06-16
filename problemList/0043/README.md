@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0043. 字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)
 ## 题目描述
 <p>给定两个以字符串形式表示的非负整数&nbsp;<code>num1</code>&nbsp;和&nbsp;<code>num2</code>，返回&nbsp;<code>num1</code>&nbsp;和&nbsp;<code>num2</code>&nbsp;的乘积，它们的乘积也表示为字符串形式。</p>
@@ -27,7 +27,7 @@
 - [数学](https://leetcode-cn.com/tag/math)
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [两数相加](../add-two-numbers/README.md)
-- [加一](../plus-one/README.md)
-- [二进制求和](../add-binary/README.md)
-- [字符串相加](../add-strings/README.md)
+- [两数相加](../0002/README.md)
+- [加一](../0066/README.md)
+- [二进制求和](../0067/README.md)
+- [字符串相加](../0415/README.md)

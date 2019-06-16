@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0928. Minimize Malware Spread II](https://leetcode-cn.com/problems/minimize-malware-spread-ii/)
 ## Description
 <p>(This problem is the same as <em>Minimize Malware Spread</em>, with the differences bolded.)</p>

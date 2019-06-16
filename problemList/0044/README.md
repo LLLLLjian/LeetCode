@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0044. 通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/)
 ## 题目描述
 <p>给定一个字符串&nbsp;(<code>s</code>) 和一个字符模式&nbsp;(<code>p</code>) ，实现一个支持&nbsp;<code>&#39;?&#39;</code>&nbsp;和&nbsp;<code>&#39;*&#39;</code>&nbsp;的通配符匹配。</p>
@@ -65,4 +65,4 @@ p = &quot;a*c?b&quot;
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [正则表达式匹配](../regular-expression-matching/README.md)
+- [正则表达式匹配](../0010/README.md)

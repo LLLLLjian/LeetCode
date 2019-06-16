@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0494. 目标和](https://leetcode-cn.com/problems/target-sum/)
 ## 题目描述
 <p>给定一个非负整数数组，a1, a2, ..., an, 和一个目标数，S。现在你有两个符号&nbsp;<code>+</code>&nbsp;和&nbsp;<code>-</code>。对于数组中的任意一个整数，你都可以从&nbsp;<code>+</code>&nbsp;或&nbsp;<code>-</code>中选择一个符号添加在前面。</p>
@@ -34,4 +34,4 @@
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [给表达式添加运算符](../expression-add-operators/README.md)
+- [给表达式添加运算符](../0282/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0438. Find All Anagrams in a String](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)
 ## Description
 <p>Given a string <b>s</b> and a <b>non-empty</b> string <b>p</b>, find all the start indices of <b>p</b>'s anagrams in <b>s</b>.</p>
@@ -39,5 +39,5 @@ The substring with start index = 2 is "ab", which is an anagram of "ab".
 ## Related Topics
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Valid Anagram](../valid-anagram/README_EN.md)
-- [Permutation in String](../permutation-in-string/README_EN.md)
+- [Valid Anagram](../0242/README_EN.md)
+- [Permutation in String](../0567/README_EN.md)

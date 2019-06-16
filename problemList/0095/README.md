@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0095. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
 ## 题目描述
 <p>给定一个整数 <em>n</em>，生成所有由 1 ...&nbsp;<em>n</em> 为节点所组成的<strong>二叉搜索树</strong>。</p>
@@ -29,5 +29,5 @@
 - [树](https://leetcode-cn.com/tag/tree)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [不同的二叉搜索树](../unique-binary-search-trees/README.md)
-- [为运算表达式设计优先级](../different-ways-to-add-parentheses/README.md)
+- [不同的二叉搜索树](../0096/README.md)
+- [为运算表达式设计优先级](../0241/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0695. Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)
 ## Description
 <p>Given a non-empty 2D array <code>grid</code> of 0&#39;s and 1&#39;s, an <b>island</b> is a group of <code>1</code>&#39;s (representing land) connected 4-directionally (horizontal or vertical.) You may assume all four edges of the grid are surrounded by water.</p>
@@ -32,5 +32,5 @@ Given the above grid, return <code>0</code>.
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Number of Islands](../number-of-islands/README_EN.md)
-- [Island Perimeter](../island-perimeter/README_EN.md)
+- [Number of Islands](../0200/README_EN.md)
+- [Island Perimeter](../0463/README_EN.md)

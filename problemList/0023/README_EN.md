@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0023. Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 ## Description
 <p>Merge <em>k</em> sorted linked lists and return it as one sorted list. Analyze and describe its complexity.</p>
@@ -21,5 +21,5 @@
 - [Linked List](https://leetcode-cn.com/tag/linked-list)
 - [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)
 ## Similar Questions
-- [Merge Two Sorted Lists](../merge-two-sorted-lists/README_EN.md)
-- [Ugly Number II](../ugly-number-ii/README_EN.md)
+- [Merge Two Sorted Lists](../0021/README_EN.md)
+- [Ugly Number II](../0264/README_EN.md)

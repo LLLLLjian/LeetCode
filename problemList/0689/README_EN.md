@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)
 ## Description
 <p>In a given array <code>nums</code> of positive integers, find three non-overlapping subarrays with maximum sum.</p>
@@ -33,4 +33,4 @@ We could have also taken [2, 1], but an answer of [1, 3, 5] would be lexicograph
 - [Array](https://leetcode-cn.com/tag/array)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Best Time to Buy and Sell Stock III](../best-time-to-buy-and-sell-stock-iii/README_EN.md)
+- [Best Time to Buy and Sell Stock III](../0123/README_EN.md)

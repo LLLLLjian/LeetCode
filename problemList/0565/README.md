@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0565. 数组嵌套](https://leetcode-cn.com/problems/array-nesting/)
 ## 题目描述
 <p>索引从<code>0</code>开始长度为<code>N</code>的数组<code>A</code>，包含<code>0</code>到<code>N - 1</code>的所有整数。找到并返回最大的集合<code>S</code>，<code>S[i] = {A[i], A[A[i]], A[A[A[i]]], ... }</code>且遵守以下的规则。</p>
@@ -29,6 +29,6 @@ S[0] = {A[0], A[5], A[6], A[2]} = {5, 6, 2, 0}
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [嵌套列表权重和](../nested-list-weight-sum/README.md)
-- [扁平化嵌套列表迭代器](../flatten-nested-list-iterator/README.md)
-- [加权嵌套序列和 II](../nested-list-weight-sum-ii/README.md)
+- [嵌套列表权重和](../0339/README.md)
+- [扁平化嵌套列表迭代器](../0341/README.md)
+- [加权嵌套序列和 II](../0364/README.md)

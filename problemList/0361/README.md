@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0361. 轰炸敌人](https://leetcode-cn.com/problems/bomb-enemy/)
 ## 题目描述
 None

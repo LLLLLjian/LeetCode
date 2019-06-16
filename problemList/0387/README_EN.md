@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0387. First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
 ## Description
 <p>
@@ -22,4 +22,4 @@ return 2.
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Sort Characters By Frequency](../sort-characters-by-frequency/README_EN.md)
+- [Sort Characters By Frequency](../0451/README_EN.md)

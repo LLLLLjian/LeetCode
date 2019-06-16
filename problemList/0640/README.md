@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0640. 求解方程](https://leetcode-cn.com/problems/solve-the-equation/)
 ## 题目描述
 <p>求解一个给定的方程，将<code>x</code>以字符串&quot;x=#value&quot;的形式返回。该方程仅包含&#39;+&#39;，&#39; - &#39;操作，变量&nbsp;<code>x</code>&nbsp;和其对应系数。</p>
@@ -43,4 +43,4 @@
 ## 相关话题
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [分数加减运算](../fraction-addition-and-subtraction/README.md)
+- [分数加减运算](../0592/README.md)

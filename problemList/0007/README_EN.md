@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0007. Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)
 ## Description
 <p>Given a 32-bit signed integer, reverse digits of an integer.</p>
@@ -31,5 +31,5 @@ Assume we are dealing with an environment which could only store integers within
 ## Related Topics
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [String to Integer (atoi)](../string-to-integer-atoi/README_EN.md)
-- [Reverse Bits](../reverse-bits/README_EN.md)
+- [String to Integer (atoi)](../0008/README_EN.md)
+- [Reverse Bits](../0190/README_EN.md)

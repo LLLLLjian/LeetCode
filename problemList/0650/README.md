@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0650. 只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard/)
 ## 题目描述
 <p>最初在一个记事本上只有一个字符 &#39;A&#39;。你每次可以对这个记事本进行两种操作：</p>
@@ -32,5 +32,5 @@
 ## 相关话题
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [4键键盘](../4-keys-keyboard/README.md)
-- [坏了的计算器](../broken-calculator/README.md)
+- [4键键盘](../0651/README.md)
+- [坏了的计算器](../0991/README.md)

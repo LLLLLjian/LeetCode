@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0210. Course Schedule II](https://leetcode-cn.com/problems/course-schedule-ii/)
 ## Description
 <p>There are a total of <em>n</em> courses you have to take, labeled from <code>0</code> to <code>n-1</code>.</p>
@@ -40,8 +40,8 @@
 - [Graph](https://leetcode-cn.com/tag/graph)
 - [Topological Sort](https://leetcode-cn.com/tag/topological-sort)
 ## Similar Questions
-- [Course Schedule](../course-schedule/README_EN.md)
-- [Alien Dictionary](../alien-dictionary/README_EN.md)
-- [Minimum Height Trees](../minimum-height-trees/README_EN.md)
-- [Sequence Reconstruction](../sequence-reconstruction/README_EN.md)
-- [Course Schedule III](../course-schedule-iii/README_EN.md)
+- [Course Schedule](../0207/README_EN.md)
+- [Alien Dictionary](../0269/README_EN.md)
+- [Minimum Height Trees](../0310/README_EN.md)
+- [Sequence Reconstruction](../0444/README_EN.md)
+- [Course Schedule III](../0630/README_EN.md)

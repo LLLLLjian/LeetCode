@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0215. Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 ## Description
 <p>Find the <strong>k</strong>th largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element.</p>
@@ -24,8 +24,8 @@ You may assume k is always valid, 1 &le; k &le; array&#39;s length.</p>
 - [Heap](https://leetcode-cn.com/tag/heap)
 - [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)
 ## Similar Questions
-- [Wiggle Sort II](../wiggle-sort-ii/README_EN.md)
-- [Top K Frequent Elements](../top-k-frequent-elements/README_EN.md)
-- [Third Maximum Number](../third-maximum-number/README_EN.md)
-- [Kth Largest Element in a Stream](../kth-largest-element-in-a-stream/README_EN.md)
-- [K Closest Points to Origin](../k-closest-points-to-origin/README_EN.md)
+- [Wiggle Sort II](../0324/README_EN.md)
+- [Top K Frequent Elements](../0347/README_EN.md)
+- [Third Maximum Number](../0414/README_EN.md)
+- [Kth Largest Element in a Stream](../0703/README_EN.md)
+- [K Closest Points to Origin](../0973/README_EN.md)

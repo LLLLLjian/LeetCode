@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0532. K-diff Pairs in an Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/)
 ## Description
 <p>
@@ -42,4 +42,4 @@ Given an array of integers and an integer <b>k</b>, you need to find the number 
 - [Array](https://leetcode-cn.com/tag/array)
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 ## Similar Questions
-- [Minimum Absolute Difference in BST](../minimum-absolute-difference-in-bst/README_EN.md)
+- [Minimum Absolute Difference in BST](../0530/README_EN.md)

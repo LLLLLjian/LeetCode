@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
 ## 题目描述
 <p>给定一个链表，返回链表开始入环的第一个节点。&nbsp;如果链表无环，则返回&nbsp;<code>null</code>。</p>
@@ -46,5 +46,5 @@
 - [链表](https://leetcode-cn.com/tag/linked-list)
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 ## 相似题目
-- [环形链表](../linked-list-cycle/README.md)
-- [寻找重复数](../find-the-duplicate-number/README.md)
+- [环形链表](../0141/README.md)
+- [寻找重复数](../0287/README.md)

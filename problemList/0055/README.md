@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0055. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
 ## 题目描述
 <p>给定一个非负整数数组，你最初位于数组的第一个位置。</p>
@@ -26,4 +26,4 @@
 - [贪心算法](https://leetcode-cn.com/tag/greedy)
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [跳跃游戏 II](../jump-game-ii/README.md)
+- [跳跃游戏 II](../0045/README.md)

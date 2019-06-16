@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0692. Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words/)
 ## Description
 <p>Given a non-empty list of words, return the <i>k</i> most frequent elements.</p>
@@ -40,5 +40,5 @@
 - [Trie](https://leetcode-cn.com/tag/trie)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Top K Frequent Elements](../top-k-frequent-elements/README_EN.md)
-- [K Closest Points to Origin](../k-closest-points-to-origin/README_EN.md)
+- [Top K Frequent Elements](../0347/README_EN.md)
+- [K Closest Points to Origin](../0973/README_EN.md)

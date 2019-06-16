@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0606. Construct String from Binary Tree](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)
 ## Description
 <p>You need to construct a string consists of parenthesis and integers from a binary tree with the preorder traversing way.</p>
@@ -37,5 +37,5 @@
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Construct Binary Tree from String](../construct-binary-tree-from-string/README_EN.md)
-- [Find Duplicate Subtrees](../find-duplicate-subtrees/README_EN.md)
+- [Construct Binary Tree from String](../0536/README_EN.md)
+- [Find Duplicate Subtrees](../0652/README_EN.md)

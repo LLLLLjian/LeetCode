@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0336. Palindrome Pairs](https://leetcode-cn.com/problems/palindrome-pairs/)
 ## Description
 <p>Given a list of <b>unique</b> words, find all pairs of <b><i>distinct</i></b> indices <code>(i, j)</code> in the given list, so that the concatenation of the two words, i.e. <code>words[i] + words[j]</code> is a palindrome.</p>
@@ -29,5 +29,5 @@
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Longest Palindromic Substring](../longest-palindromic-substring/README_EN.md)
-- [Shortest Palindrome](../shortest-palindrome/README_EN.md)
+- [Longest Palindromic Substring](../0005/README_EN.md)
+- [Shortest Palindrome](../0214/README_EN.md)

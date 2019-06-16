@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0657. 机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/)
 ## 题目描述
 <p>在二维平面上，有一个机器人从原点 (0, 0) 开始。给出它的移动顺序，判断这个机器人在完成移动后是否在<strong>&nbsp;(0, 0) 处结束</strong>。</p>
@@ -25,4 +25,4 @@
 ## 相关话题
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [朋友圈](../friend-circles/README.md)
+- [朋友圈](../0547/README.md)

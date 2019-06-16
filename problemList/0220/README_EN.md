@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0220. Contains Duplicate III](https://leetcode-cn.com/problems/contains-duplicate-iii/)
 ## Description
 <p>Given an array of integers, find out whether there are two distinct indices <i>i</i> and <i>j</i> in the array such that the <b>absolute</b> difference between <b>nums[i]</b> and <b>nums[j]</b> is at most <i>t</i> and the <b>absolute</b> difference between <i>i</i> and <i>j</i> is at most <i>k</i>.</p>
@@ -34,5 +34,5 @@
 - [Sort](https://leetcode-cn.com/tag/sort)
 - [Ordered Map](https://leetcode-cn.com/tag/ordered-map)
 ## Similar Questions
-- [Contains Duplicate](../contains-duplicate/README_EN.md)
-- [Contains Duplicate II](../contains-duplicate-ii/README_EN.md)
+- [Contains Duplicate](../0217/README_EN.md)
+- [Contains Duplicate II](../0219/README_EN.md)

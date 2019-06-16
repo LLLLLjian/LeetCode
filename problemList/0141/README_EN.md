@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0141. Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)
 ## Description
 <p>Given a linked list, determine if it has a cycle in it.</p>
@@ -54,5 +54,5 @@
 - [Linked List](https://leetcode-cn.com/tag/linked-list)
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 ## Similar Questions
-- [Linked List Cycle II](../linked-list-cycle-ii/README_EN.md)
-- [Happy Number](../happy-number/README_EN.md)
+- [Linked List Cycle II](../0142/README_EN.md)
+- [Happy Number](../0202/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0295. 数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/)
 ## 题目描述
 <p>中位数是有序列表中间的数。如果列表长度是偶数，中位数则是中间两个数的平均值。</p>
@@ -36,4 +36,4 @@ findMedian() -&gt; 2</pre>
 - [堆](https://leetcode-cn.com/tag/heap)
 - [设计](https://leetcode-cn.com/tag/design)
 ## 相似题目
-- [滑动窗口中位数](../sliding-window-median/README.md)
+- [滑动窗口中位数](../0480/README.md)

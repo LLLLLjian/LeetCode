@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0240. Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
 ## Description
 <p>Write an efficient algorithm that searches for a value in an <i>m</i> x <i>n</i> matrix. This matrix has the following properties:</p>
@@ -31,4 +31,4 @@
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 - [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)
 ## Similar Questions
-- [Search a 2D Matrix](../search-a-2d-matrix/README_EN.md)
+- [Search a 2D Matrix](../0074/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0670. Maximum Swap](https://leetcode-cn.com/problems/maximum-swap/)
 ## Description
 <p>
@@ -32,4 +32,4 @@ Given a non-negative integer, you could swap two digits <b>at most</b> once to g
 - [Array](https://leetcode-cn.com/tag/array)
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Create Maximum Number](../create-maximum-number/README_EN.md)
+- [Create Maximum Number](../0321/README_EN.md)

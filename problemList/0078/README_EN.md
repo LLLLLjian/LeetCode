@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0078. Subsets](https://leetcode-cn.com/problems/subsets/)
 ## Description
 <p>Given a set of <strong>distinct</strong> integers, <em>nums</em>, return all possible subsets (the power set).</p>
@@ -27,6 +27,6 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Subsets II](../subsets-ii/README_EN.md)
-- [Generalized Abbreviation](../generalized-abbreviation/README_EN.md)
-- [Letter Case Permutation](../letter-case-permutation/README_EN.md)
+- [Subsets II](../0090/README_EN.md)
+- [Generalized Abbreviation](../0320/README_EN.md)
+- [Letter Case Permutation](../0784/README_EN.md)

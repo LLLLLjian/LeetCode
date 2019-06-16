@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0786. 第 K 个最小的素数分数](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction/)
 ## 题目描述
 <p>一个已排序好的表&nbsp;<code>A</code>，其包含 1 和其他一些素数.&nbsp; 当列表中的每一个 p&lt;q 时，我们可以构造一个分数 p/q 。</p>
@@ -31,6 +31,6 @@
 - [堆](https://leetcode-cn.com/tag/heap)
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [有序矩阵中第K小的元素](../kth-smallest-element-in-a-sorted-matrix/README.md)
-- [乘法表中第k小的数](../kth-smallest-number-in-multiplication-table/README.md)
-- [找出第 k 小的距离对](../find-k-th-smallest-pair-distance/README.md)
+- [有序矩阵中第K小的元素](../0378/README.md)
+- [乘法表中第k小的数](../0668/README.md)
+- [找出第 k 小的距离对](../0719/README.md)

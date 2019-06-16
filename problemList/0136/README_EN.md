@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0136. Single Number](https://leetcode-cn.com/problems/single-number/)
 ## Description
 <p>Given a <strong>non-empty</strong>&nbsp;array of integers, every element appears <em>twice</em> except for one. Find that single one.</p>
@@ -26,8 +26,8 @@
 - [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Single Number II](../single-number-ii/README_EN.md)
-- [Single Number III](../single-number-iii/README_EN.md)
-- [Missing Number](../missing-number/README_EN.md)
-- [Find the Duplicate Number](../find-the-duplicate-number/README_EN.md)
-- [Find the Difference](../find-the-difference/README_EN.md)
+- [Single Number II](../0137/README_EN.md)
+- [Single Number III](../0260/README_EN.md)
+- [Missing Number](../0268/README_EN.md)
+- [Find the Duplicate Number](../0287/README_EN.md)
+- [Find the Difference](../0389/README_EN.md)

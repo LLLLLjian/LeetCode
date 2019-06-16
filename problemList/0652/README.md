@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0652. 寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/)
 ## 题目描述
 <p>给定一棵二叉树，返回所有重复的子树。对于同一类的重复子树，你只需要返回其中任意<strong>一棵</strong>的根结点即可。</p>
@@ -34,6 +34,6 @@
 ## 相关话题
 - [树](https://leetcode-cn.com/tag/tree)
 ## 相似题目
-- [二叉树的序列化与反序列化](../serialize-and-deserialize-binary-tree/README.md)
-- [序列化和反序列化二叉搜索树](../serialize-and-deserialize-bst/README.md)
-- [根据二叉树创建字符串](../construct-string-from-binary-tree/README.md)
+- [二叉树的序列化与反序列化](../0297/README.md)
+- [序列化和反序列化二叉搜索树](../0449/README.md)
+- [根据二叉树创建字符串](../0606/README.md)

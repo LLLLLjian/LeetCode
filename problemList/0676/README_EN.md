@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0676. Implement Magic Dictionary](https://leetcode-cn.com/problems/implement-magic-dictionary/)
 ## Description
 <p>
@@ -35,5 +35,5 @@ Input: search("leetcoded"), Output: False
 - [Trie](https://leetcode-cn.com/tag/trie)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Implement Trie (Prefix Tree)](../implement-trie-prefix-tree/README_EN.md)
-- [Longest Word in Dictionary](../longest-word-in-dictionary/README_EN.md)
+- [Implement Trie (Prefix Tree)](../0208/README_EN.md)
+- [Longest Word in Dictionary](../0720/README_EN.md)

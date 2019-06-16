@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
 ## 题目描述
 <p>给定一个包含了一些 0 和 1的非空二维数组&nbsp;<code>grid</code>&nbsp;, 一个&nbsp;<strong>岛屿</strong>&nbsp;是由四个方向 (水平或垂直) 的&nbsp;<code>1</code>&nbsp;(代表土地) 构成的组合。你可以假设二维矩阵的四个边缘都被水包围着。</p>
@@ -34,5 +34,5 @@
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [岛屿数量](../number-of-islands/README.md)
-- [岛屿的周长](../island-perimeter/README.md)
+- [岛屿数量](../0200/README.md)
+- [岛屿的周长](../0463/README.md)

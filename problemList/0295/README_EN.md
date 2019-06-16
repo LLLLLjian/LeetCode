@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0295. Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)
 ## Description
 <p>Median is the middle value in an ordered integer list. If the size of the list is even, there is no middle value. So the median is the mean of the two middle value.</p>
@@ -41,4 +41,4 @@ findMedian() -&gt; 2
 - [Heap](https://leetcode-cn.com/tag/heap)
 - [Design](https://leetcode-cn.com/tag/design)
 ## Similar Questions
-- [Sliding Window Median](../sliding-window-median/README_EN.md)
+- [Sliding Window Median](../0480/README_EN.md)

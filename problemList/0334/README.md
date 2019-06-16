@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0334. 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/)
 ## 题目描述
 <p>给定一个未排序的数组，判断这个数组中是否存在长度为 3 的递增子序列。</p>
@@ -25,4 +25,4 @@
 ## 相关话题
 
 ## 相似题目
-- [最长上升子序列](../longest-increasing-subsequence/README.md)
+- [最长上升子序列](../0300/README.md)

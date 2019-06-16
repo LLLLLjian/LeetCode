@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)
 ## 题目描述
 <p>给一非空的单词列表，返回前&nbsp;<em>k&nbsp;</em>个出现次数最多的单词。</p>
@@ -48,5 +48,5 @@
 - [字典树](https://leetcode-cn.com/tag/trie)
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [前K个高频元素](../top-k-frequent-elements/README.md)
-- [最接近原点的 K 个点](../k-closest-points-to-origin/README.md)
+- [前K个高频元素](../0347/README.md)
+- [最接近原点的 K 个点](../0973/README.md)

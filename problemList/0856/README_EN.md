@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0856. Score of Parentheses](https://leetcode-cn.com/problems/score-of-parentheses/)
 ## Description
 <p>Given a balanced parentheses string <code>S</code>, compute the score of the string based on the following rule:</p>

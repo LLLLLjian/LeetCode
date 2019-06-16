@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0886. 可能的二分法](https://leetcode-cn.com/problems/possible-bipartition/)
 ## 题目描述
 <p>给定一组&nbsp;<code>N</code>&nbsp;人（编号为&nbsp;<code>1, 2, ..., N</code>），&nbsp;我们想把每个人分进<strong>任意</strong>大小的两组。</p>

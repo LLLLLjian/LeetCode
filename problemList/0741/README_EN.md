@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0741. Cherry Pickup](https://leetcode-cn.com/problems/cherry-pickup/)
 ## Description
 <p>In a N x N <code>grid</code> representing a field of cherries, each cell is one of three possible integers.</p>
@@ -60,5 +60,5 @@ The total number of cherries picked up is 5, and this is the maximum possible.
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Minimum Path Sum](../minimum-path-sum/README_EN.md)
-- [Dungeon Game](../dungeon-game/README_EN.md)
+- [Minimum Path Sum](../0064/README_EN.md)
+- [Dungeon Game](../0174/README_EN.md)

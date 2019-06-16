@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0632. Smallest Range](https://leetcode-cn.com/problems/smallest-range/)
 ## Description
 <p>You have <code>k</code> lists of sorted integers in ascending order. Find the <b>smallest</b> range that includes at least one number from each of the <code>k</code> lists. </p>
@@ -32,4 +32,4 @@ List 3: [5, 18, 22, 30], 22 is in range [20,24].
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Minimum Window Substring](../minimum-window-substring/README_EN.md)
+- [Minimum Window Substring](../0076/README_EN.md)

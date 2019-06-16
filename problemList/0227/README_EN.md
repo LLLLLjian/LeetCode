@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0227. Basic Calculator II](https://leetcode-cn.com/problems/basic-calculator-ii/)
 ## Description
 <p>Implement a basic calculator to evaluate a simple expression string.</p>
@@ -36,6 +36,6 @@
 ## Related Topics
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Basic Calculator](../basic-calculator/README_EN.md)
-- [Expression Add Operators](../expression-add-operators/README_EN.md)
-- [Basic Calculator III](../basic-calculator-iii/README_EN.md)
+- [Basic Calculator](../0224/README_EN.md)
+- [Expression Add Operators](../0282/README_EN.md)
+- [Basic Calculator III](../0772/README_EN.md)

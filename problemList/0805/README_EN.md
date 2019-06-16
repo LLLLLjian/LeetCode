@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0805. Split Array With Same Average](https://leetcode-cn.com/problems/split-array-with-same-average/)
 ## Description
 <p>In a given integer array A, we must move every element of A to either list B or list C. (B and C initially start empty.)</p>

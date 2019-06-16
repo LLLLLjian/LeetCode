@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0138. Copy List with Random Pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
 ## Description
 <p>A linked list is given such that each node contains an additional random pointer which could point to any node in the list or null.</p>
@@ -33,4 +33,4 @@ Node 2&#39;s value is 2, its next pointer points to null and its random pointer 
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 - [Linked List](https://leetcode-cn.com/tag/linked-list)
 ## Similar Questions
-- [Clone Graph](../clone-graph/README_EN.md)
+- [Clone Graph](../0133/README_EN.md)

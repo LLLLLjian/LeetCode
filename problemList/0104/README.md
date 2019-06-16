@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 ## 题目描述
 <p>给定一个二叉树，找出其最大深度。</p>
@@ -23,6 +23,6 @@
 - [树](https://leetcode-cn.com/tag/tree)
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 ## 相似题目
-- [平衡二叉树](../balanced-binary-tree/README.md)
-- [二叉树的最小深度](../minimum-depth-of-binary-tree/README.md)
-- [N叉树的最大深度](../maximum-depth-of-n-ary-tree/README.md)
+- [平衡二叉树](../0110/README.md)
+- [二叉树的最小深度](../0111/README.md)
+- [N叉树的最大深度](../0559/README.md)

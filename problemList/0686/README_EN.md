@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0686. Repeated String Match](https://leetcode-cn.com/problems/repeated-string-match/)
 ## Description
 <p>Given two strings A and B, find the minimum number of times A has to be repeated such that B is a substring of it. If no such solution, return -1.</p>
@@ -14,4 +14,4 @@ The length of <code>A</code> and <code>B</code> will be between 1 and 10000.</p>
 ## Related Topics
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Repeated Substring Pattern](../repeated-substring-pattern/README_EN.md)
+- [Repeated Substring Pattern](../0459/README_EN.md)

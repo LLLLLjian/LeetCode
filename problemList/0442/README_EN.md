@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0442. Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)
 ## Description
 <p>Given an array of integers, 1 &le; a[i] &le; <i>n</i> (<i>n</i> = size of array), some elements appear <b>twice</b> and others appear <b>once</b>.</p>
@@ -19,4 +19,4 @@
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Find All Numbers Disappeared in an Array](../find-all-numbers-disappeared-in-an-array/README_EN.md)
+- [Find All Numbers Disappeared in an Array](../0448/README_EN.md)

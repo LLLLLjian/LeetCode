@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0037. 解数独](https://leetcode-cn.com/problems/sudoku-solver/)
 ## 题目描述
 <p>编写一个程序，通过已填充的空格来解决数独问题。</p>
@@ -34,5 +34,5 @@
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [有效的数独](../valid-sudoku/README.md)
-- [不同路径 III](../unique-paths-iii/README.md)
+- [有效的数独](../0036/README.md)
+- [不同路径 III](../0980/README.md)

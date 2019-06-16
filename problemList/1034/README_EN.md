@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1034. Coloring A Border](https://leetcode-cn.com/problems/coloring-a-border/)
 ## Description
 <p>Given a 2-dimensional&nbsp;<code>grid</code> of integers, each value in the grid represents the color of the grid square at that location.</p>
@@ -51,4 +51,4 @@
 ## Related Topics
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 ## Similar Questions
-- [Island Perimeter](../island-perimeter/README_EN.md)
+- [Island Perimeter](../0463/README_EN.md)

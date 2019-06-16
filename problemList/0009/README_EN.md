@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0009. Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)
 ## Description
 <p>Determine whether an integer is a palindrome. An integer&nbsp;is&nbsp;a&nbsp;palindrome when it&nbsp;reads the same backward as forward.</p>
@@ -34,4 +34,4 @@
 ## Related Topics
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Palindrome Linked List](../palindrome-linked-list/README_EN.md)
+- [Palindrome Linked List](../0234/README_EN.md)

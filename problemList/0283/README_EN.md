@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0283. Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)
 ## Description
 <p>Given an array <code>nums</code>, write a function to move all <code>0</code>&#39;s to the end of it while maintaining the relative order of the non-zero elements.</p>
@@ -20,4 +20,4 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 ## Similar Questions
-- [Remove Element](../remove-element/README_EN.md)
+- [Remove Element](../0027/README_EN.md)

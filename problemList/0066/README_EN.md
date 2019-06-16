@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0066. Plus One](https://leetcode-cn.com/problems/plus-one/)
 ## Description
 <p>Given a <strong>non-empty</strong> array of digits&nbsp;representing a non-negative integer, plus one to the integer.</p>
@@ -26,7 +26,7 @@
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Multiply Strings](../multiply-strings/README_EN.md)
-- [Add Binary](../add-binary/README_EN.md)
-- [Plus One Linked List](../plus-one-linked-list/README_EN.md)
-- [Add to Array-Form of Integer](../add-to-array-form-of-integer/README_EN.md)
+- [Multiply Strings](../0043/README_EN.md)
+- [Add Binary](../0067/README_EN.md)
+- [Plus One Linked List](../0369/README_EN.md)
+- [Add to Array-Form of Integer](../0989/README_EN.md)

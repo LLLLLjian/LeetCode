@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0303. 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)
 ## 题目描述
 <p>给定一个整数数组 &nbsp;<em>nums</em>，求出数组从索引&nbsp;<em>i&nbsp;</em>到&nbsp;<em>j&nbsp;&nbsp;</em>(<em>i</em>&nbsp;&le;&nbsp;<em>j</em>) 范围内元素的总和，包含&nbsp;<em>i,&nbsp; j&nbsp;</em>两点。</p>
@@ -22,6 +22,6 @@ sumRange(0, 5) -&gt; -3</pre>
 ## 相关话题
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [二维区域和检索 - 矩阵不可变](../range-sum-query-2d-immutable/README.md)
-- [区域和检索 - 数组可修改](../range-sum-query-mutable/README.md)
-- [和等于 k 的最长子数组长度](../maximum-size-subarray-sum-equals-k/README.md)
+- [二维区域和检索 - 矩阵不可变](../0304/README.md)
+- [区域和检索 - 数组可修改](../0307/README.md)
+- [和等于 k 的最长子数组长度](../0325/README.md)

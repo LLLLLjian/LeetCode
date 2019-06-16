@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0118. Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)
 ## Description
 <p>Given a non-negative integer&nbsp;<em>numRows</em>, generate the first <em>numRows</em> of Pascal&#39;s triangle.</p>
@@ -24,4 +24,4 @@
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Pascal's Triangle II](../pascals-triangle-ii/README_EN.md)
+- [Pascal's Triangle II](../0119/README_EN.md)

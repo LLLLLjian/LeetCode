@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1032. Stream of Characters](https://leetcode-cn.com/problems/stream-of-characters/)
 ## Description
 <p>Implement the <code>StreamChecker</code> class as follows:</p>

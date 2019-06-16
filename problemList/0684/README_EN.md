@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0684. Redundant Connection](https://leetcode-cn.com/problems/redundant-connection/)
 ## Description
 <p>
@@ -46,5 +46,5 @@ We have overhauled the problem description + test cases and specified clearly th
 - [Union Find](https://leetcode-cn.com/tag/union-find)
 - [Graph](https://leetcode-cn.com/tag/graph)
 ## Similar Questions
-- [Redundant Connection II](../redundant-connection-ii/README_EN.md)
-- [Accounts Merge](../accounts-merge/README_EN.md)
+- [Redundant Connection II](../0685/README_EN.md)
+- [Accounts Merge](../0721/README_EN.md)

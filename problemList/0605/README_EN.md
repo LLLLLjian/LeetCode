@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0605. Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/)
 ## Description
 <p>Suppose you have a long flowerbed in which some of the plots are planted and some are not. However, flowers cannot be planted in adjacent plots - they would compete for water and both would die.</p>
@@ -30,5 +30,5 @@
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Teemo Attacking](../teemo-attacking/README_EN.md)
-- [Asteroid Collision](../asteroid-collision/README_EN.md)
+- [Teemo Attacking](../0495/README_EN.md)
+- [Asteroid Collision](../0735/README_EN.md)

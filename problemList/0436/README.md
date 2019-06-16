@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0436. 寻找右区间](https://leetcode-cn.com/problems/find-right-interval/)
 ## 题目描述
 <p>给定一组区间，对于每一个区间 i，检查是否存在一个区间 j，它的起始点大于或等于区间&nbsp;i 的终点，这可以称为 j 在 i 的&ldquo;右侧&rdquo;。</p>
@@ -46,4 +46,4 @@
 ## 相关话题
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [将数据流变为多个不相交区间](../data-stream-as-disjoint-intervals/README.md)
+- [将数据流变为多个不相交区间](../0352/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0234. Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/)
 ## Description
 <p>Given a singly linked list, determine if it is a palindrome.</p>
@@ -23,6 +23,6 @@ Could you do it in O(n) time and O(1) space?</p>
 - [Linked List](https://leetcode-cn.com/tag/linked-list)
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 ## Similar Questions
-- [Palindrome Number](../palindrome-number/README_EN.md)
-- [Valid Palindrome](../valid-palindrome/README_EN.md)
-- [Reverse Linked List](../reverse-linked-list/README_EN.md)
+- [Palindrome Number](../0009/README_EN.md)
+- [Valid Palindrome](../0125/README_EN.md)
+- [Reverse Linked List](../0206/README_EN.md)

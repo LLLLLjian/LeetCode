@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0738. Monotone Increasing Digits](https://leetcode-cn.com/problems/monotone-increasing-digits/)
 ## Description
 <p>
@@ -35,4 +35,4 @@ Given a non-negative integer <code>N</code>, find the largest number that is les
 ## Related Topics
 - [Greedy](https://leetcode-cn.com/tag/greedy)
 ## Similar Questions
-- [Remove K Digits](../remove-k-digits/README_EN.md)
+- [Remove K Digits](../0402/README_EN.md)

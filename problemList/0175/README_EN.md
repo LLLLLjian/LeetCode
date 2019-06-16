@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0175. Combine Two Tables](https://leetcode-cn.com/problems/combine-two-tables/)
 ## Description
 <p>Table: <code>Person</code></p>
@@ -40,4 +40,4 @@ FirstName, LastName, City, State
 ## Related Topics
 
 ## Similar Questions
-- [Employee Bonus](../employee-bonus/README_EN.md)
+- [Employee Bonus](../0577/README_EN.md)

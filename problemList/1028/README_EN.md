@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1028. Recover a Tree From Preorder Traversal](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)
 ## Description
 <p>We run a&nbsp;preorder&nbsp;depth first search on the <code>root</code> of a binary tree.</p>

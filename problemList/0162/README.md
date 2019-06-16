@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)
 ## 题目描述
 <p>峰值元素是指其值大于左右相邻值的元素。</p>
@@ -32,4 +32,4 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [山脉数组的峰顶索引](../peak-index-in-a-mountain-array/README.md)
+- [山脉数组的峰顶索引](../0852/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0130. Surrounded Regions](https://leetcode-cn.com/problems/surrounded-regions/)
 ## Description
 <p>Given a 2D board containing <code>&#39;X&#39;</code> and <code>&#39;O&#39;</code> (<strong>the letter O</strong>), capture all regions surrounded by <code>&#39;X&#39;</code>.</p>
@@ -33,5 +33,5 @@ X O X X
 - [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search)
 - [Union Find](https://leetcode-cn.com/tag/union-find)
 ## Similar Questions
-- [Number of Islands](../number-of-islands/README_EN.md)
-- [Walls and Gates](../walls-and-gates/README_EN.md)
+- [Number of Islands](../0200/README_EN.md)
+- [Walls and Gates](../0286/README_EN.md)

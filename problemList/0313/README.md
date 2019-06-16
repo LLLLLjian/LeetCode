@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0313. 超级丑数](https://leetcode-cn.com/problems/super-ugly-number/)
 ## 题目描述
 <p>编写一段程序来查找第 <code><em>n</em></code> 个超级丑数。</p>
@@ -25,4 +25,4 @@
 - [堆](https://leetcode-cn.com/tag/heap)
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [丑数 II](../ugly-number-ii/README.md)
+- [丑数 II](../0264/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0703. 数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
 ## 题目描述
 <p>设计一个找到数据流中第K大元素的类（class）。注意是排序后的第K大元素，不是第K个不同的元素。</p>
@@ -25,4 +25,4 @@ kthLargest.add(4);&nbsp; &nbsp;// returns 8
 ## 相关话题
 - [堆](https://leetcode-cn.com/tag/heap)
 ## 相似题目
-- [数组中的第K个最大元素](../kth-largest-element-in-an-array/README.md)
+- [数组中的第K个最大元素](../0215/README.md)

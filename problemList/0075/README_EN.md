@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0075. Sort Colors](https://leetcode-cn.com/problems/sort-colors/)
 ## Description
 <p>Given an array with <em>n</em> objects colored red, white or blue, sort them <strong><a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank">in-place</a>&nbsp;</strong>so that objects of the same color are adjacent, with the colors in the order red, white and blue.</p>
@@ -27,6 +27,6 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 ## Similar Questions
-- [Sort List](../sort-list/README_EN.md)
-- [Wiggle Sort](../wiggle-sort/README_EN.md)
-- [Wiggle Sort II](../wiggle-sort-ii/README_EN.md)
+- [Sort List](../0148/README_EN.md)
+- [Wiggle Sort](../0280/README_EN.md)
+- [Wiggle Sort II](../0324/README_EN.md)

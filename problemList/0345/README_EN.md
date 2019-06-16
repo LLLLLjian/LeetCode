@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0345. Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)
 ## Description
 <p>Write a function that takes a string as input and reverse only the vowels of a string.</p>
@@ -28,4 +28,4 @@ The vowels does not include the letter &quot;y&quot;.</p>
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Reverse String](../reverse-string/README_EN.md)
+- [Reverse String](../0344/README_EN.md)

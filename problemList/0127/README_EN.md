@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0127. Word Ladder](https://leetcode-cn.com/problems/word-ladder/)
 ## Description
 <p>Given two words (<em>beginWord</em> and <em>endWord</em>), and a dictionary&#39;s word list, find the length of shortest transformation sequence from <em>beginWord</em> to <em>endWord</em>, such that:</p>
@@ -52,5 +52,5 @@ wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quo
 ## Related Topics
 - [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search)
 ## Similar Questions
-- [Word Ladder II](../word-ladder-ii/README_EN.md)
-- [Minimum Genetic Mutation](../minimum-genetic-mutation/README_EN.md)
+- [Word Ladder II](../0126/README_EN.md)
+- [Minimum Genetic Mutation](../0433/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0392. Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/)
 ## Description
 <p>
@@ -37,5 +37,5 @@ If there are lots of incoming S, say S1, S2, ... , Sk where k >= 1B, and you wan
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Number of Matching Subsequences](../number-of-matching-subsequences/README_EN.md)
-- [Shortest Way to Form String](../shortest-way-to-form-string/README_EN.md)
+- [Number of Matching Subsequences](../0792/README_EN.md)
+- [Shortest Way to Form String](../1055/README_EN.md)

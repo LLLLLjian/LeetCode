@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0070. Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)
 ## Description
 <p>You are climbing a stair case. It takes <em>n</em> steps to reach to the top.</p>
@@ -32,5 +32,5 @@
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Min Cost Climbing Stairs](../min-cost-climbing-stairs/README_EN.md)
-- [Fibonacci Number](../fibonacci-number/README_EN.md)
+- [Min Cost Climbing Stairs](../0746/README_EN.md)
+- [Fibonacci Number](../0509/README_EN.md)

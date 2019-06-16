@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1019. Next Greater Node In Linked List](https://leetcode-cn.com/problems/next-greater-node-in-linked-list/)
 ## Description
 <p>We are given a linked list with&nbsp;<code>head</code>&nbsp;as the first node.&nbsp; Let&#39;s number the&nbsp;nodes in the list: <code>node_1, node_2, node_3, ...</code> etc.</p>

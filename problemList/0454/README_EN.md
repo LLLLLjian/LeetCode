@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0454. 4Sum II](https://leetcode-cn.com/problems/4sum-ii/)
 ## Description
 <p>Given four lists A, B, C, D of integer values, compute how many tuples <code>(i, j, k, l)</code> there are such that <code>A[i] + B[j] + C[k] + D[l]</code> is zero.</p>
@@ -30,4 +30,4 @@ The two tuples are:
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [4Sum](../4sum/README_EN.md)
+- [4Sum](../0018/README_EN.md)

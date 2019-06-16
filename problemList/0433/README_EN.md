@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0433. Minimum Genetic Mutation](https://leetcode-cn.com/problems/minimum-genetic-mutation/)
 ## Description
 <p>A gene string can be represented by an 8-character long string, with choices from <code>&quot;A&quot;</code>, <code>&quot;C&quot;</code>, <code>&quot;G&quot;</code>, <code>&quot;T&quot;</code>.</p>
@@ -61,4 +61,4 @@ return: 3
 ## Related Topics
 
 ## Similar Questions
-- [Word Ladder](../word-ladder/README_EN.md)
+- [Word Ladder](../0127/README_EN.md)

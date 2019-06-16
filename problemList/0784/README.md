@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0784. 字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/)
 ## 题目描述
 <p>给定一个字符串<code>S</code>，通过将字符串<code>S</code>中的每个字母转变大小写，我们可以获得一个新的字符串。返回所有可能得到的字符串集合。</p>
@@ -27,4 +27,5 @@
 - [位运算](https://leetcode-cn.com/tag/bit-manipulation)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [子集](../subsets/README.md)
+- [子集](../0078/README.md)
+- [字母切换](../None/README.md)

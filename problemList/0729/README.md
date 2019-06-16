@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0729. 我的日程安排表 I](https://leetcode-cn.com/problems/my-calendar-i/)
 ## 题目描述
 <p>实现一个 <code>MyCalendar</code> 类来存放你的日程安排。如果要添加的时间内没有其他安排，则可以存储这个新的日程安排。</p>
@@ -33,5 +33,5 @@ MyCalendar.book(20, 30); // returns true
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [我的日程安排表 II](../my-calendar-ii/README.md)
-- [我的日程安排表 III](../my-calendar-iii/README.md)
+- [我的日程安排表 II](../0731/README.md)
+- [我的日程安排表 III](../0732/README.md)

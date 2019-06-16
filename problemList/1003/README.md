@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [1003. 检查替换后的词是否有效](https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions/)
 ## 题目描述
 <p>给定有效字符串&nbsp;<code>&quot;abc&quot;</code>。</p>
@@ -56,4 +56,4 @@
 - [栈](https://leetcode-cn.com/tag/stack)
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [有效的括号](../valid-parentheses/README.md)
+- [有效的括号](../0020/README.md)

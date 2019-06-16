@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0173. Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
 ## Description
 <p>Implement an iterator over a binary search tree (BST). Your iterator will be initialized with the root node of a BST.</p>
@@ -42,8 +42,8 @@ iterator.hasNext(); // return false
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [Design](https://leetcode-cn.com/tag/design)
 ## Similar Questions
-- [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal/README_EN.md)
-- [Flatten 2D Vector](../flatten-2d-vector/README_EN.md)
-- [Zigzag Iterator](../zigzag-iterator/README_EN.md)
-- [Peeking Iterator](../peeking-iterator/README_EN.md)
-- [Inorder Successor in BST](../inorder-successor-in-bst/README_EN.md)
+- [Binary Tree Inorder Traversal](../0094/README_EN.md)
+- [Flatten 2D Vector](../0251/README_EN.md)
+- [Zigzag Iterator](../0281/README_EN.md)
+- [Peeking Iterator](../0284/README_EN.md)
+- [Inorder Successor in BST](../0285/README_EN.md)

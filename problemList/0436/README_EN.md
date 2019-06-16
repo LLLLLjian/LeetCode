@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0436. Find Right Interval](https://leetcode-cn.com/problems/find-right-interval/)
 ## Description
 <p>Given a set of intervals, for each of the interval i, check if there exists an interval j whose start point is bigger than or equal to the end point of the interval i, which can be called that j is on the &quot;right&quot; of i.</p>
@@ -57,4 +57,4 @@ For [2,3], the interval [3,4] has minimum-&quot;right&quot; start point.
 ## Related Topics
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Data Stream as Disjoint Intervals](../data-stream-as-disjoint-intervals/README_EN.md)
+- [Data Stream as Disjoint Intervals](../0352/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0131. Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/)
 ## Description
 <p>Given a string <em>s</em>, partition <em>s</em> such that every substring of the partition is a palindrome.</p>
@@ -20,4 +20,4 @@
 ## Related Topics
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Palindrome Partitioning II](../palindrome-partitioning-ii/README_EN.md)
+- [Palindrome Partitioning II](../0132/README_EN.md)

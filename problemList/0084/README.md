@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0084. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
 ## 题目描述
 <p>给定 <em>n</em> 个非负整数，用来表示柱状图中各个柱子的高度。每个柱子彼此相邻，且宽度为 1 。</p>
@@ -29,4 +29,4 @@
 - [栈](https://leetcode-cn.com/tag/stack)
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [最大矩形](../maximal-rectangle/README.md)
+- [最大矩形](../0085/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0264. Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)
 ## Description
 <p>Write a program to find the <code>n</code>-th ugly number.</p>
@@ -24,8 +24,8 @@
 - [Math](https://leetcode-cn.com/tag/math)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Merge k Sorted Lists](../merge-k-sorted-lists/README_EN.md)
-- [Count Primes](../count-primes/README_EN.md)
-- [Ugly Number](../ugly-number/README_EN.md)
-- [Perfect Squares](../perfect-squares/README_EN.md)
-- [Super Ugly Number](../super-ugly-number/README_EN.md)
+- [Merge k Sorted Lists](../0023/README_EN.md)
+- [Count Primes](../0204/README_EN.md)
+- [Ugly Number](../0263/README_EN.md)
+- [Perfect Squares](../0279/README_EN.md)
+- [Super Ugly Number](../0313/README_EN.md)

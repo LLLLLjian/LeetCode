@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0039. 组合总和](https://leetcode-cn.com/problems/combination-sum/)
 ## 题目描述
 <p>给定一个<strong>无重复元素</strong>的数组&nbsp;<code>candidates</code>&nbsp;和一个目标数&nbsp;<code>target</code>&nbsp;，找出&nbsp;<code>candidates</code>&nbsp;中所有可以使数字和为&nbsp;<code>target</code>&nbsp;的组合。</p>
@@ -37,9 +37,9 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [电话号码的字母组合](../letter-combinations-of-a-phone-number/README.md)
-- [组合总和 II](../combination-sum-ii/README.md)
-- [组合](../combinations/README.md)
-- [组合总和 III](../combination-sum-iii/README.md)
-- [因子的组合](../factor-combinations/README.md)
-- [组合总和 Ⅳ](../combination-sum-iv/README.md)
+- [电话号码的字母组合](../0017/README.md)
+- [组合总和 II](../0040/README.md)
+- [组合](../0077/README.md)
+- [组合总和 III](../0216/README.md)
+- [因子的组合](../0254/README.md)
+- [组合总和 Ⅳ](../0377/README.md)

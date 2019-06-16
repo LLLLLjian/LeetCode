@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0085. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)
 ## 题目描述
 <p>给定一个仅包含&nbsp;0 和 1 的二维二进制矩阵，找出只包含 1 的最大矩形，并返回其面积。</p>
@@ -21,5 +21,5 @@
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [柱状图中最大的矩形](../largest-rectangle-in-histogram/README.md)
-- [最大正方形](../maximal-square/README.md)
+- [柱状图中最大的矩形](../0084/README.md)
+- [最大正方形](../0221/README.md)

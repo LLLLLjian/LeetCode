@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0038. Count and Say](https://leetcode-cn.com/problems/count-and-say/)
 ## Description
 <p>The count-and-say sequence is the sequence of integers with the first five terms as following:</p>
@@ -38,5 +38,5 @@
 ## Related Topics
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Encode and Decode Strings](../encode-and-decode-strings/README_EN.md)
-- [String Compression](../string-compression/README_EN.md)
+- [Encode and Decode Strings](../0271/README_EN.md)
+- [String Compression](../0443/README_EN.md)

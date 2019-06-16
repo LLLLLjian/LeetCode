@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0855. Exam Room](https://leetcode-cn.com/problems/exam-room/)
 ## Description
 <p>In an exam room, there are <code>N</code> seats in a single row, numbered <code>0, 1, 2, ..., N-1</code>.</p>
@@ -38,4 +38,4 @@ seat() -&gt; 5, the student sits at the last seat number 5.</span>
 ## Related Topics
 - [Ordered Map](https://leetcode-cn.com/tag/ordered-map)
 ## Similar Questions
-- [Maximize Distance to Closest Person](../maximize-distance-to-closest-person/README_EN.md)
+- [Maximize Distance to Closest Person](../0849/README_EN.md)

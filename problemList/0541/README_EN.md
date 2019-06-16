@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0541. Reverse String II](https://leetcode-cn.com/problems/reverse-string-ii/)
 ## Description
 </p>
@@ -21,5 +21,5 @@ Given a string and an integer k, you need to reverse the first k characters for 
 ## Related Topics
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Reverse String](../reverse-string/README_EN.md)
-- [Reverse Words in a String III](../reverse-words-in-a-string-iii/README_EN.md)
+- [Reverse String](../0344/README_EN.md)
+- [Reverse Words in a String III](../0557/README_EN.md)

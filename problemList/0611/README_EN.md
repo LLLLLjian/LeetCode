@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0611. Valid Triangle Number](https://leetcode-cn.com/problems/valid-triangle-number/)
 ## Description
 Given an array consists of non-negative integers,  your task is to count the number of triplets chosen from the array that can make triangles if we take them as side lengths of a triangle.
@@ -26,4 +26,4 @@ Valid combinations are:
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [3Sum Smaller](../3sum-smaller/README_EN.md)
+- [3Sum Smaller](../0259/README_EN.md)

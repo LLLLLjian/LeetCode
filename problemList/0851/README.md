@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0851. 喧闹和富有](https://leetcode-cn.com/problems/loud-and-rich/)
 ## 题目描述
 <p>在一组 N 个人（编号为&nbsp;<code>0, 1, 2, ..., N-1</code>）中，每个人都有不同数目的钱，以及不同程度的安静（quietness）。</p>

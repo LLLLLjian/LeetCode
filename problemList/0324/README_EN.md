@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0324. Wiggle Sort II](https://leetcode-cn.com/problems/wiggle-sort-ii/)
 ## Description
 <p>Given an unsorted array <code>nums</code>, reorder it such that <code>nums[0] &lt; nums[1] &gt; nums[2] &lt; nums[3]...</code>.</p>
@@ -24,6 +24,6 @@ Can you do it in O(n) time and/or in-place with O(1) extra space?</p>
 ## Related Topics
 - [Sort](https://leetcode-cn.com/tag/sort)
 ## Similar Questions
-- [Sort Colors](../sort-colors/README_EN.md)
-- [Kth Largest Element in an Array](../kth-largest-element-in-an-array/README_EN.md)
-- [Wiggle Sort](../wiggle-sort/README_EN.md)
+- [Sort Colors](../0075/README_EN.md)
+- [Kth Largest Element in an Array](../0215/README_EN.md)
+- [Wiggle Sort](../0280/README_EN.md)

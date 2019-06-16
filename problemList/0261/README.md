@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0261. 以图判树](https://leetcode-cn.com/problems/graph-valid-tree/)
 ## 题目描述
 None
@@ -9,5 +9,5 @@ None
 - [并查集](https://leetcode-cn.com/tag/union-find)
 - [图](https://leetcode-cn.com/tag/graph)
 ## 相似题目
-- [课程表](../course-schedule/README.md)
-- [无向图中连通分量的数目](../number-of-connected-components-in-an-undirected-graph/README.md)
+- [课程表](../0207/README.md)
+- [无向图中连通分量的数目](../0323/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0646. Maximum Length of Pair Chain](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/)
 ## Description
 <p>
@@ -31,5 +31,5 @@ Given a set of pairs, find the length longest chain which can be formed. You nee
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Longest Increasing Subsequence](../longest-increasing-subsequence/README_EN.md)
-- [Increasing Subsequences](../increasing-subsequences/README_EN.md)
+- [Longest Increasing Subsequence](../0300/README_EN.md)
+- [Increasing Subsequences](../0491/README_EN.md)

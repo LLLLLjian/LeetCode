@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)
 ## 题目描述
 <p>给定两个字符串 <em><strong>s</strong></em> 和 <em><strong>t</strong></em>，它们只包含小写字母。</p>
@@ -27,4 +27,4 @@ e
 - [位运算](https://leetcode-cn.com/tag/bit-manipulation)
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [只出现一次的数字](../single-number/README.md)
+- [只出现一次的数字](../0136/README.md)

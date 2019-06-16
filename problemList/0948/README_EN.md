@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0948. Bag of Tokens](https://leetcode-cn.com/problems/bag-of-tokens/)
 ## Description
 <p>You have an initial power <code>P</code>, an initial score of <code>0</code> points, and a bag of tokens.</p>

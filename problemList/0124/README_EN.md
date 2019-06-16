@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0124. Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
 ## Description
 <p>Given a <strong>non-empty</strong> binary tree, find the maximum path sum.</p>
@@ -36,7 +36,7 @@
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 ## Similar Questions
-- [Path Sum](../path-sum/README_EN.md)
-- [Sum Root to Leaf Numbers](../sum-root-to-leaf-numbers/README_EN.md)
-- [Path Sum IV](../path-sum-iv/README_EN.md)
-- [Longest Univalue Path](../longest-univalue-path/README_EN.md)
+- [Path Sum](../0112/README_EN.md)
+- [Sum Root to Leaf Numbers](../0129/README_EN.md)
+- [Path Sum IV](../0666/README_EN.md)
+- [Longest Univalue Path](../0687/README_EN.md)

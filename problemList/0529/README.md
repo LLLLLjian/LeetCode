@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0529. 扫雷游戏](https://leetcode-cn.com/problems/minesweeper/)
 ## 题目描述
 <p>让我们一起来玩扫雷游戏！</p>

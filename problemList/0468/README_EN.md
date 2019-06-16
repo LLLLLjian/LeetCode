@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0468. Validate IP Address](https://leetcode-cn.com/problems/validate-ip-address/)
 ## Description
 <p>
@@ -65,4 +65,4 @@ You may assume there is no extra space or special characters in the input string
 ## Related Topics
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [IP to CIDR](../ip-to-cidr/README_EN.md)
+- [IP to CIDR](../0751/README_EN.md)

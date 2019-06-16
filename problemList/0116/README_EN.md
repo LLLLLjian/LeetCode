@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0116. Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
 ## Description
 <p>You are given a <strong>perfect binary tree</strong>&nbsp;where&nbsp;all leaves are on the same level, and every parent has two children. The binary tree has the following definition:</p>
@@ -44,5 +44,5 @@ struct Node {
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 ## Similar Questions
-- [Populating Next Right Pointers in Each Node II](../populating-next-right-pointers-in-each-node-ii/README_EN.md)
-- [Binary Tree Right Side View](../binary-tree-right-side-view/README_EN.md)
+- [Populating Next Right Pointers in Each Node II](../0117/README_EN.md)
+- [Binary Tree Right Side View](../0199/README_EN.md)

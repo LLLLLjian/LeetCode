@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0812. 最大三角形面积](https://leetcode-cn.com/problems/largest-triangle-area/)
 ## 题目描述
 <p>给定包含多个点的集合，从其中取三个点组成三角形，返回能组成的最大三角形的面积。</p>
@@ -26,4 +26,4 @@
 ## 相关话题
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [三角形的最大周长](../largest-perimeter-triangle/README.md)
+- [三角形的最大周长](../0976/README.md)

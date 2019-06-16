@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0743. Network Delay Time](https://leetcode-cn.com/problems/network-delay-time/)
 ## Description
 <p>There are <code>N</code> network nodes, labelled <code>1</code> to <code>N</code>.</p>

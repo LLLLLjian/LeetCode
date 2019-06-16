@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0834. 树中距离之和](https://leetcode-cn.com/problems/sum-of-distances-in-tree/)
 ## 题目描述
 <p>给定一个无向、连通的树。树中有 <code>N</code> 个标记为 <code>0...N-1</code> 的节点以及 <code>N-1</code>&nbsp;条边&nbsp;。</p>
@@ -31,4 +31,4 @@
 - [树](https://leetcode-cn.com/tag/tree)
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 ## 相似题目
-- [在二叉树中分配硬币](../distribute-coins-in-binary-tree/README.md)
+- [在二叉树中分配硬币](../0979/README.md)

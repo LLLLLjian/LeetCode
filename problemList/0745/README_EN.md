@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0745. Prefix and Suffix Search](https://leetcode-cn.com/problems/prefix-and-suffix-search/)
 ## Description
 <p>Given many <code>words</code>, <code>words[i]</code> has weight <code>i</code>.</p>
@@ -32,4 +32,4 @@ WordFilter.f(&quot;b&quot;, &quot;&quot;) // returns -1
 ## Related Topics
 - [Trie](https://leetcode-cn.com/tag/trie)
 ## Similar Questions
-- [Add and Search Word - Data structure design](../add-and-search-word-data-structure-design/README_EN.md)
+- [Add and Search Word - Data structure design](../0211/README_EN.md)

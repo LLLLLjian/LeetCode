@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0879. Profitable Schemes](https://leetcode-cn.com/problems/profitable-schemes/)
 ## Description
 <p>There are G people in a gang, and a list of various crimes they could commit.</p>

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0237. Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
 ## Description
 <p>Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.</p>
@@ -40,4 +40,4 @@
 ## Related Topics
 - [Linked List](https://leetcode-cn.com/tag/linked-list)
 ## Similar Questions
-- [Remove Linked List Elements](../remove-linked-list-elements/README_EN.md)
+- [Remove Linked List Elements](../0203/README_EN.md)

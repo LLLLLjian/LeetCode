@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0591. Tag Validator](https://leetcode-cn.com/problems/tag-validator/)
 ## Description
 <p>Given a string representing a code snippet, you need to implement a tag validator to parse the code and return whether it is valid. A code snippet is valid if all the following rules hold:<p>
@@ -72,4 +72,4 @@ The reason why cdata is NOT <b>"&lt;![CDATA[&lt;div>]>]]>]]>"</b> is because of 
 - [Stack](https://leetcode-cn.com/tag/stack)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Add Bold Tag in String](../add-bold-tag-in-string/README_EN.md)
+- [Add Bold Tag in String](../0616/README_EN.md)

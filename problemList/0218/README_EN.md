@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0218. The Skyline Problem](https://leetcode-cn.com/problems/the-skyline-problem/)
 ## Description
 <p>A city&#39;s skyline is the outer contour of the silhouette formed by all the buildings in that city when viewed from a distance. Now suppose you are <b>given the locations and height of all the buildings</b> as shown on a cityscape photo (Figure A), write a program to <b>output the skyline</b> formed by these buildings collectively (Figure B).</p>
@@ -29,4 +29,4 @@
 - [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)
 - [Line Sweep](https://leetcode-cn.com/tag/line-sweep)
 ## Similar Questions
-- [Falling Squares](../falling-squares/README_EN.md)
+- [Falling Squares](../0699/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0268. 缺失数字](https://leetcode-cn.com/problems/missing-number/)
 ## 题目描述
 <p>给定一个包含 <code>0, 1, 2, ..., n</code>&nbsp;中&nbsp;<em>n</em>&nbsp;个数的序列，找出 0 .. <em>n</em>&nbsp;中没有出现在序列中的那个数。</p>
@@ -24,7 +24,7 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [缺失的第一个正数](../first-missing-positive/README.md)
-- [只出现一次的数字](../single-number/README.md)
-- [寻找重复数](../find-the-duplicate-number/README.md)
-- [情侣牵手](../couples-holding-hands/README.md)
+- [缺失的第一个正数](../0041/README.md)
+- [只出现一次的数字](../0136/README.md)
+- [寻找重复数](../0287/README.md)
+- [情侣牵手](../0765/README.md)

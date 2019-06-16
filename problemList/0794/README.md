@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0794. 有效的井字游戏](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/)
 ## 题目描述
 <p>用字符串数组作为井字游戏的游戏板&nbsp;<code>board</code>。当且仅当在井字游戏过程中，玩家有可能将字符放置成游戏板所显示的状态时，才返回 true。</p>
@@ -48,4 +48,4 @@
 - [递归](https://leetcode-cn.com/tag/recursion)
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [判定井字棋胜负](../design-tic-tac-toe/README.md)
+- [判定井字棋胜负](../0348/README.md)

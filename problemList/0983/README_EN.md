@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0983. Minimum Cost For Tickets](https://leetcode-cn.com/problems/minimum-cost-for-tickets/)
 ## Description
 <p>In a country popular for train travel, you&nbsp;have planned some train travelling one year in advance.&nbsp; The days of the year that you will travel is given as an array <code>days</code>.&nbsp; Each day is an integer from <code>1</code> to <code>365</code>.</p>
@@ -60,4 +60,4 @@ In total you spent $17 and covered all the days of your travel.
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Coin Change](../coin-change/README_EN.md)
+- [Coin Change](../0322/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0224. 基本计算器](https://leetcode-cn.com/problems/basic-calculator/)
 ## 题目描述
 <p>实现一个基本的计算器来计算一个简单的字符串表达式的值。</p>
@@ -33,8 +33,8 @@
 - [栈](https://leetcode-cn.com/tag/stack)
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [逆波兰表达式求值](../evaluate-reverse-polish-notation/README.md)
-- [基本计算器 II](../basic-calculator-ii/README.md)
-- [为运算表达式设计优先级](../different-ways-to-add-parentheses/README.md)
-- [给表达式添加运算符](../expression-add-operators/README.md)
-- [基本计算器 III](../basic-calculator-iii/README.md)
+- [逆波兰表达式求值](../0150/README.md)
+- [基本计算器 II](../0227/README.md)
+- [为运算表达式设计优先级](../0241/README.md)
+- [给表达式添加运算符](../0282/README.md)
+- [基本计算器 III](../0772/README.md)

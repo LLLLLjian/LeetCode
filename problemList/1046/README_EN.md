@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1046. Last Stone Weight](https://leetcode-cn.com/problems/last-stone-weight/)
 ## Description
 <p>We have a collection of rocks, each rock has a positive integer weight.</p>

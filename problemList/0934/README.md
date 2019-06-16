@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0934. 最短的桥](https://leetcode-cn.com/problems/shortest-bridge/)
 ## 题目描述
 <p>在给定的二维二进制数组&nbsp;<code>A</code>&nbsp;中，存在两座岛。（岛是由四面相连的 <code>1</code> 形成的一个最大组。）</p>

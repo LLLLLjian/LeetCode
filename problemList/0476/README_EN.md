@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0476. Number Complement](https://leetcode-cn.com/problems/number-complement/)
 ## Description
 <p>Given a positive integer, output its complement number. The complement strategy is to flip the bits of its binary representation.</p>

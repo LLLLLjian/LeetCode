@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0377. 组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/)
 ## 题目描述
 <p>给定一个由正整数组成且不存在重复数字的数组，找出和为给定目标正整数的组合的个数。</p>
@@ -35,4 +35,4 @@
 ## 相关话题
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [组合总和](../combination-sum/README.md)
+- [组合总和](../0039/README.md)

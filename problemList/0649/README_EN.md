@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0649. Dota2 Senate](https://leetcode-cn.com/problems/dota2-senate/)
 ## Description
 <p>In the world of Dota2, there are two parties: the <code>Radiant</code> and the <code>Dire</code>.</p>
@@ -58,4 +58,4 @@ And in the round 2, the third senator can just announce the victory since he is 
 ## Related Topics
 - [Greedy](https://leetcode-cn.com/tag/greedy)
 ## Similar Questions
-- [Teemo Attacking](../teemo-attacking/README_EN.md)
+- [Teemo Attacking](../0495/README_EN.md)

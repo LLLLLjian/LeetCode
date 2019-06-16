@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0928. 尽量减少恶意软件的传播 II](https://leetcode-cn.com/problems/minimize-malware-spread-ii/)
 ## 题目描述
 <p>(这个问题与&nbsp;<em>尽量减少恶意软件的传播&nbsp;</em>是一样的，不同之处用粗体表示。)</p>

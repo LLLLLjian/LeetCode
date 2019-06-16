@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
 ## 题目描述
 <p>请判断一个链表是否为回文链表。</p>
@@ -22,6 +22,6 @@
 - [链表](https://leetcode-cn.com/tag/linked-list)
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 ## 相似题目
-- [回文数](../palindrome-number/README.md)
-- [验证回文串](../valid-palindrome/README.md)
-- [反转链表](../reverse-linked-list/README.md)
+- [回文数](../0009/README.md)
+- [验证回文串](../0125/README.md)
+- [反转链表](../0206/README.md)

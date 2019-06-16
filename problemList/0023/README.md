@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0023. 合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 ## 题目描述
 <p>合并&nbsp;<em>k&nbsp;</em>个排序链表，返回合并后的排序链表。请分析和描述算法的复杂度。</p>
@@ -19,5 +19,5 @@
 - [链表](https://leetcode-cn.com/tag/linked-list)
 - [分治算法](https://leetcode-cn.com/tag/divide-and-conquer)
 ## 相似题目
-- [合并两个有序链表](../merge-two-sorted-lists/README.md)
-- [丑数 II](../ugly-number-ii/README.md)
+- [合并两个有序链表](../0021/README.md)
+- [丑数 II](../0264/README.md)

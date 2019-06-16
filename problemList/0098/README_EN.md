@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0098. Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 ## Description
 <p>Given a binary tree, determine if it is a valid binary search tree (BST).</p>
@@ -43,5 +43,5 @@
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 ## Similar Questions
-- [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal/README_EN.md)
-- [Find Mode in Binary Search Tree](../find-mode-in-binary-search-tree/README_EN.md)
+- [Binary Tree Inorder Traversal](../0094/README_EN.md)
+- [Find Mode in Binary Search Tree](../0501/README_EN.md)

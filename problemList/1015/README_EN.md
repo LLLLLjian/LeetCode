@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1015. Smallest Integer Divisible by K](https://leetcode-cn.com/problems/smallest-integer-divisible-by-k/)
 ## Description
 <p>Given a positive integer <code>K</code>, you need find the <strong>smallest</strong>&nbsp;positive integer <code>N</code> such that <code>N</code> is divisible by <code>K</code>, and <code>N</code> only contains the digit <strong>1</strong>.</p>

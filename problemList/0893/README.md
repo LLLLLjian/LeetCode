@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0893. 特殊等价字符串组](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/)
 ## 题目描述
 <p>你将得到一个字符串数组 <code>A</code>。</p>

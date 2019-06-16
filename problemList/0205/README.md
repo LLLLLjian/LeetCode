@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0205. 同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/)
 ## 题目描述
 <p>给定两个字符串&nbsp;<em><strong>s&nbsp;</strong></em>和&nbsp;<strong><em>t</em></strong>，判断它们是否是同构的。</p>
@@ -30,4 +30,4 @@
 ## 相关话题
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [单词规律](../word-pattern/README.md)
+- [单词规律](../0290/README.md)

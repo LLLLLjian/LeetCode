@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0986. 区间列表的交集](https://leetcode-cn.com/problems/interval-list-intersections/)
 ## 题目描述
 <p>给定两个由一些<strong>闭区间</strong>组成的列表，每个区间列表都是成对不相交的，并且已经排序。</p>
@@ -32,6 +32,6 @@
 ## 相关话题
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 ## 相似题目
-- [合并区间](../merge-intervals/README.md)
-- [合并两个有序数组](../merge-sorted-array/README.md)
-- [员工空闲时间](../employee-free-time/README.md)
+- [合并区间](../0056/README.md)
+- [合并两个有序数组](../0088/README.md)
+- [员工空闲时间](../0759/README.md)

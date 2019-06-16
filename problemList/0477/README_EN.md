@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0477. Total Hamming Distance](https://leetcode-cn.com/problems/total-hamming-distance/)
 ## Description
 <p>The <a href="https://en.wikipedia.org/wiki/Hamming_distance" target="_blank">Hamming distance</a> between two integers is the number of positions at which the corresponding bits are different.</p>
@@ -28,4 +28,4 @@ HammingDistance(4, 14) + HammingDistance(4, 2) + HammingDistance(14, 2) = 2 + 2 
 ## Related Topics
 - [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)
 ## Similar Questions
-- [Hamming Distance](../hamming-distance/README_EN.md)
+- [Hamming Distance](../0461/README_EN.md)

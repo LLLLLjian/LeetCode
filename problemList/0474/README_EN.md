@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0474. Ones and Zeroes](https://leetcode-cn.com/problems/ones-and-zeroes/)
 ## Description
 <p>In the computer world, use restricted resource you have to generate maximum benefit is what we always want to pursue.</p>
@@ -42,4 +42,4 @@
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Non-negative Integers without Consecutive Ones](../non-negative-integers-without-consecutive-ones/README_EN.md)
+- [Non-negative Integers without Consecutive Ones](../0600/README_EN.md)

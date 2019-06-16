@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0289. Game of Life](https://leetcode-cn.com/problems/game-of-life/)
 ## Description
 <p>According to the <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" target="_blank">Wikipedia&#39;s article</a>: &quot;The <b>Game of Life</b>, also known simply as <b>Life</b>, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.&quot;</p>
@@ -44,4 +44,4 @@
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Set Matrix Zeroes](../set-matrix-zeroes/README_EN.md)
+- [Set Matrix Zeroes](../0073/README_EN.md)

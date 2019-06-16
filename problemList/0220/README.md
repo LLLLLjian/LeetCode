@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)
 ## 题目描述
 <p>给定一个整数数组，判断数组中是否有两个不同的索引 <em>i</em> 和 <em>j</em>，使得&nbsp;<strong>nums [i]</strong> 和&nbsp;<strong>nums [j]</strong>&nbsp;的差的绝对值最大为 <em>t</em>，并且 <em>i</em> 和 <em>j</em> 之间的差的绝对值最大为 <em>ķ</em>。</p>
@@ -23,5 +23,5 @@
 - [排序](https://leetcode-cn.com/tag/sort)
 - [None](https://leetcode-cn.com/tag/ordered-map)
 ## 相似题目
-- [存在重复元素](../contains-duplicate/README.md)
-- [存在重复元素 II](../contains-duplicate-ii/README.md)
+- [存在重复元素](../0217/README.md)
+- [存在重复元素 II](../0219/README.md)

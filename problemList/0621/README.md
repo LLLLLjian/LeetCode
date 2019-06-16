@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0621. 任务调度器](https://leetcode-cn.com/problems/task-scheduler/)
 ## 题目描述
 <p>给定一个用字符数组表示的 CPU 需要执行的任务列表。其中包含使用大写的 A - Z 字母表示的26 种不同种类的任务。任务可以以任意顺序执行，并且每个任务都可以在 1 个单位时间内执行完。CPU 在任何一个单位时间内都可以执行一个任务，或者在待命状态。</p>
@@ -28,5 +28,5 @@
 - [队列](https://leetcode-cn.com/tag/queue)
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [K 距离间隔重排字符串](../rearrange-string-k-distance-apart/README.md)
-- [重构字符串](../reorganize-string/README.md)
+- [K 距离间隔重排字符串](../0358/README.md)
+- [重构字符串](../0767/README.md)

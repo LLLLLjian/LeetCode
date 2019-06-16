@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0416. Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
 ## Description
 <p>Given a <b>non-empty</b> array containing <b>only positive integers</b>, find if the array can be partitioned into two subsets such that the sum of elements in both subsets is equal.</p>
@@ -40,4 +40,4 @@ Explanation: The array cannot be partitioned into equal sum subsets.
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Partition to K Equal Sum Subsets](../partition-to-k-equal-sum-subsets/README_EN.md)
+- [Partition to K Equal Sum Subsets](../0698/README_EN.md)

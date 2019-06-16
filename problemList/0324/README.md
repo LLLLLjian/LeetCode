@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0324. 摆动排序 II](https://leetcode-cn.com/problems/wiggle-sort-ii/)
 ## 题目描述
 <p>给定一个无序的数组&nbsp;<code>nums</code>，将它重新排列成&nbsp;<code>nums[0] &lt; nums[1] &gt; nums[2] &lt; nums[3]...</code>&nbsp;的顺序。</p>
@@ -23,6 +23,6 @@
 ## 相关话题
 - [排序](https://leetcode-cn.com/tag/sort)
 ## 相似题目
-- [颜色分类](../sort-colors/README.md)
-- [数组中的第K个最大元素](../kth-largest-element-in-an-array/README.md)
-- [摆动排序](../wiggle-sort/README.md)
+- [颜色分类](../0075/README.md)
+- [数组中的第K个最大元素](../0215/README.md)
+- [摆动排序](../0280/README.md)

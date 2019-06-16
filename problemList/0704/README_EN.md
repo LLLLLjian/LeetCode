@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0704. Binary Search](https://leetcode-cn.com/problems/binary-search/)
 ## Description
 <p>Given a <strong>sorted</strong> (in ascending order) integer array <code>nums</code> of <code>n</code> elements and a <code>target</code> value, write a function to search <code>target</code> in <code>nums</code>. If <code>target</code> exists, then return its index, otherwise return <code>-1</code>.</p>
@@ -35,4 +35,4 @@
 ## Related Topics
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Search in a Sorted Array of Unknown Size](../search-in-a-sorted-array-of-unknown-size/README_EN.md)
+- [Search in a Sorted Array of Unknown Size](../0702/README_EN.md)

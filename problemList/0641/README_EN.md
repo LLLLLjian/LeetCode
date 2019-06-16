@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0641. Design Circular Deque](https://leetcode-cn.com/problems/design-circular-deque/)
 ## Description
 <p>Design your implementation of the circular double-ended queue (deque).</p>
@@ -49,4 +49,4 @@ circularDeque.getFront();			// return 4
 - [Design](https://leetcode-cn.com/tag/design)
 - [Queue](https://leetcode-cn.com/tag/queue)
 ## Similar Questions
-- [Design Circular Queue](../design-circular-queue/README_EN.md)
+- [Design Circular Queue](../0622/README_EN.md)

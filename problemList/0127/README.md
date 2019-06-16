@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/)
 ## 题目描述
 <p>给定两个单词（<em>beginWord&nbsp;</em>和 <em>endWord</em>）和一个字典，找到从&nbsp;<em>beginWord</em> 到&nbsp;<em>endWord</em> 的最短转换序列的长度。转换需遵循如下规则：</p>
@@ -46,5 +46,5 @@ wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quo
 ## 相关话题
 - [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search)
 ## 相似题目
-- [单词接龙 II](../word-ladder-ii/README.md)
-- [最小基因变化](../minimum-genetic-mutation/README.md)
+- [单词接龙 II](../0126/README.md)
+- [最小基因变化](../0433/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0912. Sort an Array](https://leetcode-cn.com/problems/sort-an-array/)
 ## Description
 <p>Given an array of integers <code>nums</code>, sort the array in ascending order.</p>

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0690. 员工的重要性](https://leetcode-cn.com/problems/employee-importance/)
 ## 题目描述
 <p>给定一个保存员工信息的数据结构，它包含了员工<strong>唯一的id</strong>，<strong>重要度&nbsp;</strong>和 <strong>直系下属的id</strong>。</p>
@@ -29,4 +29,4 @@
 - [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search)
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [嵌套列表权重和](../nested-list-weight-sum/README.md)
+- [嵌套列表权重和](../0339/README.md)

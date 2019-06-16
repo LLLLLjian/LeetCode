@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0212. Word Search II](https://leetcode-cn.com/problems/word-search-ii/)
 ## Description
 <p>Given a 2D board and a list of words from the dictionary, find all words in the board.</p>
@@ -36,5 +36,5 @@
 - [Trie](https://leetcode-cn.com/tag/trie)
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Word Search](../word-search/README_EN.md)
-- [Unique Paths III](../unique-paths-iii/README_EN.md)
+- [Word Search](../0079/README_EN.md)
+- [Unique Paths III](../0980/README_EN.md)

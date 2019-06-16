@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0452. 用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 ## 题目描述
 <p>在二维空间中有许多球形的气球。对于每个气球，提供的输入是水平方向上，气球直径的开始和结束坐标。由于它是水平的，所以y坐标并不重要，因此只要知道开始和结束的x坐标就足够了。开始坐标总是小于结束坐标。平面内最多存在10<sup>4</sup>个气球。</p>
@@ -22,5 +22,5 @@
 ## 相关话题
 - [贪心算法](https://leetcode-cn.com/tag/greedy)
 ## 相似题目
-- [会议室 II](../meeting-rooms-ii/README.md)
-- [无重叠区间](../non-overlapping-intervals/README.md)
+- [会议室 II](../0253/README.md)
+- [无重叠区间](../0435/README.md)

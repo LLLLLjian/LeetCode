@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0323. Number of Connected Components in an Undirected Graph](https://leetcode-cn.com/problems/number-of-connected-components-in-an-undirected-graph/)
 ## Description
 None
@@ -9,6 +9,6 @@ None
 - [Union Find](https://leetcode-cn.com/tag/union-find)
 - [Graph](https://leetcode-cn.com/tag/graph)
 ## Similar Questions
-- [Number of Islands](../number-of-islands/README_EN.md)
-- [Graph Valid Tree](../graph-valid-tree/README_EN.md)
-- [Friend Circles](../friend-circles/README_EN.md)
+- [Number of Islands](../0200/README_EN.md)
+- [Graph Valid Tree](../0261/README_EN.md)
+- [Friend Circles](../0547/README_EN.md)

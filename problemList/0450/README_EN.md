@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0450. Delete Node in a BST](https://leetcode-cn.com/problems/delete-node-in-a-bst/)
 ## Description
 <p>Given a root node reference of a BST and a key, delete the node with the given key in the BST. Return the root node reference (possibly updated) of the BST.</p>
@@ -46,4 +46,4 @@ Another valid answer is [5,2,6,null,4,null,7].
 ## Related Topics
 - [Tree](https://leetcode-cn.com/tag/tree)
 ## Similar Questions
-- [Split BST](../split-bst/README_EN.md)
+- [Split BST](../0776/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0935. Knight Dialer](https://leetcode-cn.com/problems/knight-dialer/)
 ## Description
 <p>A chess knight can move as indicated in the chess diagram below:</p>

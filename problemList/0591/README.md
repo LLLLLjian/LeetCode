@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0591. 标签验证器](https://leetcode-cn.com/problems/tag-validator/)
 ## 题目描述
 <p>给定一个表示代码片段的字符串，你需要实现一个验证器来解析这段代码，并返回它是否合法。合法的代码片段需要遵守以下的所有规则：</p>
@@ -91,4 +91,4 @@ cdata <strong>不</strong>是 <strong>&quot;&lt;![CDATA[&lt;div&gt;]&gt;]]&gt;]]
 - [栈](https://leetcode-cn.com/tag/stack)
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [给字符串添加加粗标签](../add-bold-tag-in-string/README.md)
+- [给字符串添加加粗标签](../0616/README.md)

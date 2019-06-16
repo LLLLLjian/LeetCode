@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
 ## 题目描述
 <p>给定一个字符串，验证它是否是回文串，只考虑字母和数字字符，可以忽略字母的大小写。</p>
@@ -22,5 +22,5 @@
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [回文链表](../palindrome-linked-list/README.md)
-- [验证回文字符串 Ⅱ](../valid-palindrome-ii/README.md)
+- [回文链表](../0234/README.md)
+- [验证回文字符串 Ⅱ](../0680/README.md)

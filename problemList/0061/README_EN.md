@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0061. Rotate List](https://leetcode-cn.com/problems/rotate-list/)
 ## Description
 <p>Given a linked&nbsp;list, rotate the list to the right by <em>k</em> places, where <em>k</em> is non-negative.</p>
@@ -29,5 +29,5 @@ rotate 4 steps to the right:&nbsp;<code>2-&gt;0-&gt;1-&gt;NULL</code></pre>
 - [Linked List](https://leetcode-cn.com/tag/linked-list)
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 ## Similar Questions
-- [Rotate Array](../rotate-array/README_EN.md)
-- [Split Linked List in Parts](../split-linked-list-in-parts/README_EN.md)
+- [Rotate Array](../0189/README_EN.md)
+- [Split Linked List in Parts](../0725/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0628. Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)
 ## Description
 <p>Given an integer array, find three numbers whose product is maximum and output the maximum product.</p>
@@ -35,4 +35,4 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Maximum Product Subarray](../maximum-product-subarray/README_EN.md)
+- [Maximum Product Subarray](../0152/README_EN.md)

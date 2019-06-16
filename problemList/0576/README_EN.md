@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0576. Out of Boundary Paths](https://leetcode-cn.com/problems/out-of-boundary-paths/)
 ## Description
 <p>There is an <b>m</b> by <b>n</b> grid with a ball. Given the start coordinate <b>(i,j)</b> of the ball, you can move the ball to <b>adjacent</b> cell or cross the grid boundary in four directions (up, down, left, right). However, you can <b>at most</b> move <b>N</b> times. Find out the number of paths to move the ball out of grid boundary. The answer may be very large, return it after mod 10<sup>9</sup> + 7.</p>
@@ -38,4 +38,4 @@
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Knight Probability in Chessboard](../knight-probability-in-chessboard/README_EN.md)
+- [Knight Probability in Chessboard](../0688/README_EN.md)

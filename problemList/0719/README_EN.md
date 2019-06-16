@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0719. Find K-th Smallest Pair Distance](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance/)
 ## Description
 <p>Given an integer array, return the k-th smallest <b>distance</b> among all the pairs. The distance of a pair (A, B) is defined as the absolute difference between A and B. </p>
@@ -31,8 +31,8 @@ Then the 1st smallest distance pair is (1,1), and its distance is 0.
 - [Array](https://leetcode-cn.com/tag/array)
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Find K Pairs with Smallest Sums](../find-k-pairs-with-smallest-sums/README_EN.md)
-- [Kth Smallest Element in a Sorted Matrix](../kth-smallest-element-in-a-sorted-matrix/README_EN.md)
-- [Find K Closest Elements](../find-k-closest-elements/README_EN.md)
-- [Kth Smallest Number in Multiplication Table](../kth-smallest-number-in-multiplication-table/README_EN.md)
-- [K-th Smallest Prime Fraction](../k-th-smallest-prime-fraction/README_EN.md)
+- [Find K Pairs with Smallest Sums](../0373/README_EN.md)
+- [Kth Smallest Element in a Sorted Matrix](../0378/README_EN.md)
+- [Find K Closest Elements](../0658/README_EN.md)
+- [Kth Smallest Number in Multiplication Table](../0668/README_EN.md)
+- [K-th Smallest Prime Fraction](../0786/README_EN.md)

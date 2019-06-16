@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0855. 考场就座](https://leetcode-cn.com/problems/exam-room/)
 ## 题目描述
 <p>在考场里，一排有&nbsp;<code>N</code>&nbsp;个座位，分别编号为&nbsp;<code>0, 1, 2, ..., N-1</code>&nbsp;。</p>
@@ -37,4 +37,4 @@ seat() -&gt; 5，学生最后坐在 5 号座位上。
 ## 相关话题
 - [None](https://leetcode-cn.com/tag/ordered-map)
 ## 相似题目
-- [到最近的人的最大距离](../maximize-distance-to-closest-person/README.md)
+- [到最近的人的最大距离](../0849/README.md)

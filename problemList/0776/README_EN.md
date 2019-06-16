@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0776. Split BST](https://leetcode-cn.com/problems/split-bst/)
 ## Description
 None
@@ -7,4 +7,4 @@ None
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [Recursion](https://leetcode-cn.com/tag/recursion)
 ## Similar Questions
-- [Delete Node in a BST](../delete-node-in-a-bst/README_EN.md)
+- [Delete Node in a BST](../0450/README_EN.md)

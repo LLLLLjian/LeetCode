@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0388. 文件的最长绝对路径](https://leetcode-cn.com/problems/longest-absolute-file-path/)
 ## 题目描述
 <p>假设我们以下述方式将我们的文件系统抽象成一个字符串:</p>

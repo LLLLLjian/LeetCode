@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0740. Delete and Earn](https://leetcode-cn.com/problems/delete-and-earn/)
 ## Description
 <p>Given an array <code>nums</code> of integers, you can perform operations on the array.</p>
@@ -45,4 +45,4 @@ Then, delete 3 again to earn 3 points, and 3 again to earn 3 points.
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [House Robber](../house-robber/README_EN.md)
+- [House Robber](../0198/README_EN.md)

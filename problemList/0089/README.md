@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0089. 格雷编码](https://leetcode-cn.com/problems/gray-code/)
 ## 题目描述
 <p>格雷编码是一个二进制数字系统，在该系统中，两个连续的数值仅有一个位数的差异。</p>
@@ -36,4 +36,4 @@
 ## 相关话题
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [1比特与2比特字符](../1-bit-and-2-bit-characters/README.md)
+- [1比特与2比特字符](../0717/README.md)

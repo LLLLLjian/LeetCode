@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0169. Majority Element](https://leetcode-cn.com/problems/majority-element/)
 ## Description
 <p>Given an array of size <i>n</i>, find the majority element. The majority element is the element that appears <b>more than</b> <code>&lfloor; n/2 &rfloor;</code> times.</p>
@@ -24,4 +24,4 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)
 ## Similar Questions
-- [Majority Element II](../majority-element-ii/README_EN.md)
+- [Majority Element II](../0229/README_EN.md)

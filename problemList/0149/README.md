@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0149. 直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/)
 ## 题目描述
 <p>给定一个二维平面，平面上有&nbsp;<em>n&nbsp;</em>个点，求最多有多少个点在同一条直线上。</p>
@@ -36,4 +36,4 @@
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [直线镜像](../line-reflection/README.md)
+- [直线镜像](../0356/README.md)

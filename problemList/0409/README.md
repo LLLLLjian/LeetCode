@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0409. 最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)
 ## 题目描述
 <p>给定一个包含大写字母和小写字母的字符串，找到通过这些字母构造成的最长的回文串。</p>
@@ -25,4 +25,4 @@
 ## 相关话题
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [回文排列](../palindrome-permutation/README.md)
+- [回文排列](../0266/README.md)

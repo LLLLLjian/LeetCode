@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0973. K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
 ## Description
 <p>We have a list of <code>points</code>&nbsp;on the plane.&nbsp; Find the <code>K</code> closest points to the origin <code>(0, 0)</code>.</p>
@@ -48,6 +48,6 @@ We only want the closest K = 1 points from the origin, so the answer is just [[-
 - [Sort](https://leetcode-cn.com/tag/sort)
 - [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)
 ## Similar Questions
-- [Kth Largest Element in an Array](../kth-largest-element-in-an-array/README_EN.md)
-- [Top K Frequent Elements](../top-k-frequent-elements/README_EN.md)
-- [Top K Frequent Words](../top-k-frequent-words/README_EN.md)
+- [Kth Largest Element in an Array](../0215/README_EN.md)
+- [Top K Frequent Elements](../0347/README_EN.md)
+- [Top K Frequent Words](../0692/README_EN.md)

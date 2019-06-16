@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0794. Valid Tic-Tac-Toe State](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/)
 ## Description
 <p>A Tic-Tac-Toe board is given as a string array <code>board</code>. Return True if and only if it is possible to reach this board position during the course of a valid tic-tac-toe game.</p>
@@ -48,4 +48,4 @@
 - [Recursion](https://leetcode-cn.com/tag/recursion)
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Design Tic-Tac-Toe](../design-tic-tac-toe/README_EN.md)
+- [Design Tic-Tac-Toe](../0348/README_EN.md)

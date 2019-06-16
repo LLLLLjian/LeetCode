@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0622. Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue/)
 ## Description
 <p>Design your implementation of the circular queue. The circular queue is a linear data structure in which the operations are performed based on FIFO (First In First Out) principle and the last position is connected back to the first position to make a circle. It is also called &quot;Ring Buffer&quot;.</p>
@@ -48,4 +48,4 @@ circularQueue.Rear(); &nbsp;// return 4
 - [Design](https://leetcode-cn.com/tag/design)
 - [Queue](https://leetcode-cn.com/tag/queue)
 ## Similar Questions
-- [Design Circular Deque](../design-circular-deque/README_EN.md)
+- [Design Circular Deque](../0641/README_EN.md)

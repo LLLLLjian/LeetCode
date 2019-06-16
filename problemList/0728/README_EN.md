@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0728. Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/)
 ## Description
 <p>
@@ -25,4 +25,4 @@ left = 1, right = 22
 ## Related Topics
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Perfect Number](../perfect-number/README_EN.md)
+- [Perfect Number](../0507/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0258. Add Digits](https://leetcode-cn.com/problems/add-digits/)
 ## Description
 <p>Given a non-negative integer <code>num</code>, repeatedly add all its digits until the result has only one digit.</p>
@@ -18,4 +18,5 @@ Could you do it without any loop/recursion in O(1) runtime?</p>
 ## Related Topics
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Happy Number](../happy-number/README_EN.md)
+- [Happy Number](../0202/README_EN.md)
+- [Sum of Digits in the Minimum Number](../None/README_EN.md)

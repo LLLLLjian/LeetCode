@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0389. Find the Difference](https://leetcode-cn.com/problems/find-the-difference/)
 ## Description
 <p>
@@ -25,4 +25,4 @@ Explanation:
 - [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Single Number](../single-number/README_EN.md)
+- [Single Number](../0136/README_EN.md)

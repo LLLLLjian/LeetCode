@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0067. Add Binary](https://leetcode-cn.com/problems/add-binary/)
 ## Description
 <p>Given two binary strings, return their sum (also a binary string).</p>
@@ -22,7 +22,7 @@
 - [Math](https://leetcode-cn.com/tag/math)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Add Two Numbers](../add-two-numbers/README_EN.md)
-- [Multiply Strings](../multiply-strings/README_EN.md)
-- [Plus One](../plus-one/README_EN.md)
-- [Add to Array-Form of Integer](../add-to-array-form-of-integer/README_EN.md)
+- [Add Two Numbers](../0002/README_EN.md)
+- [Multiply Strings](../0043/README_EN.md)
+- [Plus One](../0066/README_EN.md)
+- [Add to Array-Form of Integer](../0989/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0040. Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/)
 ## Description
 <p>Given a collection of candidate numbers (<code>candidates</code>) and a target number (<code>target</code>), find all unique combinations in <code>candidates</code>&nbsp;where the candidate numbers sums to <code>target</code>.</p>
@@ -41,4 +41,4 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Combination Sum](../combination-sum/README_EN.md)
+- [Combination Sum](../0039/README_EN.md)

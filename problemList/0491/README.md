@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0491. 递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/)
 ## 题目描述
 <p>给定一个整型数组, 你的任务是找到所有该数组的递增子序列，递增子序列的长度至少是2。</p>
@@ -21,4 +21,4 @@
 ## 相关话题
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 ## 相似题目
-- [最长数对链](../maximum-length-of-pair-chain/README.md)
+- [最长数对链](../0646/README.md)

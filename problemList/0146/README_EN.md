@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0146. LRU Cache](https://leetcode-cn.com/problems/lru-cache/)
 ## Description
 <p>Design and implement a data structure for <a href="https://en.wikipedia.org/wiki/Cache_replacement_policies#LRU" target="_blank">Least Recently Used (LRU) cache</a>. It should support the following operations: <code>get</code> and <code>put</code>.</p>
@@ -32,6 +32,6 @@ cache.get(4);       // returns 4
 ## Related Topics
 - [Design](https://leetcode-cn.com/tag/design)
 ## Similar Questions
-- [LFU Cache](../lfu-cache/README_EN.md)
-- [Design In-Memory File System](../design-in-memory-file-system/README_EN.md)
-- [Design Compressed String Iterator](../design-compressed-string-iterator/README_EN.md)
+- [LFU Cache](../0460/README_EN.md)
+- [Design In-Memory File System](../0588/README_EN.md)
+- [Design Compressed String Iterator](../0604/README_EN.md)

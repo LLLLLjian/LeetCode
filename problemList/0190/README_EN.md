@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0190. Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/)
 ## Description
 <p>Reverse bits of a given 32 bits unsigned integer.</p>
@@ -39,5 +39,5 @@
 ## Related Topics
 - [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)
 ## Similar Questions
-- [Reverse Integer](../reverse-integer/README_EN.md)
-- [Number of 1 Bits](../number-of-1-bits/README_EN.md)
+- [Reverse Integer](../0007/README_EN.md)
+- [Number of 1 Bits](../0191/README_EN.md)

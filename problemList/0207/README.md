@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0207. 课程表](https://leetcode-cn.com/problems/course-schedule/)
 ## 题目描述
 <p>现在你总共有 <em>n</em> 门课需要选，记为&nbsp;<code>0</code>&nbsp;到&nbsp;<code>n-1</code>。</p>
@@ -43,7 +43,7 @@
 - [图](https://leetcode-cn.com/tag/graph)
 - [拓扑排序](https://leetcode-cn.com/tag/topological-sort)
 ## 相似题目
-- [课程表 II](../course-schedule-ii/README.md)
-- [以图判树](../graph-valid-tree/README.md)
-- [最小高度树](../minimum-height-trees/README.md)
-- [课程表 III](../course-schedule-iii/README.md)
+- [课程表 II](../0210/README.md)
+- [以图判树](../0261/README.md)
+- [最小高度树](../0310/README.md)
+- [课程表 III](../0630/README.md)

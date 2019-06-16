@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0756. Pyramid Transition Matrix](https://leetcode-cn.com/problems/pyramid-transition-matrix/)
 ## Description
 <p>We are stacking blocks to form a pyramid. Each block has a color which is a one letter string.</p>

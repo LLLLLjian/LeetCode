@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0132. 分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)
 ## 题目描述
 <p>给定一个字符串 <em>s</em>，将 <em>s</em> 分割成一些子串，使每个子串都是回文串。</p>
@@ -16,4 +16,4 @@
 ## 相关话题
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [分割回文串](../palindrome-partitioning/README.md)
+- [分割回文串](../0131/README.md)

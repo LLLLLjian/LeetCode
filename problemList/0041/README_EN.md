@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0041. First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/)
 ## Description
 <p>Given an unsorted integer array, find the smallest missing&nbsp;positive integer.</p>
@@ -32,7 +32,7 @@ Output: 1
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Missing Number](../missing-number/README_EN.md)
-- [Find the Duplicate Number](../find-the-duplicate-number/README_EN.md)
-- [Find All Numbers Disappeared in an Array](../find-all-numbers-disappeared-in-an-array/README_EN.md)
-- [Couples Holding Hands](../couples-holding-hands/README_EN.md)
+- [Missing Number](../0268/README_EN.md)
+- [Find the Duplicate Number](../0287/README_EN.md)
+- [Find All Numbers Disappeared in an Array](../0448/README_EN.md)
+- [Couples Holding Hands](../0765/README_EN.md)

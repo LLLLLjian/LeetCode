@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0750. Number Of Corner Rectangles](https://leetcode-cn.com/problems/number-of-corner-rectangles/)
 ## Description
 None

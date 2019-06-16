@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0765. 情侣牵手](https://leetcode-cn.com/problems/couples-holding-hands/)
 ## 题目描述
 <p>N 对情侣坐在连续排列的 2N 个座位上，想要牵到对方的手。 计算最少交换座位的次数，以便每对情侣可以并肩坐在一起。 <em>一</em>次交换可选择任意两人，让他们站起来交换座位。</p>
@@ -36,6 +36,6 @@
 - [并查集](https://leetcode-cn.com/tag/union-find)
 - [图](https://leetcode-cn.com/tag/graph)
 ## 相似题目
-- [缺失的第一个正数](../first-missing-positive/README.md)
-- [缺失数字](../missing-number/README.md)
-- [相似度为 K 的字符串](../k-similar-strings/README.md)
+- [缺失的第一个正数](../0041/README.md)
+- [缺失数字](../0268/README.md)
+- [相似度为 K 的字符串](../0854/README.md)

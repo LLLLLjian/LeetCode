@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0025. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
 ## 题目描述
 <p>给你一个链表，每&nbsp;<em>k&nbsp;</em>个节点一组进行翻转，请你返回翻转后的链表。</p>
@@ -26,4 +26,4 @@
 ## 相关话题
 - [链表](https://leetcode-cn.com/tag/linked-list)
 ## 相似题目
-- [两两交换链表中的节点](../swap-nodes-in-pairs/README.md)
+- [两两交换链表中的节点](../0024/README.md)

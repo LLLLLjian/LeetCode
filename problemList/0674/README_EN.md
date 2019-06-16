@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0674. Longest Continuous Increasing Subsequence](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)
 ## Description
 <p>
@@ -29,5 +29,5 @@ Length of the array will not exceed 10,000.
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Number of Longest Increasing Subsequence](../number-of-longest-increasing-subsequence/README_EN.md)
-- [Minimum Window Subsequence](../minimum-window-subsequence/README_EN.md)
+- [Number of Longest Increasing Subsequence](../0673/README_EN.md)
+- [Minimum Window Subsequence](../0727/README_EN.md)

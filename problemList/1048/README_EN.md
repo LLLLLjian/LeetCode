@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [1048. Longest String Chain](https://leetcode-cn.com/problems/longest-string-chain/)
 ## Description
 <p>Given a list of words, each word consists of English lowercase letters.</p>

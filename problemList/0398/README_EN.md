@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0398. Random Pick Index](https://leetcode-cn.com/problems/random-pick-index/)
 ## Description
 <p>Given an array of integers with possible duplicates, randomly output the index of a given target number. You can assume that the given target number must exist in the array.</p>
@@ -23,6 +23,6 @@ solution.pick(1);
 ## Related Topics
 - [Reservoir Sampling](https://leetcode-cn.com/tag/reservoir-sampling)
 ## Similar Questions
-- [Linked List Random Node](../linked-list-random-node/README_EN.md)
-- [Random Pick with Blacklist](../random-pick-with-blacklist/README_EN.md)
-- [Random Pick with Weight](../random-pick-with-weight/README_EN.md)
+- [Linked List Random Node](../0382/README_EN.md)
+- [Random Pick with Blacklist](../0710/README_EN.md)
+- [Random Pick with Weight](../0528/README_EN.md)

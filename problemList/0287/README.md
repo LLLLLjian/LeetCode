@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
 ## 题目描述
 <p>给定一个包含&nbsp;<em>n</em> + 1 个整数的数组&nbsp;<em>nums</em>，其数字都在 1 到 <em>n&nbsp;</em>之间（包括 1 和 <em>n</em>），可知至少存在一个重复的整数。假设只有一个重复的整数，找出这个重复的数。</p>
@@ -30,8 +30,8 @@
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [缺失的第一个正数](../first-missing-positive/README.md)
-- [只出现一次的数字](../single-number/README.md)
-- [环形链表 II](../linked-list-cycle-ii/README.md)
-- [缺失数字](../missing-number/README.md)
-- [错误的集合](../set-mismatch/README.md)
+- [缺失的第一个正数](../0041/README.md)
+- [只出现一次的数字](../0136/README.md)
+- [环形链表 II](../0142/README.md)
+- [缺失数字](../0268/README.md)
+- [错误的集合](../0645/README.md)

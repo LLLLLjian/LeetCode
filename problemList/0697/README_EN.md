@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0697. Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)
 ## Description
 <p>Given a non-empty array of non-negative integers <code>nums</code>, the <b>degree</b> of this array is defined as the maximum frequency of any one of its elements.</p>
@@ -32,4 +32,4 @@ The shortest length is 2. So return 2.
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Maximum Subarray](../maximum-subarray/README_EN.md)
+- [Maximum Subarray](../0053/README_EN.md)

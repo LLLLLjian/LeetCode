@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0384. 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/)
 ## 题目描述
 <p>打乱一个没有重复元素的数组。</p>

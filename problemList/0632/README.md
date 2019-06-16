@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0632. 最小区间](https://leetcode-cn.com/problems/smallest-range/)
 ## 题目描述
 <p>你有&nbsp;<code>k</code>&nbsp;个升序排列的整数数组。找到一个<strong>最小</strong>区间，使得&nbsp;<code>k</code>&nbsp;个列表中的每个列表至少有一个数包含在其中。</p>
@@ -31,4 +31,4 @@
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [最小覆盖子串](../minimum-window-substring/README.md)
+- [最小覆盖子串](../0076/README.md)

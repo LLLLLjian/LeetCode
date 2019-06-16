@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0171. Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/)
 ## 题目描述
 <p>给定一个Excel表格中的列名称，返回其相应的列序号。</p>
@@ -39,4 +39,4 @@
 ## 相关话题
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [Excel表列名称](../excel-sheet-column-title/README.md)
+- [Excel表列名称](../0168/README.md)

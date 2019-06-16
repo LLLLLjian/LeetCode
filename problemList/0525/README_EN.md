@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0525. Contiguous Array](https://leetcode-cn.com/problems/contiguous-array/)
 ## Description
 <p>Given a binary array, find the maximum length of a contiguous subarray with equal number of 0 and 1. </p>
@@ -27,4 +27,4 @@ The length of the given binary array will not exceed 50,000.
 ## Related Topics
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Maximum Size Subarray Sum Equals k](../maximum-size-subarray-sum-equals-k/README_EN.md)
+- [Maximum Size Subarray Sum Equals k](../0325/README_EN.md)

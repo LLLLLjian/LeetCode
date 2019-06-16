@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0715. Range 模块](https://leetcode-cn.com/problems/range-module/)
 ## 题目描述
 <p>Range 模块是跟踪数字范围的模块。你的任务是以一种有效的方式设计和实现以下接口。</p>
@@ -39,6 +39,6 @@
 - [线段树](https://leetcode-cn.com/tag/segment-tree)
 - [None](https://leetcode-cn.com/tag/ordered-map)
 ## 相似题目
-- [合并区间](../merge-intervals/README.md)
-- [插入区间](../insert-interval/README.md)
-- [将数据流变为多个不相交区间](../data-stream-as-disjoint-intervals/README.md)
+- [合并区间](../0056/README.md)
+- [插入区间](../0057/README.md)
+- [将数据流变为多个不相交区间](../0352/README.md)

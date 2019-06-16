@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0991. 坏了的计算器](https://leetcode-cn.com/problems/broken-calculator/)
 ## 题目描述
 <p>在显示着数字的坏计算器上，我们可以执行以下两种操作：</p>
@@ -56,4 +56,4 @@
 - [贪心算法](https://leetcode-cn.com/tag/greedy)
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [只有两个键的键盘](../2-keys-keyboard/README.md)
+- [只有两个键的键盘](../0650/README.md)

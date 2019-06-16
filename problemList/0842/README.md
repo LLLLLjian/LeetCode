@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0842. 将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)
 ## 题目描述
 <p>给定一个数字字符串 <code>S</code>，比如 <code>S = &quot;123456579&quot;</code>，我们可以将它分成斐波那契式的序列 <code>[123, 456, 579]</code>。</p>
@@ -61,5 +61,5 @@
 - [字符串](https://leetcode-cn.com/tag/string)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [累加数](../additive-number/README.md)
-- [斐波那契数](../fibonacci-number/README.md)
+- [累加数](../0306/README.md)
+- [斐波那契数](../0509/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0503. Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/)
 ## Description
 <p>
@@ -20,5 +20,5 @@ The length of given array won't exceed 10000.
 ## Related Topics
 - [Stack](https://leetcode-cn.com/tag/stack)
 ## Similar Questions
-- [Next Greater Element I](../next-greater-element-i/README_EN.md)
-- [Next Greater Element III](../next-greater-element-iii/README_EN.md)
+- [Next Greater Element I](../0496/README_EN.md)
+- [Next Greater Element III](../0556/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
 ## 题目描述
 <p>编写一个程序，找到两个单链表相交的起始节点。</p>
@@ -58,4 +58,4 @@
 ## 相关话题
 - [链表](https://leetcode-cn.com/tag/linked-list)
 ## 相似题目
-- [两个列表的最小索引总和](../minimum-index-sum-of-two-lists/README.md)
+- [两个列表的最小索引总和](../0599/README.md)

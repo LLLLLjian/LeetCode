@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0290. Word Pattern](https://leetcode-cn.com/problems/word-pattern/)
 ## Description
 <p>Given a <code>pattern</code> and a string <code>str</code>, find if <code>str</code> follows the same pattern.</p>
@@ -36,5 +36,5 @@ You may assume <code>pattern</code> contains only lowercase letters, and <code>s
 ## Related Topics
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Isomorphic Strings](../isomorphic-strings/README_EN.md)
-- [Word Pattern II](../word-pattern-ii/README_EN.md)
+- [Isomorphic Strings](../0205/README_EN.md)
+- [Word Pattern II](../0291/README_EN.md)

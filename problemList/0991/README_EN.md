@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0991. Broken Calculator](https://leetcode-cn.com/problems/broken-calculator/)
 ## Description
 <p>On a broken calculator that has a number showing on its display, we can perform two operations:</p>
@@ -59,4 +59,4 @@
 - [Greedy](https://leetcode-cn.com/tag/greedy)
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [2 Keys Keyboard](../2-keys-keyboard/README_EN.md)
+- [2 Keys Keyboard](../0650/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0175. 组合两个表](https://leetcode-cn.com/problems/combine-two-tables/)
 ## 题目描述
 <p>表1: <code>Person</code></p>
@@ -39,4 +39,4 @@ AddressId 是上表主键
 ## 相关话题
 
 ## 相似题目
-- [员工奖金](../employee-bonus/README.md)
+- [员工奖金](../0577/README.md)

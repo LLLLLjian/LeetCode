@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0480. 滑动窗口中位数](https://leetcode-cn.com/problems/sliding-window-median/)
 ## 题目描述
 <p>中位数是有序序列最中间的那个数。如果序列的大小是偶数，则没有最中间的数；此时中位数是最中间的两个数的平均数。</p>
@@ -35,4 +35,4 @@
 ## 相关话题
 - [None](https://leetcode-cn.com/tag/sliding-window)
 ## 相似题目
-- [数据流的中位数](../find-median-from-data-stream/README.md)
+- [数据流的中位数](../0295/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0383. Ransom Note](https://leetcode-cn.com/problems/ransom-note/)
 ## Description
 <p>
@@ -23,4 +23,4 @@ canConstruct("aa", "aab") -> true
 ## Related Topics
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Stickers to Spell Word](../stickers-to-spell-word/README_EN.md)
+- [Stickers to Spell Word](../0691/README_EN.md)

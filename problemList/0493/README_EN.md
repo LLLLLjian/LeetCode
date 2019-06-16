@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0493. Reverse Pairs](https://leetcode-cn.com/problems/reverse-pairs/)
 ## Description
 <p>Given an array <code>nums</code>, we call <code>(i, j)</code> an <b><i>important reverse pair</i></b> if <code>i &lt; j</code> and <code>nums[i] &gt; 2*nums[j]</code>.</p>
@@ -31,5 +31,5 @@
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 - [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)
 ## Similar Questions
-- [Count of Smaller Numbers After Self](../count-of-smaller-numbers-after-self/README_EN.md)
-- [Count of Range Sum](../count-of-range-sum/README_EN.md)
+- [Count of Smaller Numbers After Self](../0315/README_EN.md)
+- [Count of Range Sum](../0327/README_EN.md)

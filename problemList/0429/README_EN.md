@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0429. N-ary Tree Level Order Traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)
 ## Description
 <p>Given an n-ary tree, return the level order traversal of its nodes&#39; values. (ie, from left to right, level by level).</p>
@@ -35,6 +35,6 @@
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search)
 ## Similar Questions
-- [Binary Tree Level Order Traversal](../binary-tree-level-order-traversal/README_EN.md)
-- [N-ary Tree Preorder Traversal](../n-ary-tree-preorder-traversal/README_EN.md)
-- [N-ary Tree Postorder Traversal](../n-ary-tree-postorder-traversal/README_EN.md)
+- [Binary Tree Level Order Traversal](../0102/README_EN.md)
+- [N-ary Tree Preorder Traversal](../0589/README_EN.md)
+- [N-ary Tree Postorder Traversal](../0590/README_EN.md)

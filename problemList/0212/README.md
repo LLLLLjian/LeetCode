@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0212. 单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/)
 ## 题目描述
 <p>给定一个二维网格&nbsp;<strong>board&nbsp;</strong>和一个字典中的单词列表 <strong>words</strong>，找出所有同时在二维网格和字典中出现的单词。</p>
@@ -33,5 +33,5 @@
 - [字典树](https://leetcode-cn.com/tag/trie)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [单词搜索](../word-search/README.md)
-- [不同路径 III](../unique-paths-iii/README.md)
+- [单词搜索](../0079/README.md)
+- [不同路径 III](../0980/README.md)

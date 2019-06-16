@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0211. 添加与搜索单词 - 数据结构设计](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)
 ## 题目描述
 <p>设计一个支持以下两种操作的数据结构：</p>
@@ -30,5 +30,5 @@ search(&quot;b..&quot;) -&gt; true
 - [字典树](https://leetcode-cn.com/tag/trie)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [实现 Trie (前缀树)](../implement-trie-prefix-tree/README.md)
-- [前缀和后缀搜索](../prefix-and-suffix-search/README.md)
+- [实现 Trie (前缀树)](../0208/README.md)
+- [前缀和后缀搜索](../0745/README.md)

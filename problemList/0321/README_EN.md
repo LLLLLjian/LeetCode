@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0321. Create Maximum Number](https://leetcode-cn.com/problems/create-maximum-number/)
 ## Description
 <p>Given two arrays of length <code>m</code> and <code>n</code> with digits <code>0-9</code> representing two numbers. Create the maximum number of length <code>k &lt;= m + n</code> from digits of the two. The relative order of the digits from the same array must be preserved. Return an array of the <code>k</code> digits.</p>
@@ -40,5 +40,5 @@ k = <code>3</code>
 - [Greedy](https://leetcode-cn.com/tag/greedy)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Remove K Digits](../remove-k-digits/README_EN.md)
-- [Maximum Swap](../maximum-swap/README_EN.md)
+- [Remove K Digits](../0402/README_EN.md)
+- [Maximum Swap](../0670/README_EN.md)

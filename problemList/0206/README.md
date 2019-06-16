@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
 ## 题目描述
 <p>反转一个单链表。</p>
@@ -15,6 +15,6 @@
 ## 相关话题
 - [链表](https://leetcode-cn.com/tag/linked-list)
 ## 相似题目
-- [反转链表 II](../reverse-linked-list-ii/README.md)
-- [上下翻转二叉树](../binary-tree-upside-down/README.md)
-- [回文链表](../palindrome-linked-list/README.md)
+- [反转链表 II](../0092/README.md)
+- [上下翻转二叉树](../0156/README.md)
+- [回文链表](../0234/README.md)

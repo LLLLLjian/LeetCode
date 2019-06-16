@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0720. 词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/)
 ## 题目描述
 <p>给出一个字符串数组<code>words</code>组成的一本英语词典。从中找出最长的一个单词，该单词是由<code>words</code>词典中其他单词逐步添加一个字母组成。若其中有多个可行的答案，则返回答案中字典序最小的单词。</p>
@@ -38,5 +38,5 @@ words = [&quot;a&quot;, &quot;banana&quot;, &quot;app&quot;, &quot;appl&quot;, &
 - [字典树](https://leetcode-cn.com/tag/trie)
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [通过删除字母匹配到字典里最长单词](../longest-word-in-dictionary-through-deleting/README.md)
-- [实现一个魔法字典](../implement-magic-dictionary/README.md)
+- [通过删除字母匹配到字典里最长单词](../0524/README.md)
+- [实现一个魔法字典](../0676/README.md)

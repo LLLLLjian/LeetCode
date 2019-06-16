@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0107. 二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
 ## 题目描述
 <p>给定一个二叉树，返回其节点值自底向上的层次遍历。 （即按从叶子节点所在层到根节点所在的层，逐层从左向右遍历）</p>
@@ -27,5 +27,5 @@
 - [树](https://leetcode-cn.com/tag/tree)
 - [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search)
 ## 相似题目
-- [二叉树的层次遍历](../binary-tree-level-order-traversal/README.md)
-- [二叉树的层平均值](../average-of-levels-in-binary-tree/README.md)
+- [二叉树的层次遍历](../0102/README.md)
+- [二叉树的层平均值](../0637/README.md)

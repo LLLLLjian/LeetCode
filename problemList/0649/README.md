@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0649. Dota2 参议院](https://leetcode-cn.com/problems/dota2-senate/)
 ## 题目描述
 <p>&nbsp;Dota2 的世界里有两个阵营：<code>Radiant</code>(天辉)和&nbsp;<code>Dire</code>(夜魇)</p>
@@ -60,4 +60,4 @@
 ## 相关话题
 - [贪心算法](https://leetcode-cn.com/tag/greedy)
 ## 相似题目
-- [提莫攻击](../teemo-attacking/README.md)
+- [提莫攻击](../0495/README.md)

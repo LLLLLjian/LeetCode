@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0056. Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)
 ## Description
 <p>Given a collection of intervals, merge all overlapping intervals.</p>
@@ -25,12 +25,12 @@
 - [Sort](https://leetcode-cn.com/tag/sort)
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Insert Interval](../insert-interval/README_EN.md)
-- [Meeting Rooms](../meeting-rooms/README_EN.md)
-- [Meeting Rooms II](../meeting-rooms-ii/README_EN.md)
-- [Teemo Attacking](../teemo-attacking/README_EN.md)
-- [Add Bold Tag in String](../add-bold-tag-in-string/README_EN.md)
-- [Range Module](../range-module/README_EN.md)
-- [Employee Free Time](../employee-free-time/README_EN.md)
-- [Partition Labels](../partition-labels/README_EN.md)
-- [Interval List Intersections](../interval-list-intersections/README_EN.md)
+- [Insert Interval](../0057/README_EN.md)
+- [Meeting Rooms](../0252/README_EN.md)
+- [Meeting Rooms II](../0253/README_EN.md)
+- [Teemo Attacking](../0495/README_EN.md)
+- [Add Bold Tag in String](../0616/README_EN.md)
+- [Range Module](../0715/README_EN.md)
+- [Employee Free Time](../0759/README_EN.md)
+- [Partition Labels](../0763/README_EN.md)
+- [Interval List Intersections](../0986/README_EN.md)

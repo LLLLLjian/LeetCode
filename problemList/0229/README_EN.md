@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0229. Majority Element II](https://leetcode-cn.com/problems/majority-element-ii/)
 ## Description
 <p>Given an integer array of size <i>n</i>, find all elements that appear more than <code>&lfloor; n/3 &rfloor;</code> times.</p>
@@ -21,4 +21,4 @@
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Majority Element](../majority-element/README_EN.md)
+- [Majority Element](../0169/README_EN.md)

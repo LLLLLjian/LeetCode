@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0021. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 ## 题目描述
 <p>将两个有序链表合并为一个新的有序链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。&nbsp;</p>
@@ -13,7 +13,7 @@
 ## 相关话题
 - [链表](https://leetcode-cn.com/tag/linked-list)
 ## 相似题目
-- [合并K个排序链表](../merge-k-sorted-lists/README.md)
-- [合并两个有序数组](../merge-sorted-array/README.md)
-- [排序链表](../sort-list/README.md)
-- [最短单词距离 II](../shortest-word-distance-ii/README.md)
+- [合并K个排序链表](../0023/README.md)
+- [合并两个有序数组](../0088/README.md)
+- [排序链表](../0148/README.md)
+- [最短单词距离 II](../0244/README.md)

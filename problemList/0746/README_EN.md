@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0746. Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
 ## Description
 <p>
@@ -34,4 +34,4 @@ Once you pay the cost, you can either climb one or two steps. You need to find m
 - [Array](https://leetcode-cn.com/tag/array)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Climbing Stairs](../climbing-stairs/README_EN.md)
+- [Climbing Stairs](../0070/README_EN.md)

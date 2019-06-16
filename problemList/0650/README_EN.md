@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0650. 2 Keys Keyboard](https://leetcode-cn.com/problems/2-keys-keyboard/)
 ## Description
 <p>Initially on a notepad only one character &#39;A&#39; is present. You can perform two operations on this notepad for each step:</p>
@@ -38,5 +38,5 @@ In step 3, we use <b>Paste</b> operation to get &#39;AAA&#39;.
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [4 Keys Keyboard](../4-keys-keyboard/README_EN.md)
-- [Broken Calculator](../broken-calculator/README_EN.md)
+- [4 Keys Keyboard](../0651/README_EN.md)
+- [Broken Calculator](../0991/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0868. Binary Gap](https://leetcode-cn.com/problems/binary-gap/)
 ## Description
 <p>Given a positive&nbsp;integer <code>N</code>, find and return the longest distance between two consecutive 1&#39;s in the binary representation of <code>N</code>.</p>

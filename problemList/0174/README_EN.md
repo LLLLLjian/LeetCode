@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0174. Dungeon Game](https://leetcode-cn.com/problems/dungeon-game/)
 ## Description
 <style type="text/css">table.dungeon, .dungeon th, .dungeon td {
@@ -59,6 +59,6 @@
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Unique Paths](../unique-paths/README_EN.md)
-- [Minimum Path Sum](../minimum-path-sum/README_EN.md)
-- [Cherry Pickup](../cherry-pickup/README_EN.md)
+- [Unique Paths](../0062/README_EN.md)
+- [Minimum Path Sum](../0064/README_EN.md)
+- [Cherry Pickup](../0741/README_EN.md)

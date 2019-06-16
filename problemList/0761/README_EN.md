@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0761. Special Binary String](https://leetcode-cn.com/problems/special-binary-string/)
 ## Description
 <p>
@@ -31,4 +31,4 @@ This is the lexicographically largest string possible after some number of swaps
 - [Recursion](https://leetcode-cn.com/tag/recursion)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Valid Parenthesis String](../valid-parenthesis-string/README_EN.md)
+- [Valid Parenthesis String](../0678/README_EN.md)

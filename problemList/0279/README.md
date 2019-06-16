@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)
 ## 题目描述
 <p>给定正整数&nbsp;<em>n</em>，找到若干个完全平方数（比如&nbsp;<code>1, 4, 9, 16, ...</code>）使得它们的和等于<em> n</em>。你需要让组成和的完全平方数的个数最少。</p>
@@ -21,5 +21,5 @@
 - [数学](https://leetcode-cn.com/tag/math)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [计数质数](../count-primes/README.md)
-- [丑数 II](../ugly-number-ii/README.md)
+- [计数质数](../0204/README.md)
+- [丑数 II](../0264/README.md)

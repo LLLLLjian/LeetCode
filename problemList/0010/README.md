@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0010. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)
 ## 题目描述
 <p>给你一个字符串&nbsp;<code>s</code>&nbsp;和一个字符规律&nbsp;<code>p</code>，请你来实现一个支持 <code>&#39;.&#39;</code>&nbsp;和&nbsp;<code>&#39;*&#39;</code>&nbsp;的正则表达式匹配。</p>
@@ -65,4 +65,4 @@ p = &quot;mis*is*p*.&quot;
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [通配符匹配](../wildcard-matching/README.md)
+- [通配符匹配](../0044/README.md)

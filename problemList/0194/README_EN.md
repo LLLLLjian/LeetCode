@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0194. Transpose File](https://leetcode-cn.com/problems/transpose-file/)
 ## Description
 <p>Given a text file <code>file.txt</code>, transpose its content.</p>

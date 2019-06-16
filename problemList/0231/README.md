@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0231. 2的幂](https://leetcode-cn.com/problems/power-of-two/)
 ## 题目描述
 <p>给定一个整数，编写一个函数来判断它是否是 2 的幂次方。</p>
@@ -25,6 +25,6 @@
 - [位运算](https://leetcode-cn.com/tag/bit-manipulation)
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [位1的个数](../number-of-1-bits/README.md)
-- [3的幂](../power-of-three/README.md)
-- [4的幂](../power-of-four/README.md)
+- [位1的个数](../0191/README.md)
+- [3的幂](../0326/README.md)
+- [4的幂](../0342/README.md)

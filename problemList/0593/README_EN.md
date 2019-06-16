@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0593. Valid Square](https://leetcode-cn.com/problems/valid-square/)
 ## Description
 <p>Given the coordinates of four points in 2D space, return whether the four points could construct a square.</p>

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)
 ## 题目描述
 <p>给定一个非负整数&nbsp;<em>numRows，</em>生成杨辉三角的前&nbsp;<em>numRows&nbsp;</em>行。</p>
@@ -23,4 +23,4 @@
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [杨辉三角 II](../pascals-triangle-ii/README.md)
+- [杨辉三角 II](../0119/README.md)

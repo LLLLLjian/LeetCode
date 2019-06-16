@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0321. 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/)
 ## 题目描述
 <p>给定长度分别为&nbsp;<code>m</code>&nbsp;和&nbsp;<code>n</code>&nbsp;的两个数组，其元素由&nbsp;<code>0-9</code>&nbsp;构成，表示两个自然数各位上的数字。现在从这两个数组中选出 <code>k (k &lt;= m + n)</code>&nbsp;个数字拼接成一个新的数，要求从同一个数组中取出的数字保持其在原数组中的相对顺序。</p>
@@ -39,5 +39,5 @@ k = <code>3</code>
 - [贪心算法](https://leetcode-cn.com/tag/greedy)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [移掉K位数字](../remove-k-digits/README.md)
-- [最大交换](../maximum-swap/README.md)
+- [移掉K位数字](../0402/README.md)
+- [最大交换](../0670/README.md)

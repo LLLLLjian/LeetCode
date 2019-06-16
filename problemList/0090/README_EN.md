@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0090. Subsets II](https://leetcode-cn.com/problems/subsets-ii/)
 ## Description
 <p>Given a collection of integers that might contain duplicates, <strong><em>nums</em></strong>, return all possible subsets (the power set).</p>
@@ -25,4 +25,4 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Subsets](../subsets/README_EN.md)
+- [Subsets](../0078/README_EN.md)

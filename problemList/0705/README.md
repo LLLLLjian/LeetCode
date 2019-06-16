@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0705. 设计哈希集合](https://leetcode-cn.com/problems/design-hashset/)
 ## 题目描述
 <p>不使用任何内建的哈希表库设计一个哈希集合</p>
@@ -39,4 +39,4 @@ hashSet.contains(2); &nbsp;&nbsp;&nbsp;// 返回  false (已经被删除)
 - [设计](https://leetcode-cn.com/tag/design)
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [设计哈希映射](../design-hashmap/README.md)
+- [设计哈希映射](../0706/README.md)

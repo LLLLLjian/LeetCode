@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0191. Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/)
 ## Description
 <p>Write a function that takes an unsigned integer and return&nbsp;the number of &#39;1&#39;&nbsp;bits it has (also known as the <a href="http://en.wikipedia.org/wiki/Hamming_weight" target="_blank">Hamming weight</a>).</p>
@@ -47,10 +47,10 @@
 ## Related Topics
 - [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)
 ## Similar Questions
-- [Reverse Bits](../reverse-bits/README_EN.md)
-- [Power of Two](../power-of-two/README_EN.md)
-- [Counting Bits](../counting-bits/README_EN.md)
-- [Binary Watch](../binary-watch/README_EN.md)
-- [Hamming Distance](../hamming-distance/README_EN.md)
-- [Binary Number with Alternating Bits](../binary-number-with-alternating-bits/README_EN.md)
-- [Prime Number of Set Bits in Binary Representation](../prime-number-of-set-bits-in-binary-representation/README_EN.md)
+- [Reverse Bits](../0190/README_EN.md)
+- [Power of Two](../0231/README_EN.md)
+- [Counting Bits](../0338/README_EN.md)
+- [Binary Watch](../0401/README_EN.md)
+- [Hamming Distance](../0461/README_EN.md)
+- [Binary Number with Alternating Bits](../0693/README_EN.md)
+- [Prime Number of Set Bits in Binary Representation](../0762/README_EN.md)

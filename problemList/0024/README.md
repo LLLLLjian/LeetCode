@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0024. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 ## 题目描述
 <p>给定一个链表，两两交换其中相邻的节点，并返回交换后的链表。</p>
@@ -16,4 +16,4 @@
 ## 相关话题
 - [链表](https://leetcode-cn.com/tag/linked-list)
 ## 相似题目
-- [K 个一组翻转链表](../reverse-nodes-in-k-group/README.md)
+- [K 个一组翻转链表](../0025/README.md)

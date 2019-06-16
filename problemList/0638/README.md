@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0638. 大礼包](https://leetcode-cn.com/problems/shopping-offers/)
 ## 题目描述
 <p>在LeetCode商店中， 有许多在售的物品。</p>

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0125. Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/)
 ## Description
 <p>Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.</p>
@@ -24,5 +24,5 @@
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Palindrome Linked List](../palindrome-linked-list/README_EN.md)
-- [Valid Palindrome II](../valid-palindrome-ii/README_EN.md)
+- [Palindrome Linked List](../0234/README_EN.md)
+- [Valid Palindrome II](../0680/README_EN.md)

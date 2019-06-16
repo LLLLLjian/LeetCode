@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0728. 自除数](https://leetcode-cn.com/problems/self-dividing-numbers/)
 ## 题目描述
 <p><em>自除数&nbsp;</em>是指可以被它包含的每一位数除尽的数。</p>
@@ -27,4 +27,4 @@
 ## 相关话题
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [完美数](../perfect-number/README.md)
+- [完美数](../0507/README.md)

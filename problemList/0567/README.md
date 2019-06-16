@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)
 ## 题目描述
 <p>给定两个字符串&nbsp;<strong>s1</strong>&nbsp;和&nbsp;<strong>s2</strong>，写一个函数来判断 <strong>s2</strong> 是否包含 <strong>s1&nbsp;</strong>的排列。</p>
@@ -36,5 +36,5 @@
 - [双指针](https://leetcode-cn.com/tag/two-pointers)
 - [None](https://leetcode-cn.com/tag/sliding-window)
 ## 相似题目
-- [最小覆盖子串](../minimum-window-substring/README.md)
-- [找到字符串中所有字母异位词](../find-all-anagrams-in-a-string/README.md)
+- [最小覆盖子串](../0076/README.md)
+- [找到字符串中所有字母异位词](../0438/README.md)

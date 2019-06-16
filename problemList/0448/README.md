@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)
 ## 题目描述
 <p>给定一个范围在&nbsp; 1 &le; a[i] &le; <em>n</em> (&nbsp;<em>n</em> = 数组大小 ) 的 整型数组，数组中的元素一些出现了两次，另一些只出现一次。</p>
@@ -21,5 +21,5 @@
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [缺失的第一个正数](../first-missing-positive/README.md)
-- [数组中重复的数据](../find-all-duplicates-in-an-array/README.md)
+- [缺失的第一个正数](../0041/README.md)
+- [数组中重复的数据](../0442/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0968. 监控二叉树](https://leetcode-cn.com/problems/binary-tree-cameras/)
 ## 题目描述
 <p>给定一个二叉树，我们在树的节点上安装摄像头。</p>
@@ -41,4 +41,4 @@
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [在二叉树中分配硬币](../distribute-coins-in-binary-tree/README.md)
+- [在二叉树中分配硬币](../0979/README.md)

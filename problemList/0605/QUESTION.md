@@ -1,17 +1,17 @@
-stat.question_id:605
-stat.question__article__live:None
-stat.question__article__slug:None
-stat.question__title:Can Place Flowers
-stat.question__title_slug:can-place-flowers
-stat.question__hide:False
-stat.total_acs:6853
-stat.total_submitted:24093
-stat.total_column_articles:8
-stat.frontend_question_id:605
-stat.is_new_question:False
-status:None
-difficulty.level:1
-paid_only:False
-is_favor:False
-frequency:0
-progress:0
+stat.question_id:605  
+stat.question__article__live:None  
+stat.question__article__slug:None  
+stat.question__title:Can Place Flowers  
+stat.question__title_slug:can-place-flowers  
+stat.question__hide:False  
+stat.total_acs:6876  
+stat.total_submitted:24154  
+stat.total_column_articles:8  
+stat.frontend_question_id:605  
+stat.is_new_question:False  
+status:None  
+difficulty.level:1  
+paid_only:False  
+is_favor:False  
+frequency:0  
+progress:0  

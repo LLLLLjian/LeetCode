@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0412. Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/)
 ## Description
 <p>Write a program that outputs the string representation of numbers from 1 to <i>n</i>.</p>

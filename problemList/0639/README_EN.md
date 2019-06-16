@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0639. Decode Ways II](https://leetcode-cn.com/problems/decode-ways-ii/)
 ## Description
 <p>
@@ -50,4 +50,4 @@ Also, since the answer may be very large, you should return the output mod 10<su
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Decode Ways](../decode-ways/README_EN.md)
+- [Decode Ways](../0091/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0072. Edit Distance](https://leetcode-cn.com/problems/edit-distance/)
 ## Description
 <p>Given two words <em>word1</em> and <em>word2</em>, find the minimum number of operations required to convert <em>word1</em> to <em>word2</em>.</p>
@@ -40,7 +40,7 @@ exection -&gt; execution (insert &#39;u&#39;)
 - [String](https://leetcode-cn.com/tag/string)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [One Edit Distance](../one-edit-distance/README_EN.md)
-- [Delete Operation for Two Strings](../delete-operation-for-two-strings/README_EN.md)
-- [Minimum ASCII Delete Sum for Two Strings](../minimum-ascii-delete-sum-for-two-strings/README_EN.md)
-- [Uncrossed Lines](../uncrossed-lines/README_EN.md)
+- [One Edit Distance](../0161/README_EN.md)
+- [Delete Operation for Two Strings](../0583/README_EN.md)
+- [Minimum ASCII Delete Sum for Two Strings](../0712/README_EN.md)
+- [Uncrossed Lines](../1035/README_EN.md)

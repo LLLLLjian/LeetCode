@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0706. Design HashMap](https://leetcode-cn.com/problems/design-hashmap/)
 ## Description
 <p>Design a HashMap&nbsp;without using any built-in hash table libraries.</p>
@@ -40,4 +40,4 @@ hashMap.get(2); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// returns -1 (not foun
 - [Design](https://leetcode-cn.com/tag/design)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Design HashSet](../design-hashset/README_EN.md)
+- [Design HashSet](../0705/README_EN.md)

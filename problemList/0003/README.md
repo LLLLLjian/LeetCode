@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0003. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 ## 题目描述
 <p>给定一个字符串，请你找出其中不含有重复字符的&nbsp;<strong>最长子串&nbsp;</strong>的长度。</p>
@@ -32,6 +32,6 @@
 - [字符串](https://leetcode-cn.com/tag/string)
 - [None](https://leetcode-cn.com/tag/sliding-window)
 ## 相似题目
-- [至多包含两个不同字符的最长子串](../longest-substring-with-at-most-two-distinct-characters/README.md)
-- [至多包含 K 个不同字符的最长子串](../longest-substring-with-at-most-k-distinct-characters/README.md)
-- [K 个不同整数的子数组](../subarrays-with-k-different-integers/README.md)
+- [至多包含两个不同字符的最长子串](../0159/README.md)
+- [至多包含 K 个不同字符的最长子串](../0340/README.md)
+- [K 个不同整数的子数组](../0992/README.md)

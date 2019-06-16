@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0204. Count Primes](https://leetcode-cn.com/problems/count-primes/)
 ## Description
 <p>Count the number of prime numbers less than a non-negative number, <b><i>n</i></b>.</p>
@@ -16,6 +16,6 @@
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Ugly Number](../ugly-number/README_EN.md)
-- [Ugly Number II](../ugly-number-ii/README_EN.md)
-- [Perfect Squares](../perfect-squares/README_EN.md)
+- [Ugly Number](../0263/README_EN.md)
+- [Ugly Number II](../0264/README_EN.md)
+- [Perfect Squares](../0279/README_EN.md)

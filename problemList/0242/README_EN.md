@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0242. Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/)
 ## Description
 <p>Given two strings <em>s</em> and <em>t&nbsp;</em>, write a function to determine if <em>t</em> is an anagram of <em>s</em>.</p>
@@ -28,6 +28,6 @@ What if the inputs contain unicode characters? How would you adapt your solution
 - [Sort](https://leetcode-cn.com/tag/sort)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Group Anagrams](../group-anagrams/README_EN.md)
-- [Palindrome Permutation](../palindrome-permutation/README_EN.md)
-- [Find All Anagrams in a String](../find-all-anagrams-in-a-string/README_EN.md)
+- [Group Anagrams](../0049/README_EN.md)
+- [Palindrome Permutation](../0266/README_EN.md)
+- [Find All Anagrams in a String](../0438/README_EN.md)

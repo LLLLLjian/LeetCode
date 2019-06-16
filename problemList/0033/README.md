@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0033. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 ## 题目描述
 <p>假设按照升序排序的数组在预先未知的某个点上进行了旋转。</p>
@@ -27,5 +27,5 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [搜索旋转排序数组 II](../search-in-rotated-sorted-array-ii/README.md)
-- [寻找旋转排序数组中的最小值](../find-minimum-in-rotated-sorted-array/README.md)
+- [搜索旋转排序数组 II](../0081/README.md)
+- [寻找旋转排序数组中的最小值](../0153/README.md)

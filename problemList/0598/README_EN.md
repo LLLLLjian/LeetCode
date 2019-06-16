@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0598. Range Addition II](https://leetcode-cn.com/problems/range-addition-ii/)
 ## Description
 <p>Given an m * n matrix <b>M</b> initialized with all <b>0</b>'s and several update operations.</p>
@@ -42,4 +42,4 @@ So the maximum integer in M is 2, and there are four of it in M. So return 4.
 ## Related Topics
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Range Addition](../range-addition/README_EN.md)
+- [Range Addition](../0370/README_EN.md)

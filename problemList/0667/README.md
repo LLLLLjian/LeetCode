@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0667. 优美的排列 II](https://leetcode-cn.com/problems/beautiful-arrangement-ii/)
 ## 题目描述
 <p>给定两个整数&nbsp;<code>n</code>&nbsp;和&nbsp;<code>k</code>，你需要实现一个数组，这个数组包含从&nbsp;<code>1</code>&nbsp;到&nbsp;<code>n</code>&nbsp;的 <code>n</code>&nbsp;个不同整数，同时满足以下条件：</p>
@@ -39,4 +39,4 @@
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [优美的排列](../beautiful-arrangement/README.md)
+- [优美的排列](../0526/README.md)

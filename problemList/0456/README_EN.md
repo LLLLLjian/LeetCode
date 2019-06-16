@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0456. 132 Pattern](https://leetcode-cn.com/problems/132-pattern/)
 ## Description
 <p>

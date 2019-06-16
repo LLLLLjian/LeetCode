@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0342. Power of Four](https://leetcode-cn.com/problems/power-of-four/)
 ## Description
 <p>Given an integer (signed 32 bits), write a function to check whether it is a power of 4.</p>
@@ -23,5 +23,5 @@
 ## Related Topics
 - [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)
 ## Similar Questions
-- [Power of Two](../power-of-two/README_EN.md)
-- [Power of Three](../power-of-three/README_EN.md)
+- [Power of Two](../0231/README_EN.md)
+- [Power of Three](../0326/README_EN.md)

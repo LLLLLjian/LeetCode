@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0171. Excel Sheet Column Number](https://leetcode-cn.com/problems/excel-sheet-column-number/)
 ## Description
 <p>Given a column title as appear in an Excel sheet, return its corresponding column number.</p>
@@ -40,4 +40,4 @@
 ## Related Topics
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Excel Sheet Column Title](../excel-sheet-column-title/README_EN.md)
+- [Excel Sheet Column Title](../0168/README_EN.md)

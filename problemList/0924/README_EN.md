@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0924. Minimize Malware Spread](https://leetcode-cn.com/problems/minimize-malware-spread/)
 ## Description
 <p>In a network of nodes, each node <code>i</code> is directly connected to another node <code>j</code> if and only if&nbsp;<code>graph[i][j] = 1</code>.</p>

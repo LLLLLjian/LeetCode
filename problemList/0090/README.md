@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0090. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)
 ## 题目描述
 <p>给定一个可能包含重复元素的整数数组 <em><strong>nums</strong></em>，返回该数组所有可能的子集（幂集）。</p>
@@ -23,4 +23,4 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [子集](../subsets/README.md)
+- [子集](../0078/README.md)

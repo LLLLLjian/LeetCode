@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0443. 压缩字符串](https://leetcode-cn.com/problems/string-compression/)
 ## 题目描述
 <p>给定一组字符，使用<a href="https://baike.baidu.com/item/%E5%8E%9F%E5%9C%B0%E7%AE%97%E6%B3%95">原地算法</a>将其压缩。</p>
@@ -67,6 +67,6 @@
 ## 相关话题
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [报数](../count-and-say/README.md)
-- [字符串的编码与解码](../encode-and-decode-strings/README.md)
-- [迭代压缩字符串](../design-compressed-string-iterator/README.md)
+- [报数](../0038/README.md)
+- [字符串的编码与解码](../0271/README.md)
+- [迭代压缩字符串](../0604/README.md)

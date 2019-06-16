@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0633. 平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/)
 ## 题目描述
 <p>给定一个非负整数&nbsp;<code>c</code>&nbsp;，你要判断是否存在两个整数 <code>a</code> 和 <code>b</code>，使得&nbsp;a<sup>2</sup> + b<sup>2</sup> = c。</p>
@@ -24,4 +24,4 @@
 ## 相关话题
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [有效的完全平方数](../valid-perfect-square/README.md)
+- [有效的完全平方数](../0367/README.md)

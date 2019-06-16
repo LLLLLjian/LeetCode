@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)
 ## 题目描述
 <p><strong>斐波那契数</strong>，通常用&nbsp;<code>F(n)</code> 表示，形成的序列称为<strong>斐波那契数列</strong>。该数列由&nbsp;<code>0</code> 和 <code>1</code> 开始，后面的每一项数字都是前面两项数字的和。也就是：</p>
@@ -44,6 +44,6 @@ F(N) = F(N - 1) + F(N - 2), 其中 N &gt; 1.
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [爬楼梯](../climbing-stairs/README.md)
-- [将数组拆分成斐波那契序列](../split-array-into-fibonacci-sequence/README.md)
-- [最长的斐波那契子序列的长度](../length-of-longest-fibonacci-subsequence/README.md)
+- [爬楼梯](../0070/README.md)
+- [将数组拆分成斐波那契序列](../0842/README.md)
+- [最长的斐波那契子序列的长度](../0873/README.md)

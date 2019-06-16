@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0089. Gray Code](https://leetcode-cn.com/problems/gray-code/)
 ## Description
 <p>The gray code is a binary numeral system where two successive values differ in only one bit.</p>
@@ -39,4 +39,4 @@ For example, [0,2,3,1] is also a valid gray code sequence.
 ## Related Topics
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [1-bit and 2-bit Characters](../1-bit-and-2-bit-characters/README_EN.md)
+- [1-bit and 2-bit Characters](../0717/README_EN.md)

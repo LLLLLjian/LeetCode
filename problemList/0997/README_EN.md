@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0997. Find the Town Judge](https://leetcode-cn.com/problems/find-the-town-judge/)
 ## Description
 <p>In a town, there are <code>N</code> people labelled from&nbsp;<code>1</code> to <code>N</code>.&nbsp; There is a rumor that one of these people is secretly the town judge.</p>
@@ -75,4 +75,4 @@
 ## Related Topics
 - [Graph](https://leetcode-cn.com/tag/graph)
 ## Similar Questions
-- [Find the Celebrity](../find-the-celebrity/README_EN.md)
+- [Find the Celebrity](../0277/README_EN.md)

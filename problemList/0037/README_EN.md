@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0037. Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver/)
 ## Description
 <p>Write a program to solve a Sudoku puzzle by filling the empty cells.</p>
@@ -32,5 +32,5 @@
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Valid Sudoku](../valid-sudoku/README_EN.md)
-- [Unique Paths III](../unique-paths-iii/README_EN.md)
+- [Valid Sudoku](../0036/README_EN.md)
+- [Unique Paths III](../0980/README_EN.md)

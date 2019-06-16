@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0933. 最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)
 ## 题目描述
 <p>写一个&nbsp;<code>RecentCounter</code>&nbsp;类来计算最近的请求。</p>

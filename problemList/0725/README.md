@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0725. 分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/)
 ## 题目描述
 <p>给定一个头结点为 <code>root</code> 的链表, 编写一个函数以将链表分隔为 <code>k</code> 个连续的部分。</p>
@@ -50,5 +50,5 @@ root = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], k = 3
 ## 相关话题
 - [链表](https://leetcode-cn.com/tag/linked-list)
 ## 相似题目
-- [旋转链表](../rotate-list/README.md)
-- [奇偶链表](../odd-even-linked-list/README.md)
+- [旋转链表](../0061/README.md)
+- [奇偶链表](../0328/README.md)

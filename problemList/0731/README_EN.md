@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0731. My Calendar II](https://leetcode-cn.com/problems/my-calendar-ii/)
 ## Description
 <p>Implement a <code>MyCalendarTwo</code> class to store your events. A new event can be added if adding the event will not cause a <b>triple</b> booking.</p>
@@ -42,5 +42,5 @@ the time [40, 50) will be single booked, and the time [50, 55) will be double bo
 ## Related Topics
 - [Ordered Map](https://leetcode-cn.com/tag/ordered-map)
 ## Similar Questions
-- [My Calendar I](../my-calendar-i/README_EN.md)
-- [My Calendar III](../my-calendar-iii/README_EN.md)
+- [My Calendar I](../0729/README_EN.md)
+- [My Calendar III](../0732/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0648. 单词替换](https://leetcode-cn.com/problems/replace-words/)
 ## 题目描述
 <p>在英语中，我们有一个叫做&nbsp;<code>词根</code>(root)的概念，它可以跟着其他一些词组成另一个较长的单词&mdash;&mdash;我们称这个词为&nbsp;<code>继承词</code>(successor)。例如，词根<code>an</code>，跟随着单词&nbsp;<code>other</code>(其他)，可以形成新的单词&nbsp;<code>another</code>(另一个)。</p>
@@ -30,4 +30,4 @@ sentence(句子) = &quot;the cattle was rattled by the battery&quot;
 - [字典树](https://leetcode-cn.com/tag/trie)
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [实现 Trie (前缀树)](../implement-trie-prefix-tree/README.md)
+- [实现 Trie (前缀树)](../0208/README.md)

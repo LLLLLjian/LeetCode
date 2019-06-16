@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
 ## 题目描述
 <p>给定一个二叉树，找出其最小深度。</p>
@@ -25,5 +25,5 @@
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 - [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search)
 ## 相似题目
-- [二叉树的层次遍历](../binary-tree-level-order-traversal/README.md)
-- [二叉树的最大深度](../maximum-depth-of-binary-tree/README.md)
+- [二叉树的层次遍历](../0102/README.md)
+- [二叉树的最大深度](../0104/README.md)

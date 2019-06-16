@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0767. Reorganize String](https://leetcode-cn.com/problems/reorganize-string/)
 ## Description
 <p>Given a string <code>S</code>, check if the letters can be rearranged so that two characters that are adjacent to each other are not the same.</p>
@@ -34,5 +34,5 @@
 - [Sort](https://leetcode-cn.com/tag/sort)
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Rearrange String k Distance Apart](../rearrange-string-k-distance-apart/README_EN.md)
-- [Task Scheduler](../task-scheduler/README_EN.md)
+- [Rearrange String k Distance Apart](../0358/README_EN.md)
+- [Task Scheduler](../0621/README_EN.md)

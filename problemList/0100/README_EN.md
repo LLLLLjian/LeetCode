@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0100. Same Tree](https://leetcode-cn.com/problems/same-tree/)
 ## Description
 <p>Given two binary trees, write a function to check if they are the same or not.</p>

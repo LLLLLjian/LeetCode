@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0772. 基本计算器 III](https://leetcode-cn.com/problems/basic-calculator-iii/)
 ## 题目描述
 None
@@ -7,6 +7,6 @@ None
 - [栈](https://leetcode-cn.com/tag/stack)
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [基本计算器](../basic-calculator/README.md)
-- [基本计算器 II](../basic-calculator-ii/README.md)
-- [基本计算器 IV](../basic-calculator-iv/README.md)
+- [基本计算器](../0224/README.md)
+- [基本计算器 II](../0227/README.md)
+- [基本计算器 IV](../0770/README.md)

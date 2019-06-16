@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0601. Human Traffic of Stadium](https://leetcode-cn.com/problems/human-traffic-of-stadium/)
 ## Description
 <p>X city built a new stadium, each day many people visit it and the stats are saved as these columns: <b>id</b>, <strong>visit_</strong><b>date</b>, <b>people</b></p>

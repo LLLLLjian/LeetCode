@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0050. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
 ## 题目描述
 <p>实现&nbsp;<a href="https://www.cplusplus.com/reference/valarray/pow/" target="_blank">pow(<em>x</em>, <em>n</em>)</a>&nbsp;，即计算 x 的 n 次幂函数。</p>
@@ -33,5 +33,5 @@
 - [数学](https://leetcode-cn.com/tag/math)
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [x 的平方根](../sqrtx/README.md)
-- [超级次方](../super-pow/README.md)
+- [x 的平方根](../0069/README.md)
+- [超级次方](../0372/README.md)

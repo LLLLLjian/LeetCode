@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0084. Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
 ## Description
 <p>Given <em>n</em> non-negative integers representing the histogram&#39;s bar height where the width of each bar is 1, find the area of largest rectangle in the histogram.</p>
@@ -27,4 +27,4 @@
 - [Stack](https://leetcode-cn.com/tag/stack)
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Maximal Rectangle](../maximal-rectangle/README_EN.md)
+- [Maximal Rectangle](../0085/README_EN.md)

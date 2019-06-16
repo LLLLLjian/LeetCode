@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0980. 不同路径 III](https://leetcode-cn.com/problems/unique-paths-iii/)
 ## 题目描述
 <p>在二维网格 <code>grid</code> 上，有 4 种类型的方格：</p>
@@ -54,6 +54,6 @@
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [解数独](../sudoku-solver/README.md)
-- [不同路径 II](../unique-paths-ii/README.md)
-- [单词搜索 II](../word-search-ii/README.md)
+- [解数独](../0037/README.md)
+- [不同路径 II](../0063/README.md)
+- [单词搜索 II](../0212/README.md)

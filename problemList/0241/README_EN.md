@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0241. Different Ways to Add Parentheses](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/)
 ## Description
 <p>Given a string of numbers and operators, return all possible results from computing all the different possible ways to group numbers and operators. The valid operators are <code>+</code>, <code>-</code> and <code>*</code>.</p>
@@ -28,6 +28,6 @@
 ## Related Topics
 - [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer)
 ## Similar Questions
-- [Unique Binary Search Trees II](../unique-binary-search-trees-ii/README_EN.md)
-- [Basic Calculator](../basic-calculator/README_EN.md)
-- [Expression Add Operators](../expression-add-operators/README_EN.md)
+- [Unique Binary Search Trees II](../0095/README_EN.md)
+- [Basic Calculator](../0224/README_EN.md)
+- [Expression Add Operators](../0282/README_EN.md)

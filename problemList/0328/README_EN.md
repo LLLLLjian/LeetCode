@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0328. Odd Even Linked List](https://leetcode-cn.com/problems/odd-even-linked-list/)
 ## Description
 <p>Given a singly linked list, group all odd nodes together followed by the even nodes. Please note here we are talking about the node number and not the value in the nodes.</p>
@@ -30,4 +30,4 @@
 ## Related Topics
 - [Linked List](https://leetcode-cn.com/tag/linked-list)
 ## Similar Questions
-- [Split Linked List in Parts](../split-linked-list-in-parts/README_EN.md)
+- [Split Linked List in Parts](../0725/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0263. 丑数](https://leetcode-cn.com/problems/ugly-number/)
 ## 题目描述
 <p>编写一个程序判断给定的数是否为丑数。</p>
@@ -35,6 +35,6 @@
 ## 相关话题
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [快乐数](../happy-number/README.md)
-- [计数质数](../count-primes/README.md)
-- [丑数 II](../ugly-number-ii/README.md)
+- [快乐数](../0202/README.md)
+- [计数质数](../0204/README.md)
+- [丑数 II](../0264/README.md)

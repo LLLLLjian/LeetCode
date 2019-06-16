@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0192. 统计词频](https://leetcode-cn.com/problems/word-frequency/)
 ## 题目描述
 <p>写一个 bash 脚本以统计一个文本文件&nbsp;<code>words.txt</code>&nbsp;中每个单词出现的频率。</p>
@@ -38,4 +38,4 @@ day 1
 ## 相关话题
 
 ## 相似题目
-- [前K个高频元素](../top-k-frequent-elements/README.md)
+- [前K个高频元素](../0347/README.md)

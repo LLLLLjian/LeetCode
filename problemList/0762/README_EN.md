@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0762. Prime Number of Set Bits in Binary Representation](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/)
 ## Description
 <p>
@@ -37,4 +37,4 @@ Given two integers <code>L</code> and <code>R</code>, find the count of numbers 
 ## Related Topics
 - [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)
 ## Similar Questions
-- [Number of 1 Bits](../number-of-1-bits/README_EN.md)
+- [Number of 1 Bits](../0191/README_EN.md)

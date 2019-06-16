@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0637. 二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/)
 ## 题目描述
 <p>给定一个非空二叉树, 返回一个由每层节点平均值组成的数组.</p>
@@ -26,5 +26,5 @@
 ## 相关话题
 - [树](https://leetcode-cn.com/tag/tree)
 ## 相似题目
-- [二叉树的层次遍历](../binary-tree-level-order-traversal/README.md)
-- [二叉树的层次遍历 II](../binary-tree-level-order-traversal-ii/README.md)
+- [二叉树的层次遍历](../0102/README.md)
+- [二叉树的层次遍历 II](../0107/README.md)

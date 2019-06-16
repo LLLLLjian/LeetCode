@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0480. Sliding Window Median](https://leetcode-cn.com/problems/sliding-window-median/)
 ## Description
 <p>Median is the middle value in an ordered integer list. If the size of the list is even, there is no middle value. So the median is the mean of the two middle value.</p>
@@ -30,4 +30,4 @@ You may assume <code>k</code> is always valid, ie: <code>k</code> is always smal
 ## Related Topics
 - [Sliding Window](https://leetcode-cn.com/tag/sliding-window)
 ## Similar Questions
-- [Find Median from Data Stream](../find-median-from-data-stream/README_EN.md)
+- [Find Median from Data Stream](../0295/README_EN.md)

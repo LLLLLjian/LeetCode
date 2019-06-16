@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0306. Additive Number](https://leetcode-cn.com/problems/additive-number/)
 ## Description
 <p>Additive number is a string whose digits can form additive sequence.</p>
@@ -32,4 +32,4 @@ How would you handle overflow for very large input integers?</p>
 ## Related Topics
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Split Array into Fibonacci Sequence](../split-array-into-fibonacci-sequence/README_EN.md)
+- [Split Array into Fibonacci Sequence](../0842/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0697. 数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)
 ## 题目描述
 <p>给定一个非空且只包含非负数的整数数组&nbsp;<code>nums</code>, 数组的度的定义是指数组里任一元素出现频数的最大值。</p>
@@ -35,4 +35,4 @@
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [最大子序和](../maximum-subarray/README.md)
+- [最大子序和](../0053/README.md)

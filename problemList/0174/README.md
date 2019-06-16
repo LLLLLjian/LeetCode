@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0174. 地下城游戏](https://leetcode-cn.com/problems/dungeon-game/)
 ## 题目描述
 <style>
@@ -63,6 +63,6 @@ table.dungeon, .dungeon th, .dungeon td {
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [不同路径](../unique-paths/README.md)
-- [最小路径和](../minimum-path-sum/README.md)
-- [摘樱桃](../cherry-pickup/README.md)
+- [不同路径](../0062/README.md)
+- [最小路径和](../0064/README.md)
+- [摘樱桃](../0741/README.md)

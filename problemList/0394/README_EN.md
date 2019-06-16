@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0394. Decode String](https://leetcode-cn.com/problems/decode-string/)
 ## Description
 <p>
@@ -25,5 +25,6 @@ s = "2[abc]3[cd]ef", return "abcabccdcdcdef".
 - [Stack](https://leetcode-cn.com/tag/stack)
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 ## Similar Questions
-- [Encode String with Shortest Length](../encode-string-with-shortest-length/README_EN.md)
-- [Number of Atoms](../number-of-atoms/README_EN.md)
+- [Encode String with Shortest Length](../0471/README_EN.md)
+- [Number of Atoms](../0726/README_EN.md)
+- [Permutation of Letters](../None/README_EN.md)

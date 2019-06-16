@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0761. 特殊的二进制序列](https://leetcode-cn.com/problems/special-binary-string/)
 ## 题目描述
 <p>特殊的二进制序列是具有以下两个性质的二进制序列：</p>
@@ -34,4 +34,4 @@
 - [递归](https://leetcode-cn.com/tag/recursion)
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [有效的括号字符串](../valid-parenthesis-string/README.md)
+- [有效的括号字符串](../0678/README.md)

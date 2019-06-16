@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0724. 寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/)
 ## 题目描述
 <p>给定一个整数类型的数组&nbsp;<code>nums</code>，请编写一个能够返回数组<strong>&ldquo;中心索引&rdquo;</strong>的方法。</p>
@@ -38,4 +38,4 @@ nums = [1, 2, 3]
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [和为K的子数组](../subarray-sum-equals-k/README.md)
+- [和为K的子数组](../0560/README.md)

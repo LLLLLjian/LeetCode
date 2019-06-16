@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0202. Happy Number](https://leetcode-cn.com/problems/happy-number/)
 ## Description
 <p>Write an algorithm to determine if a number is &quot;happy&quot;.</p>
@@ -21,6 +21,6 @@
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Linked List Cycle](../linked-list-cycle/README_EN.md)
-- [Add Digits](../add-digits/README_EN.md)
-- [Ugly Number](../ugly-number/README_EN.md)
+- [Linked List Cycle](../0141/README_EN.md)
+- [Add Digits](../0258/README_EN.md)
+- [Ugly Number](../0263/README_EN.md)

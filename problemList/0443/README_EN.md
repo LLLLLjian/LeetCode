@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0443. String Compression](https://leetcode-cn.com/problems/string-compression/)
 ## Description
 <p>Given an array of characters, compress it <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><b>in-place</b></a>.</p>
@@ -71,6 +71,6 @@ Notice each digit has it&#39;s own entry in the array.
 ## Related Topics
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Count and Say](../count-and-say/README_EN.md)
-- [Encode and Decode Strings](../encode-and-decode-strings/README_EN.md)
-- [Design Compressed String Iterator](../design-compressed-string-iterator/README_EN.md)
+- [Count and Say](../0038/README_EN.md)
+- [Encode and Decode Strings](../0271/README_EN.md)
+- [Design Compressed String Iterator](../0604/README_EN.md)

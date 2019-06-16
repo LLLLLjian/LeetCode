@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
 ## 题目描述
 <p>根据每日 <code>气温</code> 列表，请重新生成一个列表，对应位置的输入是你需要再等待多久温度才会升高的天数。如果之后都不会升高，请输入&nbsp;<code>0</code> 来代替。</p>
@@ -12,4 +12,4 @@
 - [栈](https://leetcode-cn.com/tag/stack)
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [下一个更大元素 I](../next-greater-element-i/README.md)
+- [下一个更大元素 I](../0496/README.md)

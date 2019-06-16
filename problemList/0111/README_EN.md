@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0111. Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
 ## Description
 <p>Given a binary tree, find its minimum depth.</p>
@@ -26,5 +26,5 @@
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 - [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search)
 ## Similar Questions
-- [Binary Tree Level Order Traversal](../binary-tree-level-order-traversal/README_EN.md)
-- [Maximum Depth of Binary Tree](../maximum-depth-of-binary-tree/README_EN.md)
+- [Binary Tree Level Order Traversal](../0102/README_EN.md)
+- [Maximum Depth of Binary Tree](../0104/README_EN.md)

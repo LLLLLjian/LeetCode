@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0572. Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)
 ## Description
 <p>
@@ -48,5 +48,5 @@ Return <b>false</b>.
 ## Related Topics
 - [Tree](https://leetcode-cn.com/tag/tree)
 ## Similar Questions
-- [Count Univalue Subtrees](../count-univalue-subtrees/README_EN.md)
-- [Most Frequent Subtree Sum](../most-frequent-subtree-sum/README_EN.md)
+- [Count Univalue Subtrees](../0250/README_EN.md)
+- [Most Frequent Subtree Sum](../0508/README_EN.md)

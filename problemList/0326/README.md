@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0326. 3的幂](https://leetcode-cn.com/problems/power-of-three/)
 ## 题目描述
 <p>给定一个整数，写一个函数来判断它是否是 3&nbsp;的幂次方。</p>
@@ -31,5 +31,5 @@
 ## 相关话题
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [2的幂](../power-of-two/README.md)
-- [4的幂](../power-of-four/README.md)
+- [2的幂](../0231/README.md)
+- [4的幂](../0342/README.md)

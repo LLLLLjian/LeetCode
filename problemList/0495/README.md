@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0495. 提莫攻击](https://leetcode-cn.com/problems/teemo-attacking/)
 ## 题目描述
 <p>在《英雄联盟》的世界中，有一个叫 &ldquo;提莫&rdquo; 的英雄，他的攻击可以让敌方英雄艾希（编者注：寒冰射手）进入中毒状态。现在，给出提莫对艾希的攻击时间序列和提莫攻击的中毒持续时间，你需要输出艾希的中毒状态总时长。</p>
@@ -35,6 +35,6 @@
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [合并区间](../merge-intervals/README.md)
-- [种花问题](../can-place-flowers/README.md)
-- [Dota2 参议院](../dota2-senate/README.md)
+- [合并区间](../0056/README.md)
+- [种花问题](../0605/README.md)
+- [Dota2 参议院](../0649/README.md)

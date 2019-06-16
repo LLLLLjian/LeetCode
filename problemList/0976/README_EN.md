@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0976. Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/)
 ## Description
 <p>Given an array <code>A</code> of positive lengths, return the largest perimeter of a triangle with <strong>non-zero area</strong>, formed from 3 of these lengths.</p>
@@ -59,4 +59,4 @@
 - [Sort](https://leetcode-cn.com/tag/sort)
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Largest Triangle Area](../largest-triangle-area/README_EN.md)
+- [Largest Triangle Area](../0812/README_EN.md)

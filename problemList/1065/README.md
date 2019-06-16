@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [1065. 字符串的索引对](https://leetcode-cn.com/problems/index-pairs-of-a-string/)
 ## 题目描述
 None

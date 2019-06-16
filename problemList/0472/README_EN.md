@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0472. Concatenated Words](https://leetcode-cn.com/problems/concatenated-words/)
 ## Description
 Given a list of words (<b>without duplicates</b>), please write a program that returns all concatenated words in the given list of words.
@@ -28,4 +28,4 @@ Given a list of words (<b>without duplicates</b>), please write a program that r
 - [Trie](https://leetcode-cn.com/tag/trie)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Word Break II](../word-break-ii/README_EN.md)
+- [Word Break II](../0140/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0979. Distribute Coins in Binary Tree](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree/)
 ## Description
 <p>Given the <code>root</code> of a binary tree with <code>N</code> nodes, each <code>node</code>&nbsp;in the tree has <code>node.val</code> coins, and there are <code>N</code> coins total.</p>
@@ -68,5 +68,5 @@
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 ## Similar Questions
-- [Sum of Distances in Tree](../sum-of-distances-in-tree/README_EN.md)
-- [Binary Tree Cameras](../binary-tree-cameras/README_EN.md)
+- [Sum of Distances in Tree](../0834/README_EN.md)
+- [Binary Tree Cameras](../0968/README_EN.md)

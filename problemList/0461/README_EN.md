@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0461. Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/)
 ## Description
 <p>The <a href="https://en.wikipedia.org/wiki/Hamming_distance" target="_blank">Hamming distance</a> between two integers is the number of positions at which the corresponding bits are different.</p>
@@ -27,5 +27,5 @@ The above arrows point to positions where the corresponding bits are different.
 ## Related Topics
 - [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)
 ## Similar Questions
-- [Number of 1 Bits](../number-of-1-bits/README_EN.md)
-- [Total Hamming Distance](../total-hamming-distance/README_EN.md)
+- [Number of 1 Bits](../0191/README_EN.md)
+- [Total Hamming Distance](../0477/README_EN.md)

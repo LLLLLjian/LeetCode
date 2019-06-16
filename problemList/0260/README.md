@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0260. 只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)
 ## 题目描述
 <p>给定一个整数数组&nbsp;<code>nums</code>，其中恰好有两个元素只出现一次，其余所有元素均出现两次。 找出只出现一次的那两个元素。</p>
@@ -19,5 +19,5 @@
 ## 相关话题
 - [位运算](https://leetcode-cn.com/tag/bit-manipulation)
 ## 相似题目
-- [只出现一次的数字](../single-number/README.md)
-- [只出现一次的数字 II](../single-number-ii/README.md)
+- [只出现一次的数字](../0136/README.md)
+- [只出现一次的数字 II](../0137/README.md)

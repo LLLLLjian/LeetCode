@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0091. 解码方法](https://leetcode-cn.com/problems/decode-ways/)
 ## 题目描述
 <p>一条包含字母&nbsp;<code>A-Z</code> 的消息通过以下方式进行了编码：</p>
@@ -30,4 +30,4 @@
 - [字符串](https://leetcode-cn.com/tag/string)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [解码方法 2](../decode-ways-ii/README.md)
+- [解码方法 2](../0639/README.md)

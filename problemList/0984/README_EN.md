@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0984. String Without AAA or BBB](https://leetcode-cn.com/problems/string-without-aaa-or-bbb/)
 ## Description
 <p>Given two integers <code>A</code> and <code>B</code>, return <strong>any</strong> string <code>S</code> such that:</p>

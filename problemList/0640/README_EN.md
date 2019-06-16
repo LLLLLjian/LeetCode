@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0640. Solve the Equation](https://leetcode-cn.com/problems/solve-the-equation/)
 ## Description
 <p>
@@ -53,4 +53,4 @@ If there is exactly one solution for the equation, we ensure that the value of <
 ## Related Topics
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Fraction Addition and Subtraction](../fraction-addition-and-subtraction/README_EN.md)
+- [Fraction Addition and Subtraction](../0592/README_EN.md)

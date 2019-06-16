@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/)
 ## 题目描述
 <p>给定长度为&nbsp;<em>n</em>&nbsp;的整数数组&nbsp;<code>nums</code>，其中&nbsp;<em>n</em> &gt; 1，返回输出数组&nbsp;<code>output</code>&nbsp;，其中 <code>output[i]</code>&nbsp;等于&nbsp;<code>nums</code>&nbsp;中除&nbsp;<code>nums[i]</code>&nbsp;之外其余各元素的乘积。</p>
@@ -17,6 +17,6 @@
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [接雨水](../trapping-rain-water/README.md)
-- [乘积最大子序列](../maximum-product-subarray/README.md)
-- [粉刷房子 II](../paint-house-ii/README.md)
+- [接雨水](../0042/README.md)
+- [乘积最大子序列](../0152/README.md)
+- [粉刷房子 II](../0265/README.md)

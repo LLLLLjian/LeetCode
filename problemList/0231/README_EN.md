@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0231. Power of Two](https://leetcode-cn.com/problems/power-of-two/)
 ## Description
 <p>Given an integer, write a function to determine if it is a power of two.</p>
@@ -29,6 +29,6 @@
 - [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Number of 1 Bits](../number-of-1-bits/README_EN.md)
-- [Power of Three](../power-of-three/README_EN.md)
-- [Power of Four](../power-of-four/README_EN.md)
+- [Number of 1 Bits](../0191/README_EN.md)
+- [Power of Three](../0326/README_EN.md)
+- [Power of Four](../0342/README_EN.md)

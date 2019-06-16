@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0121. Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 ## Description
 <p>Say you have an array for which the <em>i</em><sup>th</sup> element is the price of a given stock on day <em>i</em>.</p>
@@ -29,8 +29,8 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Maximum Subarray](../maximum-subarray/README_EN.md)
-- [Best Time to Buy and Sell Stock II](../best-time-to-buy-and-sell-stock-ii/README_EN.md)
-- [Best Time to Buy and Sell Stock III](../best-time-to-buy-and-sell-stock-iii/README_EN.md)
-- [Best Time to Buy and Sell Stock IV](../best-time-to-buy-and-sell-stock-iv/README_EN.md)
-- [Best Time to Buy and Sell Stock with Cooldown](../best-time-to-buy-and-sell-stock-with-cooldown/README_EN.md)
+- [Maximum Subarray](../0053/README_EN.md)
+- [Best Time to Buy and Sell Stock II](../0122/README_EN.md)
+- [Best Time to Buy and Sell Stock III](../0123/README_EN.md)
+- [Best Time to Buy and Sell Stock IV](../0188/README_EN.md)
+- [Best Time to Buy and Sell Stock with Cooldown](../0309/README_EN.md)

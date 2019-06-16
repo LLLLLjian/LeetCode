@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)
 ## 题目描述
 <p>给定一个非负整数&nbsp;<strong>num</strong>。对于&nbsp;<strong>0 &le; i &le; num </strong>范围中的每个数字&nbsp;<strong>i&nbsp;</strong>，计算其二进制数中的 1 的数目并将它们作为数组返回。</p>
@@ -26,4 +26,4 @@
 - [位运算](https://leetcode-cn.com/tag/bit-manipulation)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [位1的个数](../number-of-1-bits/README.md)
+- [位1的个数](../0191/README.md)

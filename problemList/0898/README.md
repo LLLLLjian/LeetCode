@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0898. 子数组按位或操作](https://leetcode-cn.com/problems/bitwise-ors-of-subarrays/)
 ## 题目描述
 <p>我们有一个非负整数数组&nbsp;<code>A</code>。</p>

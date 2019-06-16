@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0020. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
 ## 题目描述
 <p>给定一个只包括 <code>&#39;(&#39;</code>，<code>&#39;)&#39;</code>，<code>&#39;{&#39;</code>，<code>&#39;}&#39;</code>，<code>&#39;[&#39;</code>，<code>&#39;]&#39;</code>&nbsp;的字符串，判断字符串是否有效。</p>
@@ -46,7 +46,7 @@
 - [栈](https://leetcode-cn.com/tag/stack)
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [括号生成](../generate-parentheses/README.md)
-- [最长有效括号](../longest-valid-parentheses/README.md)
-- [删除无效的括号](../remove-invalid-parentheses/README.md)
-- [检查替换后的词是否有效](../check-if-word-is-valid-after-substitutions/README.md)
+- [括号生成](../0022/README.md)
+- [最长有效括号](../0032/README.md)
+- [删除无效的括号](../0301/README.md)
+- [检查替换后的词是否有效](../1003/README.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0406. 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)
 ## 题目描述
 <p>假设有打乱顺序的一群人站成一个队列。 每个人由一个整数对<code>(h, k)</code>表示，其中<code>h</code>是这个人的身高，<code>k</code>是排在这个人前面且身高大于或等于<code>h</code>的人数。 编写一个算法来重建这个队列。</p>
@@ -20,4 +20,4 @@
 ## 相关话题
 - [贪心算法](https://leetcode-cn.com/tag/greedy)
 ## 相似题目
-- [计算右侧小于当前元素的个数](../count-of-smaller-numbers-after-self/README.md)
+- [计算右侧小于当前元素的个数](../0315/README.md)

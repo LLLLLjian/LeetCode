@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0495. Teemo Attacking](https://leetcode-cn.com/problems/teemo-attacking/)
 ## Description
 <p>In LOL world, there is a hero called Teemo and his attacking can make his enemy Ashe be in poisoned condition. Now, given the Teemo&#39;s attacking <b>ascending</b> time series towards Ashe and the poisoning time duration per Teemo&#39;s attacking, you need to output the total time that Ashe is in poisoned condition.</p>
@@ -45,6 +45,6 @@ So you finally need to output 3.
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Merge Intervals](../merge-intervals/README_EN.md)
-- [Can Place Flowers](../can-place-flowers/README_EN.md)
-- [Dota2 Senate](../dota2-senate/README_EN.md)
+- [Merge Intervals](../0056/README_EN.md)
+- [Can Place Flowers](../0605/README_EN.md)
+- [Dota2 Senate](../0649/README_EN.md)

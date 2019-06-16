@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0151. Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
 ## Description
 <p>Given an input string, reverse the string word by word.</p>
@@ -47,4 +47,4 @@
 ## Related Topics
 - [String](https://leetcode-cn.com/tag/string)
 ## Similar Questions
-- [Reverse Words in a String II](../reverse-words-in-a-string-ii/README_EN.md)
+- [Reverse Words in a String II](../0186/README_EN.md)

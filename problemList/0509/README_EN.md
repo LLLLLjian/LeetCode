@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0509. Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)
 ## Description
 <p>The&nbsp;<b>Fibonacci numbers</b>, commonly denoted&nbsp;<code>F(n)</code>&nbsp;form a sequence, called the&nbsp;<b>Fibonacci sequence</b>, such that each number is the sum of the two preceding ones, starting from <code>0</code> and <code>1</code>. That is,</p>
@@ -46,6 +46,6 @@ F(N) = F(N - 1) + F(N - 2), for N &gt; 1.
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Climbing Stairs](../climbing-stairs/README_EN.md)
-- [Split Array into Fibonacci Sequence](../split-array-into-fibonacci-sequence/README_EN.md)
-- [Length of Longest Fibonacci Subsequence](../length-of-longest-fibonacci-subsequence/README_EN.md)
+- [Climbing Stairs](../0070/README_EN.md)
+- [Split Array into Fibonacci Sequence](../0842/README_EN.md)
+- [Length of Longest Fibonacci Subsequence](../0873/README_EN.md)

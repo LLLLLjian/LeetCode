@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0994. Rotting Oranges](https://leetcode-cn.com/problems/rotting-oranges/)
 ## Description
 <p>In a given grid, each cell can have one of three&nbsp;values:</p>
@@ -59,4 +59,4 @@
 ## Related Topics
 - [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search)
 ## Similar Questions
-- [Walls and Gates](../walls-and-gates/README_EN.md)
+- [Walls and Gates](../0286/README_EN.md)

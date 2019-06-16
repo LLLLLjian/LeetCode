@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0064. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
 ## 题目描述
 <p>给定一个包含非负整数的 <em>m</em>&nbsp;x&nbsp;<em>n</em>&nbsp;网格，请找出一条从左上角到右下角的路径，使得路径上的数字总和为最小。</p>
@@ -22,6 +22,6 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [不同路径](../unique-paths/README.md)
-- [地下城游戏](../dungeon-game/README.md)
-- [摘樱桃](../cherry-pickup/README.md)
+- [不同路径](../0062/README.md)
+- [地下城游戏](../0174/README.md)
+- [摘樱桃](../0741/README.md)

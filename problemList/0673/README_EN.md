@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0673. Number of Longest Increasing Subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)
 ## Description
 <p>
@@ -28,5 +28,5 @@ Length of the given array will be not exceed 2000 and the answer is guaranteed t
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Longest Increasing Subsequence](../longest-increasing-subsequence/README_EN.md)
-- [Longest Continuous Increasing Subsequence](../longest-continuous-increasing-subsequence/README_EN.md)
+- [Longest Increasing Subsequence](../0300/README_EN.md)
+- [Longest Continuous Increasing Subsequence](../0674/README_EN.md)

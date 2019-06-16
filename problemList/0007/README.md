@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0007. 整数反转](https://leetcode-cn.com/problems/reverse-integer/)
 ## 题目描述
 <p>给出一个 32 位的有符号整数，你需要将这个整数中每位上的数字进行反转。</p>
@@ -29,5 +29,5 @@
 ## 相关话题
 - [数学](https://leetcode-cn.com/tag/math)
 ## 相似题目
-- [字符串转换整数 (atoi)](../string-to-integer-atoi/README.md)
-- [颠倒二进制位](../reverse-bits/README.md)
+- [字符串转换整数 (atoi)](../0008/README.md)
+- [颠倒二进制位](../0190/README.md)

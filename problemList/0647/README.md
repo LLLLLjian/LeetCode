@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0647. 回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)
 ## 题目描述
 <p>给定一个字符串，你的任务是计算这个字符串中有多少个回文子串。</p>
@@ -32,6 +32,6 @@
 - [字符串](https://leetcode-cn.com/tag/string)
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [最长回文子串](../longest-palindromic-substring/README.md)
-- [最长回文子序列](../longest-palindromic-subsequence/README.md)
-- [回文子串](../palindromic-substrings/README.md)
+- [最长回文子串](../0005/README.md)
+- [最长回文子序列](../0516/README.md)
+- [回文子串](../0647/README.md)

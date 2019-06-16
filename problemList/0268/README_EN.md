@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0268. Missing Number](https://leetcode-cn.com/problems/missing-number/)
 ## Description
 <p>Given an array containing <i>n</i> distinct numbers taken from <code>0, 1, 2, ..., n</code>, find the one that is missing from the array.</p>
@@ -25,7 +25,7 @@ Your algorithm should run in linear runtime complexity. Could you implement it u
 - [Array](https://leetcode-cn.com/tag/array)
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [First Missing Positive](../first-missing-positive/README_EN.md)
-- [Single Number](../single-number/README_EN.md)
-- [Find the Duplicate Number](../find-the-duplicate-number/README_EN.md)
-- [Couples Holding Hands](../couples-holding-hands/README_EN.md)
+- [First Missing Positive](../0041/README_EN.md)
+- [Single Number](../0136/README_EN.md)
+- [Find the Duplicate Number](../0287/README_EN.md)
+- [Couples Holding Hands](../0765/README_EN.md)

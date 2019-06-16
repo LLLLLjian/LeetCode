@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0382. Linked List Random Node](https://leetcode-cn.com/problems/linked-list-random-node/)
 ## Description
 <p>Given a singly linked list, return a random node's value from the linked list. Each node must have the <b>same probability</b> of being chosen.</p>
@@ -23,4 +23,4 @@ solution.getRandom();
 ## Related Topics
 - [Reservoir Sampling](https://leetcode-cn.com/tag/reservoir-sampling)
 ## Similar Questions
-- [Random Pick Index](../random-pick-index/README_EN.md)
+- [Random Pick Index](../0398/README_EN.md)

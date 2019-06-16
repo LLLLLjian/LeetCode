@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0485. Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)
 ## Description
 <p>Given a binary array, find the maximum number of consecutive 1s in this array.</p>
@@ -22,5 +22,5 @@
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Max Consecutive Ones II](../max-consecutive-ones-ii/README_EN.md)
-- [Max Consecutive Ones III](../max-consecutive-ones-iii/README_EN.md)
+- [Max Consecutive Ones II](../0487/README_EN.md)
+- [Max Consecutive Ones III](../1004/README_EN.md)

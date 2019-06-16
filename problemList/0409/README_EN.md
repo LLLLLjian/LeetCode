@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0409. Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/)
 ## Description
 <p>Given a string which consists of lowercase or uppercase letters, find the length of the longest palindromes that can be built with those letters.</p>
@@ -25,4 +25,4 @@ One longest palindrome that can be built is "dccaccd", whose length is 7.
 ## Related Topics
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Palindrome Permutation](../palindrome-permutation/README_EN.md)
+- [Palindrome Permutation](../0266/README_EN.md)

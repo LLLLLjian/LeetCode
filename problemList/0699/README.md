@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0699. 掉落的方块](https://leetcode-cn.com/problems/falling-squares/)
 ## 题目描述
 <p>在无限长的数轴（即 x 轴）上，我们根据给定的顺序放置对应的正方形方块。</p>
@@ -77,4 +77,4 @@ _aa___a
 - [线段树](https://leetcode-cn.com/tag/segment-tree)
 - [None](https://leetcode-cn.com/tag/ordered-map)
 ## 相似题目
-- [天际线问题](../the-skyline-problem/README.md)
+- [天际线问题](../0218/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0137. Single Number II](https://leetcode-cn.com/problems/single-number-ii/)
 ## Description
 <p>Given a <strong>non-empty</strong>&nbsp;array of integers, every element appears <em>three</em> times except for one, which appears exactly once. Find that single one.</p>
@@ -24,5 +24,5 @@
 ## Related Topics
 - [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation)
 ## Similar Questions
-- [Single Number](../single-number/README_EN.md)
-- [Single Number III](../single-number-iii/README_EN.md)
+- [Single Number](../0136/README_EN.md)
+- [Single Number III](../0260/README_EN.md)

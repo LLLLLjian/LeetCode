@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0330. 按要求补齐数组](https://leetcode-cn.com/problems/patching-array/)
 ## 题目描述
 <p>给定一个已排序的正整数数组 <em>nums，</em>和一个正整数&nbsp;<em>n 。</em>从&nbsp;<code>[1, n]</code>&nbsp;区间内选取任意个数字补充到&nbsp;<em>nums&nbsp;</em>中，使得&nbsp;<code>[1, n]</code>&nbsp;区间内的任何数字都可以用&nbsp;<em>nums&nbsp;</em>中某几个数字的和来表示。请输出满足上述要求的最少需要补充的数字个数。</p>

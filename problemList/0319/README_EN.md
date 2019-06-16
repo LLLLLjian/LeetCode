@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0319. Bulb Switcher](https://leetcode-cn.com/problems/bulb-switcher/)
 ## Description
 <p>There are <i>n</i> bulbs that are initially off. You first turn on all the bulbs. Then, you turn off every second bulb. On the third round, you toggle every third bulb (turning on if it&#39;s off or turning off if it&#39;s on). For the <i>i</i>-th round, you toggle every <i>i</i> bulb. For the <i>n</i>-th round, you only toggle the last bulb. Find how many bulbs are on after <i>n</i> rounds.</p>
@@ -22,5 +22,5 @@ So you should return 1, because there is only one bulb is on.
 - [Brainteaser](https://leetcode-cn.com/tag/brainteaser)
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Bulb Switcher II](../bulb-switcher-ii/README_EN.md)
-- [Minimum Number of K Consecutive Bit Flips](../minimum-number-of-k-consecutive-bit-flips/README_EN.md)
+- [Bulb Switcher II](../0672/README_EN.md)
+- [Minimum Number of K Consecutive Bit Flips](../0995/README_EN.md)

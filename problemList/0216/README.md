@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/)
 ## 题目描述
 <p>找出所有相加之和为&nbsp;<em><strong>n</strong> </em>的&nbsp;<strong><em>k&nbsp;</em></strong>个数的组合<strong><em>。</em></strong>组合中只允许含有 1 -&nbsp;9 的正整数，并且每种组合中不存在重复的数字。</p>
@@ -27,4 +27,4 @@
 - [数组](https://leetcode-cn.com/tag/array)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [组合总和](../combination-sum/README.md)
+- [组合总和](../0039/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0516. Longest Palindromic Subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)
 ## Description
 <p>
@@ -32,6 +32,6 @@ One possible longest palindromic subsequence is "bb".
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Longest Palindromic Substring](../longest-palindromic-substring/README_EN.md)
-- [Palindromic Substrings](../palindromic-substrings/README_EN.md)
-- [Count Different Palindromic Subsequences](../count-different-palindromic-subsequences/README_EN.md)
+- [Longest Palindromic Substring](../0005/README_EN.md)
+- [Palindromic Substrings](../0647/README_EN.md)
+- [Count Different Palindromic Subsequences](../0730/README_EN.md)

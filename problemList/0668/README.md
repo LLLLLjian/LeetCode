@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0668. 乘法表中第k小的数](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table/)
 ## 题目描述
 <p>几乎每一个人都用&nbsp;<a href="https://baike.baidu.com/item/%E4%B9%98%E6%B3%95%E8%A1%A8">乘法表</a>。但是你能在乘法表中快速找到第<code>k</code>小的数字吗？</p>
@@ -43,6 +43,6 @@
 ## 相关话题
 - [二分查找](https://leetcode-cn.com/tag/binary-search)
 ## 相似题目
-- [有序矩阵中第K小的元素](../kth-smallest-element-in-a-sorted-matrix/README.md)
-- [找出第 k 小的距离对](../find-k-th-smallest-pair-distance/README.md)
-- [第 K 个最小的素数分数](../k-th-smallest-prime-fraction/README.md)
+- [有序矩阵中第K小的元素](../0378/README.md)
+- [找出第 k 小的距离对](../0719/README.md)
+- [第 K 个最小的素数分数](../0786/README.md)

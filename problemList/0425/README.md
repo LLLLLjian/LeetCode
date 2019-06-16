@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0425. 单词方块](https://leetcode-cn.com/problems/word-squares/)
 ## 题目描述
 None
@@ -7,4 +7,4 @@ None
 - [字典树](https://leetcode-cn.com/tag/trie)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [有效的单词方块](../valid-word-square/README.md)
+- [有效的单词方块](../0422/README.md)

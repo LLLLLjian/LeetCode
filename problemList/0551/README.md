@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0551. 学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i/)
 ## 题目描述
 <p>给定一个字符串来代表一个学生的出勤记录，这个记录仅包含以下三个字符：</p>
@@ -29,4 +29,4 @@
 ## 相关话题
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [学生出勤记录 II](../student-attendance-record-ii/README.md)
+- [学生出勤记录 II](../0552/README.md)

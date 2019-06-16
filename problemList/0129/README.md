@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0129. 求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)
 ## 题目描述
 <p>给定一个二叉树，它的每个结点都存放一个&nbsp;<code>0-9</code>&nbsp;的数字，每条从根到叶子节点的路径都代表一个数字。</p>
@@ -41,6 +41,6 @@
 - [树](https://leetcode-cn.com/tag/tree)
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 ## 相似题目
-- [路径总和](../path-sum/README.md)
-- [二叉树中的最大路径和](../binary-tree-maximum-path-sum/README.md)
-- [从叶结点开始的最小字符串](../smallest-string-starting-from-leaf/README.md)
+- [路径总和](../0112/README.md)
+- [二叉树中的最大路径和](../0124/README.md)
+- [从叶结点开始的最小字符串](../0988/README.md)

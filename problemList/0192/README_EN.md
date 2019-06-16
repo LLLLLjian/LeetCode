@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0192. Word Frequency](https://leetcode-cn.com/problems/word-frequency/)
 ## Description
 <p>Write a bash script to calculate the frequency of each word in a text file <code>words.txt</code>.</p>
@@ -40,4 +40,4 @@ day 1
 ## Related Topics
 
 ## Similar Questions
-- [Top K Frequent Elements](../top-k-frequent-elements/README_EN.md)
+- [Top K Frequent Elements](../0347/README_EN.md)

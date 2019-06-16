@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0606. 根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)
 ## 题目描述
 <p>你需要采用前序遍历的方式，将一个二叉树转换成一个由括号和整数组成的字符串。</p>
@@ -43,5 +43,5 @@
 - [树](https://leetcode-cn.com/tag/tree)
 - [字符串](https://leetcode-cn.com/tag/string)
 ## 相似题目
-- [从字符串生成二叉树](../construct-binary-tree-from-string/README.md)
-- [寻找重复的子树](../find-duplicate-subtrees/README.md)
+- [从字符串生成二叉树](../0536/README.md)
+- [寻找重复的子树](../0652/README.md)

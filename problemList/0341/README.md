@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
 ## 题目描述
 <p>给定一个嵌套的整型列表。设计一个迭代器，使其能够遍历这个整型列表中的所有整数。</p>
@@ -23,7 +23,7 @@
 - [栈](https://leetcode-cn.com/tag/stack)
 - [设计](https://leetcode-cn.com/tag/design)
 ## 相似题目
-- [展开二维向量](../flatten-2d-vector/README.md)
-- [锯齿迭代器](../zigzag-iterator/README.md)
-- [迷你语法分析器](../mini-parser/README.md)
-- [数组嵌套](../array-nesting/README.md)
+- [展开二维向量](../0251/README.md)
+- [锯齿迭代器](../0281/README.md)
+- [迷你语法分析器](../0385/README.md)
+- [数组嵌套](../0565/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0122. Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
 ## Description
 <p>Say you have an array for which the <em>i</em><sup>th</sup> element is the price of a given stock on day <em>i</em>.</p>
@@ -38,8 +38,8 @@
 - [Greedy](https://leetcode-cn.com/tag/greedy)
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [Best Time to Buy and Sell Stock](../best-time-to-buy-and-sell-stock/README_EN.md)
-- [Best Time to Buy and Sell Stock III](../best-time-to-buy-and-sell-stock-iii/README_EN.md)
-- [Best Time to Buy and Sell Stock IV](../best-time-to-buy-and-sell-stock-iv/README_EN.md)
-- [Best Time to Buy and Sell Stock with Cooldown](../best-time-to-buy-and-sell-stock-with-cooldown/README_EN.md)
-- [Best Time to Buy and Sell Stock with Transaction Fee](../best-time-to-buy-and-sell-stock-with-transaction-fee/README_EN.md)
+- [Best Time to Buy and Sell Stock](../0121/README_EN.md)
+- [Best Time to Buy and Sell Stock III](../0123/README_EN.md)
+- [Best Time to Buy and Sell Stock IV](../0188/README_EN.md)
+- [Best Time to Buy and Sell Stock with Cooldown](../0309/README_EN.md)
+- [Best Time to Buy and Sell Stock with Transaction Fee](../0714/README_EN.md)

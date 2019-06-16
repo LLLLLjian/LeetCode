@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0766. 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/)
 ## 题目描述
 <p>如果一个矩阵的每一方向由左上到右下的对角线上具有相同元素，那么这个矩阵是<em>托普利茨矩阵</em>。</p>
@@ -51,4 +51,4 @@ matrix = [
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [有效的单词方块](../valid-word-square/README.md)
+- [有效的单词方块](../0422/README.md)

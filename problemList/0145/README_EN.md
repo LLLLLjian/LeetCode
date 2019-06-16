@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0145. Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
 ## Description
 <p>Given a binary tree, return the <em>postorder</em> traversal of its nodes&#39; values.</p>
@@ -23,5 +23,5 @@
 - [Stack](https://leetcode-cn.com/tag/stack)
 - [Tree](https://leetcode-cn.com/tag/tree)
 ## Similar Questions
-- [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal/README_EN.md)
-- [N-ary Tree Postorder Traversal](../n-ary-tree-postorder-traversal/README_EN.md)
+- [Binary Tree Inorder Traversal](../0094/README_EN.md)
+- [N-ary Tree Postorder Traversal](../0590/README_EN.md)

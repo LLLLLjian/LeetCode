@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0486. Predict the Winner](https://leetcode-cn.com/problems/predict-the-winner/)
 ## Description
 <p>Given an array of scores that are non-negative integers. Player 1 picks one of the numbers from either end of the array followed by the player 2 and then player 1 and so on. Each time a player picks a number, that number will not be available for the next player. This continues until all the scores have been chosen. The player with the maximum score wins. </p>
@@ -33,4 +33,4 @@
 - [Minimax](https://leetcode-cn.com/tag/minimax)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Can I Win](../can-i-win/README_EN.md)
+- [Can I Win](../0464/README_EN.md)

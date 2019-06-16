@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0721. 账户合并](https://leetcode-cn.com/problems/accounts-merge/)
 ## 题目描述
 <p>给定一个列表 <code>accounts</code>，每个元素 <code>accounts[i]</code>&nbsp;是一个字符串列表，其中第一个元素 <code>accounts[i][0]</code>&nbsp;是&nbsp;<em>名称 (name)</em>，其余元素是 <em>emails </em>表示该帐户的邮箱地址。</p>
@@ -34,6 +34,6 @@ accounts = [[&quot;John&quot;, &quot;johnsmith@mail.com&quot;, &quot;john00@mail
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 - [并查集](https://leetcode-cn.com/tag/union-find)
 ## 相似题目
-- [冗余连接](../redundant-connection/README.md)
-- [句子相似性](../sentence-similarity/README.md)
-- [句子相似性 II](../sentence-similarity-ii/README.md)
+- [冗余连接](../0684/README.md)
+- [句子相似性](../0734/README.md)
+- [句子相似性 II](../0737/README.md)

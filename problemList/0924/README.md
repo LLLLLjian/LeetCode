@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0924. 尽量减少恶意软件的传播](https://leetcode-cn.com/problems/minimize-malware-spread/)
 ## 题目描述
 <p>在节点网络中，只有当 <code>graph[i][j] = 1</code>&nbsp;时，每个节点&nbsp;<code>i</code>&nbsp;能够直接连接到另一个节点 <code>j</code>。</p>

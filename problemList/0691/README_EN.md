@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0691. Stickers to Spell Word](https://leetcode-cn.com/problems/stickers-to-spell-word/)
 ## Description
 <p>
@@ -51,4 +51,4 @@ We can't form the target "basicbasic" from cutting letters from the given sticke
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Ransom Note](../ransom-note/README_EN.md)
+- [Ransom Note](../0383/README_EN.md)

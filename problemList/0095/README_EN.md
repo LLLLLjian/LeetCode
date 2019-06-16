@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0095. Unique Binary Search Trees II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
 ## Description
 <p>Given an integer <em>n</em>, generate all structurally unique <strong>BST&#39;s</strong> (binary search trees) that store values 1 ...&nbsp;<em>n</em>.</p>
@@ -30,5 +30,5 @@ The above output corresponds to the 5 unique BST&#39;s shown below:
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Unique Binary Search Trees](../unique-binary-search-trees/README_EN.md)
-- [Different Ways to Add Parentheses](../different-ways-to-add-parentheses/README_EN.md)
+- [Unique Binary Search Trees](../0096/README_EN.md)
+- [Different Ways to Add Parentheses](../0241/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0732. 我的日程安排表 III](https://leetcode-cn.com/problems/my-calendar-iii/)
 ## 题目描述
 <p>实现一个 <code>MyCalendar</code> 类来存放你的日程安排，你可以一直添加新的日程安排。</p>
@@ -40,5 +40,5 @@ MyCalendarThree.book(25, 55); // returns 3
 - [线段树](https://leetcode-cn.com/tag/segment-tree)
 - [None](https://leetcode-cn.com/tag/ordered-map)
 ## 相似题目
-- [我的日程安排表 I](../my-calendar-i/README.md)
-- [我的日程安排表 II](../my-calendar-ii/README.md)
+- [我的日程安排表 I](../0729/README.md)
+- [我的日程安排表 II](../0731/README.md)

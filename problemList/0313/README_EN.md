@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0313. Super Ugly Number](https://leetcode-cn.com/problems/super-ugly-number/)
 ## Description
 <p>Write a program to find the <code>n<sup>th</sup></code> super ugly number.</p>
@@ -27,4 +27,4 @@
 - [Heap](https://leetcode-cn.com/tag/heap)
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Ugly Number II](../ugly-number-ii/README_EN.md)
+- [Ugly Number II](../0264/README_EN.md)

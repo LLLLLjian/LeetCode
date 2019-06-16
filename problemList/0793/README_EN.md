@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0793. Preimage Size of Factorial Zeroes Function](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function/)
 ## Description
 <p>Let <code>f(x)</code> be the number of zeroes at the end of <code>x!</code>. (Recall that <code>x! = 1 * 2 * 3 * ... * x</code>, and by convention, <code>0! = 1</code>.)</p>
@@ -27,4 +27,4 @@
 ## Related Topics
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Factorial Trailing Zeroes](../factorial-trailing-zeroes/README_EN.md)
+- [Factorial Trailing Zeroes](../0172/README_EN.md)

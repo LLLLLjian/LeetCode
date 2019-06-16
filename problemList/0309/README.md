@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 ## 题目描述
 <p>给定一个整数数组，其中第<em>&nbsp;i</em>&nbsp;个元素代表了第&nbsp;<em>i</em>&nbsp;天的股票价格 。​</p>
@@ -20,5 +20,5 @@
 ## 相关话题
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 ## 相似题目
-- [买卖股票的最佳时机](../best-time-to-buy-and-sell-stock/README.md)
-- [买卖股票的最佳时机 II](../best-time-to-buy-and-sell-stock-ii/README.md)
+- [买卖股票的最佳时机](../0121/README.md)
+- [买卖股票的最佳时机 II](../0122/README.md)

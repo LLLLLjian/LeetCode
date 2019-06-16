@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0600. Non-negative Integers without Consecutive Ones](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/)
 ## Description
 <p>Given a positive integer n, find the number of <b>non-negative</b> integers less than or equal to n, whose binary representations do NOT contain <b>consecutive ones</b>.</p>
@@ -27,6 +27,6 @@ Among them, only integer 3 disobeys the rule (two consecutive ones) and the othe
 ## Related Topics
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [House Robber](../house-robber/README_EN.md)
-- [House Robber II](../house-robber-ii/README_EN.md)
-- [Ones and Zeroes](../ones-and-zeroes/README_EN.md)
+- [House Robber](../0198/README_EN.md)
+- [House Robber II](../0213/README_EN.md)
+- [Ones and Zeroes](../0474/README_EN.md)

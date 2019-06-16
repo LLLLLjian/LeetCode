@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/)
 ## 题目描述
 <p>给定一个<strong>非空</strong>字符串 <em>s</em> 和一个包含<strong>非空</strong>单词列表的字典 <em>wordDict</em>，在字符串中增加空格来构建一个句子，使得句子中所有的单词都在词典中。返回所有这些可能的句子。</p>
@@ -50,5 +50,5 @@ wordDict = [&quot;cats&quot;, &quot;dog&quot;, &quot;sand&quot;, &quot;and&quot;
 - [动态规划](https://leetcode-cn.com/tag/dynamic-programming)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [单词拆分](../word-break/README.md)
-- [连接词](../concatenated-words/README.md)
+- [单词拆分](../0139/README.md)
+- [连接词](../0472/README.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0135. Candy](https://leetcode-cn.com/problems/candy/)
 ## Description
 <p>There are <em>N</em> children standing in a line. Each child is assigned a rating value.</p>

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0481. 神奇字符串](https://leetcode-cn.com/problems/magical-string/)
 ## 题目描述
 <p>神奇的字符串&nbsp;<strong>S&nbsp;</strong>只包含 &#39;1&#39; 和 &#39;2&#39;，并遵守以下规则：</p>

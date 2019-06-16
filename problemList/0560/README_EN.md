@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0560. Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
 ## Description
 <p>Given an array of integers and an integer <b>k</b>, you need to find the total number of continuous subarrays whose sum equals to <b>k</b>.</p>
@@ -22,8 +22,8 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Two Sum](../two-sum/README_EN.md)
-- [Continuous Subarray Sum](../continuous-subarray-sum/README_EN.md)
-- [Subarray Product Less Than K](../subarray-product-less-than-k/README_EN.md)
-- [Find Pivot Index](../find-pivot-index/README_EN.md)
-- [Subarray Sums Divisible by K](../subarray-sums-divisible-by-k/README_EN.md)
+- [Two Sum](../0001/README_EN.md)
+- [Continuous Subarray Sum](../0523/README_EN.md)
+- [Subarray Product Less Than K](../0713/README_EN.md)
+- [Find Pivot Index](../0724/README_EN.md)
+- [Subarray Sums Divisible by K](../0974/README_EN.md)

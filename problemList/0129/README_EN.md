@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0129. Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)
 ## Description
 <p>Given a binary tree containing digits from <code>0-9</code> only, each root-to-leaf path could represent a number.</p>
@@ -43,6 +43,6 @@ Therefore, sum = 495 + 491 + 40 = <code>1026</code>.</pre>
 - [Tree](https://leetcode-cn.com/tag/tree)
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 ## Similar Questions
-- [Path Sum](../path-sum/README_EN.md)
-- [Binary Tree Maximum Path Sum](../binary-tree-maximum-path-sum/README_EN.md)
-- [Smallest String Starting From Leaf](../smallest-string-starting-from-leaf/README_EN.md)
+- [Path Sum](../0112/README_EN.md)
+- [Binary Tree Maximum Path Sum](../0124/README_EN.md)
+- [Smallest String Starting From Leaf](../0988/README_EN.md)

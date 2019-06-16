@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0546. Remove Boxes](https://leetcode-cn.com/problems/remove-boxes/)
 ## Description
 <p>Given several boxes with different colors represented by different positive numbers. <br />
@@ -34,4 +34,4 @@ The number of boxes <code>n</code> would not exceed 100.
 - [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)
 - [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)
 ## Similar Questions
-- [Strange Printer](../strange-printer/README_EN.md)
+- [Strange Printer](../0664/README_EN.md)

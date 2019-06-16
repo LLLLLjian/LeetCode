@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)
 ## 题目描述
 <p>给定一个二叉树，返回所有从根节点到叶子节点的路径。</p>
@@ -24,5 +24,5 @@
 - [树](https://leetcode-cn.com/tag/tree)
 - [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)
 ## 相似题目
-- [路径总和 II](../path-sum-ii/README.md)
-- [从叶结点开始的最小字符串](../smallest-string-starting-from-leaf/README.md)
+- [路径总和 II](../0113/README.md)
+- [从叶结点开始的最小字符串](../0988/README.md)

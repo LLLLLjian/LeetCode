@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0050. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
 ## Description
 <p>Implement <a href="http://www.cplusplus.com/reference/valarray/pow/" target="_blank">pow(<em>x</em>, <em>n</em>)</a>, which calculates&nbsp;<em>x</em> raised to the power <em>n</em> (x<sup><span style="font-size:10.8333px">n</span></sup>).</p>
@@ -37,5 +37,5 @@
 - [Math](https://leetcode-cn.com/tag/math)
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Sqrt(x)](../sqrtx/README_EN.md)
-- [Super Pow](../super-pow/README_EN.md)
+- [Sqrt(x)](../0069/README_EN.md)
+- [Super Pow](../0372/README_EN.md)

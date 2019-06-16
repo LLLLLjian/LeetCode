@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0401. 二进制手表](https://leetcode-cn.com/problems/binary-watch/)
 ## 题目描述
 <p>二进制手表顶部有 4 个 LED 代表<strong>小时（0-11）</strong>，底部的 6 个 LED 代表<strong>分钟（0-59）</strong>。</p>
@@ -32,5 +32,5 @@
 - [位运算](https://leetcode-cn.com/tag/bit-manipulation)
 - [回溯算法](https://leetcode-cn.com/tag/backtracking)
 ## 相似题目
-- [电话号码的字母组合](../letter-combinations-of-a-phone-number/README.md)
-- [位1的个数](../number-of-1-bits/README.md)
+- [电话号码的字母组合](../0017/README.md)
+- [位1的个数](../0191/README.md)

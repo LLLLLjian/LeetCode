@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0350. Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)
 ## Description
 <p>Given two arrays, write a function to compute their intersection.</p>
@@ -40,5 +40,5 @@
 - [Two Pointers](https://leetcode-cn.com/tag/two-pointers)
 - [Binary Search](https://leetcode-cn.com/tag/binary-search)
 ## Similar Questions
-- [Intersection of Two Arrays](../intersection-of-two-arrays/README_EN.md)
-- [Find Common Characters](../find-common-characters/README_EN.md)
+- [Intersection of Two Arrays](../0349/README_EN.md)
+- [Find Common Characters](../1002/README_EN.md)

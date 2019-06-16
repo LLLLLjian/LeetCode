@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0224. Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/)
 ## Description
 <p>Implement a basic calculator to evaluate a simple expression string.</p>
@@ -35,8 +35,8 @@
 - [Stack](https://leetcode-cn.com/tag/stack)
 - [Math](https://leetcode-cn.com/tag/math)
 ## Similar Questions
-- [Evaluate Reverse Polish Notation](../evaluate-reverse-polish-notation/README_EN.md)
-- [Basic Calculator II](../basic-calculator-ii/README_EN.md)
-- [Different Ways to Add Parentheses](../different-ways-to-add-parentheses/README_EN.md)
-- [Expression Add Operators](../expression-add-operators/README_EN.md)
-- [Basic Calculator III](../basic-calculator-iii/README_EN.md)
+- [Evaluate Reverse Polish Notation](../0150/README_EN.md)
+- [Basic Calculator II](../0227/README_EN.md)
+- [Different Ways to Add Parentheses](../0241/README_EN.md)
+- [Expression Add Operators](../0282/README_EN.md)
+- [Basic Calculator III](../0772/README_EN.md)

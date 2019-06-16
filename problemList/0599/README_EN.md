@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0599. Minimum Index Sum of Two Lists](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/)
 ## Description
 <p>
@@ -42,4 +42,4 @@ You need to help them find out their <b>common interest</b> with the <b>least li
 ## Related Topics
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Intersection of Two Linked Lists](../intersection-of-two-linked-lists/README_EN.md)
+- [Intersection of Two Linked Lists](../0160/README_EN.md)

@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0729. My Calendar I](https://leetcode-cn.com/problems/my-calendar-i/)
 ## Description
 <p>Implement a <code>MyCalendar</code> class to store your events. A new event can be added if adding the event will not cause a double booking.</p>
@@ -37,5 +37,5 @@ The third event can be booked, as the first event takes every time less than 20,
 ## Related Topics
 - [Array](https://leetcode-cn.com/tag/array)
 ## Similar Questions
-- [My Calendar II](../my-calendar-ii/README_EN.md)
-- [My Calendar III](../my-calendar-iii/README_EN.md)
+- [My Calendar II](../0731/README_EN.md)
+- [My Calendar III](../0732/README_EN.md)

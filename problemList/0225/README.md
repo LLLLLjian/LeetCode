@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
 ## 题目描述
 <p>使用队列实现栈的下列操作：</p>
@@ -23,4 +23,4 @@
 - [栈](https://leetcode-cn.com/tag/stack)
 - [设计](https://leetcode-cn.com/tag/design)
 ## 相似题目
-- [用栈实现队列](../implement-queue-using-stacks/README.md)
+- [用栈实现队列](../0232/README.md)

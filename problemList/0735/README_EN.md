@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0735. Asteroid Collision](https://leetcode-cn.com/problems/asteroid-collision/)
 ## Description
 <p>
@@ -58,4 +58,4 @@ Asteroids moving the same direction never meet, so no asteroids will meet each o
 ## Related Topics
 - [Stack](https://leetcode-cn.com/tag/stack)
 ## Similar Questions
-- [Can Place Flowers](../can-place-flowers/README_EN.md)
+- [Can Place Flowers](../0605/README_EN.md)

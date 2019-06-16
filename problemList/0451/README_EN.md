@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0451. Sort Characters By Frequency](https://leetcode-cn.com/problems/sort-characters-by-frequency/)
 ## Description
 <p>Given a string, sort it in decreasing order based on the frequency of characters.</p>
@@ -49,5 +49,5 @@ Note that 'A' and 'a' are treated as two different characters.
 - [Heap](https://leetcode-cn.com/tag/heap)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Top K Frequent Elements](../top-k-frequent-elements/README_EN.md)
-- [First Unique Character in a String](../first-unique-character-in-a-string/README_EN.md)
+- [Top K Frequent Elements](../0347/README_EN.md)
+- [First Unique Character in a String](../0387/README_EN.md)

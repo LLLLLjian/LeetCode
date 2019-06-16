@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0898. Bitwise ORs of Subarrays](https://leetcode-cn.com/problems/bitwise-ors-of-subarrays/)
 ## Description
 <p>We have an array <code>A</code> of non-negative integers.</p>

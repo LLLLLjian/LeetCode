@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0690. Employee Importance](https://leetcode-cn.com/problems/employee-importance/)
 ## Description
 <p>You are given a data structure of employee information, which includes the employee&#39;s <b>unique id</b>, his <b>importance value</b> and his <b>direct</b> subordinates&#39; id.</p>
@@ -33,4 +33,4 @@ Employee 1 has importance value 5, and he has two direct subordinates: employee 
 - [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search)
 - [Hash Table](https://leetcode-cn.com/tag/hash-table)
 ## Similar Questions
-- [Nested List Weight Sum](../nested-list-weight-sum/README_EN.md)
+- [Nested List Weight Sum](../0339/README_EN.md)

@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0485. 最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)
 ## 题目描述
 <p>给定一个二进制数组， 计算其中最大连续1的个数。</p>
@@ -22,5 +22,5 @@
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [最大连续1的个数 II](../max-consecutive-ones-ii/README.md)
-- [最大连续1的个数 III](../max-consecutive-ones-iii/README.md)
+- [最大连续1的个数 II](../0487/README.md)
+- [最大连续1的个数 III](../1004/README.md)

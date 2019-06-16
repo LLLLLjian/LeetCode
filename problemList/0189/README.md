@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
 ## 题目描述
 <p>给定一个数组，将数组中的元素向右移动&nbsp;<em>k&nbsp;</em>个位置，其中&nbsp;<em>k&nbsp;</em>是非负数。</p>
@@ -32,5 +32,5 @@
 ## 相关话题
 - [数组](https://leetcode-cn.com/tag/array)
 ## 相似题目
-- [旋转链表](../rotate-list/README.md)
-- [翻转字符串里的单词 II](../reverse-words-in-a-string-ii/README.md)
+- [旋转链表](../0061/README.md)
+- [翻转字符串里的单词 II](../0186/README.md)

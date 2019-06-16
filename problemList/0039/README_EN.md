@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0039. Combination Sum](https://leetcode-cn.com/problems/combination-sum/)
 ## Description
 <p>Given a <strong>set</strong> of candidate numbers (<code>candidates</code>) <strong>(without duplicates)</strong> and a target number (<code>target</code>), find all unique combinations in <code>candidates</code>&nbsp;where the candidate numbers sums to <code>target</code>.</p>
@@ -40,9 +40,9 @@
 - [Array](https://leetcode-cn.com/tag/array)
 - [Backtracking](https://leetcode-cn.com/tag/backtracking)
 ## Similar Questions
-- [Letter Combinations of a Phone Number](../letter-combinations-of-a-phone-number/README_EN.md)
-- [Combination Sum II](../combination-sum-ii/README_EN.md)
-- [Combinations](../combinations/README_EN.md)
-- [Combination Sum III](../combination-sum-iii/README_EN.md)
-- [Factor Combinations](../factor-combinations/README_EN.md)
-- [Combination Sum IV](../combination-sum-iv/README_EN.md)
+- [Letter Combinations of a Phone Number](../0017/README_EN.md)
+- [Combination Sum II](../0040/README_EN.md)
+- [Combinations](../0077/README_EN.md)
+- [Combination Sum III](../0216/README_EN.md)
+- [Factor Combinations](../0254/README_EN.md)
+- [Combination Sum IV](../0377/README_EN.md)

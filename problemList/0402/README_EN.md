@@ -1,5 +1,5 @@
 
-| English | [简体中文](README.md) |
+| English | [简体中文](README.md) | [问题相关](QUESTION.md) |
 # [0402. Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/)
 ## Description
 <p>Given a non-negative integer <i>num</i> represented as a string, remove <i>k</i> digits from the number so that the new number is the smallest possible.
@@ -40,5 +40,5 @@ Explanation: Remove all the digits from the number and it is left with nothing w
 - [Stack](https://leetcode-cn.com/tag/stack)
 - [Greedy](https://leetcode-cn.com/tag/greedy)
 ## Similar Questions
-- [Create Maximum Number](../create-maximum-number/README_EN.md)
-- [Monotone Increasing Digits](../monotone-increasing-digits/README_EN.md)
+- [Create Maximum Number](../0321/README_EN.md)
+- [Monotone Increasing Digits](../0738/README_EN.md)

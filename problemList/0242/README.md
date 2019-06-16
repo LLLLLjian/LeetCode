@@ -1,5 +1,5 @@
 
-| [English](README_EN.md) | 简体中文 |
+| [English](README_EN.md) | 简体中文 | [问题相关](QUESTION.md) |
 # [0242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
 ## 题目描述
 <p>给定两个字符串 <em>s</em> 和 <em>t</em> ，编写一个函数来判断 <em>t</em> 是否是 <em>s</em> 的字母异位词。</p>
@@ -25,6 +25,6 @@
 - [排序](https://leetcode-cn.com/tag/sort)
 - [哈希表](https://leetcode-cn.com/tag/hash-table)
 ## 相似题目
-- [字母异位词分组](../group-anagrams/README.md)
-- [回文排列](../palindrome-permutation/README.md)
-- [找到字符串中所有字母异位词](../find-all-anagrams-in-a-string/README.md)
+- [字母异位词分组](../0049/README.md)
+- [回文排列](../0266/README.md)
+- [找到字符串中所有字母异位词](../0438/README.md)
